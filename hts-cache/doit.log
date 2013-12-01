@@ -1,0 +1,8 @@
+-q -%i -iC2 http://fossasia.org -O "/home/maker/websites/fossasia.org" -n -%P -p7 -N100 -s2 -x -p7 -D -d -K0 -c7 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2008], %s -->" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -en.wikipedia.org/* -de.wikipedia.org/* -*.wikipedia.org/* -*.facebook.com/* -facebook.com/* -facebook.com -*/wordpress.com/* -*.zing.vn/* -*.opera.com/* -*.yahoo.com/* -*debian.org/* -*.theoyeucau.com/* -kakadachheang.wordpress.com/* -%s -%u -k
+File generated automatically on Sun, 01 Dec 2013 09:39:32, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

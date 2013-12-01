@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+web.archive.org	TRUE	/web/20080410233936/http://www.opensourcejahrbuch.de/download/jb2006/chapter_06/osjb2006-06-02-en-moeller.pdf	FALSE	1999999999	wb_total_perf	340
+du-lich.chudu24.com	TRUE	/	FALSE	1999999999	.ASPXANONYMOUS	Cx7teW4kzwEkAAAANDY5ZDdlMzYtMTkzMS00NTk3LWFkMzUtNTU4NTI1MWQ2OTkwR42cRokmbibNuVsVO_8ESJZeMkK6KZ1YTNh0PZl_tPY1
+en.wikipedia.org	TRUE	/	FALSE	1999999999	enwikiSession	ff75a27861295558c89e34163840b39d
+vi.wikipedia.org	TRUE	/	FALSE	1999999999	viwikiSession	cb0a9421478be89cccd053f4a8e2a904
+archive.org	TRUE	/	FALSE	1999999999	wayback_server	81
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	commonswikiSession	ae997419b6467b755ea4906f26e53bd6
+www.free-culture.cc	TRUE	/	FALSE	1999999999	AWSELB	D3E5E9E316529B15AF4BA20990CFDB044C8952AB7A411B40D1A7A8E1E8A9471A101A00005056095DB9AB9E8715481829B1F3FBB3D768D83443E4C180F178DA6D7AF2739ADB
+

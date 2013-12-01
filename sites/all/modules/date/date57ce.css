@@ -1,0 +1,206 @@
+/* Force from/to dates to float using inline-block, where it works, otherwise inline. */
+.container-inline-date {
+  width:auto;
+  clear:both;
+  display: inline-block;
+  vertical-align:top;
+  margin-right: 0.5em; /* LTR */
+}
+.container-inline-date .form-item {
+  float:none;
+  padding:0;
+  margin:0;
+}
+.container-inline-date .form-item .form-item {
+  float: left; /* LTR */
+}
+.container-inline-date .form-item,
+.container-inline-date .form-item input {
+  width:auto;
+}
+.container-inline-date .description {
+  clear: both;
+}
+
+.container-inline-date .form-item input,
+.container-inline-date .form-item select,
+.container-inline-date .form-item option {
+  margin-right: 5px; /* LTR */
+}
+
+.container-inline-date .date-spacer {
+  margin-left: -5px; /* LTR */
+}
+.views-right-60 .container-inline-date div {
+  padding:0;
+  margin:0;
+}
+
+.container-inline-date .date-timezone .form-item {
+  float:none;
+  width:auto;
+  clear:both;
+}
+
+/* Fixes for date popup css so it will behave in Drupal */
+#calendar_div, #calendar_div td, #calendar_div th {
+  margin:0;
+  padding:0;
+}
+#calendar_div,
+.calendar_control,
+.calendar_links,
+.calendar_header,
+.calendar {
+  width: 185px;
+  border-collapse: separate;
+  margin: 0;
+}
+.calendar td {
+  padding: 0;
+}
+
+/* formatting for from/to dates in nodes and views */
+span.date-display-single {
+}
+span.date-display-start {
+}
+span.date-display-end {
+}
+span.date-display-separator {
+}
+
+.date-repeat-input {
+  float: left; /* LTR */
+  width:auto;
+  margin-right: 5px; /* LTR */
+}
+.date-repeat-input select {
+  min-width:7em;
+}
+.date-repeat fieldset {
+  clear:both;
+  float:none;
+}
+
+.date-views-filter-wrapper {
+  min-width:250px;
+}
+.date-views-filter input {
+  float: left !important; /* LTR */
+  margin-right: 2px !important; /* LTR */
+  padding:0 !important;
+  width:12em;
+  min-width:12em;
+}
+
+.date-nav {
+  width:100%;
+}
+.date-nav div.date-prev {
+  text-align: left; /* LTR */
+  width:24%;
+  float: left; /* LTR */
+}
+.date-nav div.date-next {
+  text-align: right; /* LTR */
+  width:24%;
+  float: right; /* LTR */
+}
+.date-nav div.date-heading {
+  text-align:center;
+  width:50%;
+  float: left; /* LTR */
+}
+.date-nav div.date-heading h3 {
+  margin:0;
+  padding:0;
+}
+
+.date-clear {
+  float:none;
+  clear:both;
+  display:block;
+}
+
+.date-clear-block {
+  float:none;
+  width:auto;
+  clear:both;
+}
+
+/*
+ ** Markup free clearing that fixes unwanted scrollbars
+ ** @see http://drupal.org/node/232959
+ */
+ .date-clear-block:after {
+   content: " ";
+   display: block;
+   height: 0;
+   clear: both;
+   visibility: hidden;
+ }
+ .date-clear-block {
+   display: inline-block;
+ }
+ /* Hides from IE-mac \*/
+ * html .date-clear-block {
+   height: 1%;
+ }
+ .date-clear-block {
+   display: block;
+ }
+ /* End hide from IE-mac */
+
+.date-container .date-format-delete {
+  margin-top: 1.8em;
+  margin-left: 1.5em;
+  float: left;
+}
+.date-container .date-format-name {
+  float: left;
+}
+.date-container .date-format-type {
+  float: left;
+  padding-left: 10px;
+}
+
+.date-container .select-container {
+  clear: left;
+  float: left;
+}
+
+/* Calendar day css */
+div.date-calendar-day {
+  line-height: 1;
+  width: 40px;
+  float: left;
+  margin: 6px 10px 0 0;
+  background: #F3F3F3;
+  border-top: 1px solid #eee;
+  border-left: 1px solid #eee;
+  border-right: 1px solid #bbb;
+  border-bottom: 1px solid #bbb;
+  color: #999;
+  text-align: center;
+  font-family: Georgia, Arial, Verdana, sans;
+}
+div.date-calendar-day span {
+  display: block;
+  text-align: center;
+}
+div.date-calendar-day span.month {
+  font-size: .9em;
+  background-color: #B5BEBE;
+  color: white;
+  padding: 2px;
+  text-transform: uppercase;
+}
+div.date-calendar-day span.day {
+  font-weight: bold;
+  font-size: 2em;
+}
+div.date-calendar-day span.year {
+  font-size: .9em;
+  padding: 2px;
+}

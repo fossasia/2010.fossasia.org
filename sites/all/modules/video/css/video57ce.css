@@ -1,0 +1,57 @@
+.filefield-element .filefield-file-info {
+  min-width: 100px;
+  min-height: 100px;
+}
+
+.filefield-element .imagefield-preview {
+  min-width: 100px;
+  min-height: 100px;
+}
+
+.filefield-element .imagefield-text {
+  max-width: 40em; /* Reflect the maxlength of the ALT attribute (80 characters). */
+}
+
+.filefield-element .uploadfield-text {
+  max-width: 40em;
+}
+
+.video-thumbnails {
+  overflow: auto;
+}
+
+.video-thumbnails .form-item {
+  float:left;
+  margin-right:10px;
+  max-width:30%;
+  padding-right:10px;
+}
+
+.video-ffmpeg-helper-inprogress {
+  border: 1px solid red;
+  padding: .5em;
+}
+
+/* override filefield entry */
+.widget-edit {
+  max-width:70%;
+}
+
+.widget-edit .form-item { white-space: normal !important; }
+
+/*
+ * VIDEO OJBECT FIXES CROSS BROWSER
+ */
+* html object.video-object {
+	display: none;
+}
+
+* html object.video-object/**/ {
+	display: inline;
+}
+
+* html object.video-object {
+	display/**/: none;
+}
+ 
+ 
