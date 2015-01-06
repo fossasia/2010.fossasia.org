@@ -16,7 +16,7 @@ The following websites offer searches for accommodation:
 
 If you want to stay in the center after FOSSASIA.
 
-####**Budget Accomodation**
+####**Budget Accommodation**
 
 The main area for budget hotels is Pham Ngu Lao in District 1, just a short walk (10-15 minutes) from Ben Thanh Market. The lanes and alleys in the area between Pham Ngu Lao and Bui Vien are jammed with 5-10 room mini-hotels offering reasonable prices around US$15. Keep heading southwest away from the backpacker hustle closer Ng Thai Hoc, to find quieter rooms and a more friendly atmosphere at same prices.
 
