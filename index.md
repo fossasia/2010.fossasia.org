@@ -8,7 +8,7 @@ layout: default
 
 [FOSSASIA][2] 2010 took place at the [Raffles College][3] campus in Ho Chi Minh City (Saigon), Vietnam from November 12th to 14th. This inaugural event brought together over 350 international and local developers and users in 62 presentations and panels. An amazing crowd of 90 enthusiastic volunteers supported participants. FOSSASIA attendees came from 30 countries including Cambodia, Singapore, Indonesia, Japan, India, Taiwan, Malaysia, Germany, France, England, Australia, and the US.
 
-The goal of FOSSASIA is to provide knowledge of free and open source software and to offer the community a place to meet and share ideas. The annual conference brings together members of the Asian FOSS community along with the international community, thus fostering cooperation across projects and across borders. ****
+The goal of FOSSASIA is to provide knowledge of free and open source software and to offer the community a place to meet and share ideas. The annual conference brings together members of the Asian FOSS community along with the international community, thus fostering cooperation across projects and across borders.
 
 **Special Tracks: Women in IT and Lightweight Computing**
 
@@ -67,7 +67,8 @@ During the final day of the event, FOSSASIA held it's first [Libre Graphics Day]
 **See you in Vietnam**
 
 Thanks again to the amazing crowd at FOSSASIA - developers, translators, event organizers, bloggers, teachers, students, designers and lost but not least our enthusiastic volunteers! See you all in 2011!
-* [FOSSASIA][2] 2011 will take place in Ho Chi Minh City (Saigon) on November 11-12  
+
+* [FOSSASIA][2] 2011 will take place in Ho Chi Minh City (Saigon) on November 11-12
 * The [Open Design Weeks][53] will be celebrated from in Ho Chi Minh City and Can Tho in the Mekong Delta.
 
 ![][55]
