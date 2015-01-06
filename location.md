@@ -15,57 +15,17 @@ Ho Chi Minh City is located at 10°45′N, 106°40′E in the southeastern regio
 
 **Weather data for Ho Chi Minh City**
 
-Month
-
-Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
-
-Average high °C (°F) 32  
-(90) 33  
-(91) 34  
-(93) 34  
-(93) 33  
-(91) 32  
-(90) 31  
-(88) 32  
-(90) 31  
-(88) 31  
-(88) 30  
-(86) 31  
-(88)
-
-Average low °C (°F) 21  
-(70) 22  
-(72) 23  
-(73) 24  
-(75) 25  
-(77) 24  
-(75) 25  
-(77) 24  
-(75) 23  
-(73) 23  
-(73) 22  
-(72) 22  
-(72)
-
-[Precipitation](http://en.wikipedia.org/wiki/Precipitation_%28meteorology%29) mm (inches) 14  
-(0.55) 4  
-(0.16) 12  
-(0.47) 42  
-(1.65) 220  
-(8.66) 331  
-(13.03) 313  
-(12.32) 267  
-(10.51) 334  
-(13.15) 268  
-(10.55) 115  
-(4.53) 56  
-(2.2)
+Data/Month|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec
+---|---|---|---|---|---|---|---|---|---|---|---|---
+Average high °C (°F)|32(90)|33(91)|34(93)|34(93)|33(91)|32(90)|31(88)|32(90)|31(88)|31(88)|30(86)|31(88)
+Average low °C (°F)|21(70)|22(72)|23(73)|24(75)|25(77)|24(75)|25(77)|24(75)|23(73)|23(73)|22(72)|22(72)
+[Precipitation](http://en.wikipedia.org/wiki/Precipitation_%28meteorology%29) mm(inches)|14(0.55)|4(0.16)|12(0.47)|42(1.65)|220(8.66)|331(13.03)|313(12.32)|267(10.51)|334(13.15)|268(10.55)|115(4.53)|56(2.2)
 
  _Source: Embassy of Vietnam, London 2008-02-26_
 
 **Tan Son Nhat** (Tân Sơn Nhất) is Vietnam's largest international airport. There are two terminals: The new international terminal, and a terminal, reserved for domestic flights.
 
-**Airport Bus**is the Bus No. 152, the most cost-efficient way into the city. It will drop you off on the west side of the Pham Ngu Lao area, or at the bus terminal on the south side of the Ben Thanh Market roundabout. The price is 3,000 dong. Upon exiting the airport, turn right and walk towards the domestic airport, about 5 minutes walk, in front of the airport across a small road you will see the bus waiting there.
+**Airport Bus** is the Bus No. 152, the most cost-efficient way into the city. It will drop you off on the west side of the Pham Ngu Lao area, or at the bus terminal on the south side of the Ben Thanh Market roundabout. The price is 3,000 dong. Upon exiting the airport, turn right and walk towards the domestic airport, about 5 minutes walk, in front of the airport across a small road you will see the bus waiting there.
 
 **Taxi**(TSN airport uses a Taxi queue system usually at the left end of the terminal) – Look for the taxi warden usually standing around the queue line (Mai Linh wardens are in green shirt green tie, Vinasun warden are in dark green shirt maroon tie), they will radio the taxi for you. It will cost about 10 USD to district 1. Taxis from the airport to the city center would usually take as little as 15 minutes in lighter traffic (which only happens between 9:00-11:00AM and 2:00-4:00PM). This should cost no more than 90,000VND. The more typical experience is to creep along in near-standstill traffic for 30 minutes or more, at a cost of about 120,000VND to 150,000VND from district 1, inclusive of airport tax.Taxis to go from the Airport to Ben Thanh Market cost about 75,000VND. A company called Sasco has the airport taxi concession, and their cars are the first you will see by the curb. The rivals such as Vinasun and Mai Linh, which can be found waiting in abundance 50 meters away, further out into the parking lot. Whichever taxi you choose, make sure the driver uses the meter.
 
@@ -120,122 +80,115 @@ Saigon has plenty of places to drink, although to a certain degree Vietnamese an
 Vietnamese arts and crafts, or mass-produced resin knock-offs thereof, are sold by dozens of shops around the central tourist district. The best, most expensive items can be mostly found on Dong Khoi or the immediate side streets. The goods tend to get progressively simpler and cheaper as you move west toward Ben Than Market (though the best wood-carving shop is a stall on the back side of Ben Thanh). A few shops have authentic woven silk textiles from Sapa and the north. Lacquered paintings, plates, bowls, etc. are quite striking and unique to Vietnam. Vietnamese propaganda posters can be very impressive and offer a taste of history. When buying keep in mind that is very useful to have local currency (Dong). Be advised that banks and formal exchange businesses will provide you with a decent rate, especially when compared with agencies like Statravel on the main Vui Ban street who will offer much lower rates.
 
 If the heat starts to get you down, there are several water parks where you can splash around to cool off. Visiting hair salons is also a must do for tourists, as Vietnamese are famous for it. Hair wash, manicure and pedicure cost no more than US$10. However, if the salon seems to be staffed exclusively by comely young ladies in tight dresses sitting on display at the window, they may offer more than just haircuts. If you're in Saigon on a Sunday night, then beg, borrow, or rent a two-wheeled vehicle and join the throngs for di choi. It's basically a party on wheels, where everyone just rides through the downtown streets until the wee hours.
-
-| ----- |
-|
+ -----
 
 ![][15]
 
- |
+
 
 ![][16]
 
- |
+
 
 ![][17]
 
- |
+
 
 ![][18]
 
 Quach Thi Trang square and Ben Thanh market
 
- |
-|
+
 
 ![][19]
 
- |
+
 
 ![][20]
 
- |
+
 
 ![][21]
 
 Green field in front of Reunification Palace
 
- |
+
 
 ![][22]
 
 Crossroads Le Loi – Nguyen Hue
 
- |
-|
+
 
 ![][23]
 
- |
+
 
 ![][24]
 
- |
+
 
 ![][25]
 
 Tan Son Nhat, Lang Cha Ca
 
- |
+
 
 ![][26]
 
- |
-|
+
 
 ![][27]
 
 The Manor on Nguyen Huu Canh
 
- |
+
 
 ![][28]
 
- |
+
 
 ![][29]
 
 Ho Chi Minh City from airplane
 
- |
+
 
 ![][30]
 
 Ho Chi Minh City from airplane
 
- |
-|
+
 
 ![][31]
 
 Ho Chi Minh City from airplane
 
- |
+
 
 ![][32]
 
 Ho Chi Minh City from airplane
 
- |
+
 
 ![][33]
 
 Ho Chi Minh City from airplane
 
- |
+
 
 ![][34]
 
 Ho Chi Minh City from airplane
 
- |
-|
+
 
 ![][35]
 
 Louis Vuitton shop in Ho Chi Minh City
 
- |
+
 
 ![][36]
 

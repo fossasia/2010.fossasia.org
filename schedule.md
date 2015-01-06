@@ -6,40 +6,16 @@ layout: default
 
 The main topics of FOSSASIA 2010 are **Lightweight Computing** and **Women in IT**. We also have sessions dedicated to **OpenOffice.org** and will host a Debian **Mini-Debconf**.
 
-**Day** **Time** **Event** **Location**
-
- **Thursday, Nov. 11** 20.00 
- Pre-Meeting  
- 
-The Spotted Cow Bar 111 Bui Vien, dist 1. HCMC(opposite to Happy Inn, closed to Pham Ngu Lao & De Tham) [Google Maps](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=111+Bui+Vien,+Ho+Chi+Minh+City,+Vietnam&sll=37.0625,-95.677068&sspn=27.284961,56.513672&ie=UTF8&hq=&hnear=111+Bui+Vien,+ph%C6%B0%E1%BB%9Dng+Ph%E1%BA%A1m+Ng%C5%A9+L%C3%A3o,+District+1,+Ho+Chi+Minh+City,+Vietnam&ll=10.765331,106.686237&spn=0.008242,0.021973&z=16)
-
- **Friday, Nov. 12** 9.00-16.00  
- Info Day (15-20 min presentations about projects and set up of info tables)  
- Raffles Institute (Theatre Hall)  
-
- Evening  
- Hack Sessions  
- City Cafe or Hack Office of Qhoach.com to be decided adhoc  
-
- **Saturday, Nov.13** 9.00-17.15  
- Community Day (keynotes, talks, workshops)  
- Raffles Institute (Theatre Hall and 5 Rooms)  
-
- Evening  
- Social Meet Up  
- Location in the city to be announced  
-
- **Sunday, Nov. 14** 9.00-15.30  
- Workshops and Follow ups  
- Raffles Institute (5 Workshop Rooms)  
-
- **Monday, Nov. 15** 8.00  
- Mekong Excursion organized by tour company  
- Mekong Delta  
-
- **Monday-Friday** To be decided  
- Presentations and Meetings with students and professors in universities  
- Locations in Ho Chi Minh City
+Day | Time | Event | Location
+--- | --- | --- | ---
+Thursday, Nov. 11 | 20.00 | Pre-Meeting |The Spotted Cow Bar 111 Bui Vien, dist 1. HCMC(opposite to Happy Inn, closed to Pham Ngu Lao & De Tham) [Google Maps](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=111+Bui+Vien,+Ho+Chi+Minh+City,+Vietnam&sll=37.0625,-95.677068&sspn=27.284961,56.513672&ie=UTF8&hq=&hnear=111+Bui+Vien,+ph%C6%B0%E1%BB%9Dng+Ph%E1%BA%A1m+Ng%C5%A9+L%C3%A3o,+District+1,+Ho+Chi+Minh+City,+Vietnam&ll=10.765331,106.686237&spn=0.008242,0.021973&z=16)
+Friday, Nov. 12 | 9.00-16.00 | Info Day (15-20 min presentations about projects and set up of info tables) | Raffles Institute (Theatre Hall)
+| Evening | Hack Sessions | City Cafe or Hack Office of Qhoach.com to be decided adhoc
+Saturday, Nov.13 | 9.00-17.15 |Community Day (keynotes, talks, workshops) |Raffles Institute (Theatre Hall and 5 Rooms)
+|Evening|Social Meet Up|Location in the city to be announced
+Sunday, Nov. 14|9.00-15.30|Workshops and Follow ups|Raffles Institute (5 Workshop Rooms)
+Monday, Nov. 15|8.00|Mekong Excursion organized by tour company|Mekong Delta
+Monday-Friday|To be decided|Presentations and Meetings with students and professors in universities|Locations in Ho Chi Minh City
  
  **FOSSASIA 2010 Tracks**
 
