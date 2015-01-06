@@ -6,6 +6,8 @@ title: Venue
 
 FOSSASIA 2010 will take place in Raffles International College Ho Chi Minh City. Find Raffles: [Google Map][1]
 
+{% include map.html %}	
+
 ![Raffles International College Ho Chi Minh City][3]
 
 Raffles International College Ho Chi Minh City offers 11 floors and 2 basements. The equipment in the classrooms is modern, providing a perfect environment for FOSSASIA.
