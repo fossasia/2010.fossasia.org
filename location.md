@@ -63,7 +63,7 @@ A cyclo ride through downtown Saigon is a great way to see the city the way the 
 
 ###**By bus**
 
-Look for the bri	ght green buses with 150+ routes (Aug 2008) – maps of the bus system can be picked up across from Ben Thanh Market – just go into the waiting room to the desk in the middle. Cheap, safe and not too crowded either but only if you can find the right line. If you cannot find your way, ask the locals nicely, they will try their best to help. A piece of paper and marker pen may help to ease the conversation. Cheaper 2,000 – 4,000 dong and safer than many of the alternatives.
+Look for the bright green buses with 150+ routes (Aug 2008) – maps of the bus system can be picked up across from Ben Thanh Market – just go into the waiting room to the desk in the middle. Cheap, safe and not too crowded either but only if you can find the right line. If you cannot find your way, ask the locals nicely, they will try their best to help. A piece of paper and marker pen may help to ease the conversation. Cheaper 2,000 – 4,000 dong and safer than many of the alternatives.
 
 ![][14]
 
