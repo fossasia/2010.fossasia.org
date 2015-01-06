@@ -78,7 +78,7 @@ Thanks again to the amazing crowd at FOSSASIA - developers, translators, event o
 * FOSSASIA [http://fossasia.org](http://fossasia.org/)  
 * Open Design Weeks Asia, [http://opendesign.asia](http://opendesign.asia/)
 
-[1]: /images/fossasia-2010-group-foto-contributors.JPG
+[1]: images/fossasia-2010-group-foto-contributors.JPG
 [2]: http://fossasia.org
 [3]: http://www.raffles-international-college-hcm.edu.vn
 [4]: http://mbm.vn
@@ -87,12 +87,12 @@ Thanks again to the amazing crowd at FOSSASIA - developers, translators, event o
 [7]: http://chenglita.wordpress.com
 [8]: http://blueladyblog.com
 [9]: http://www.deuxlits.com
-[10]: /images/women-panel-fossasia-2010-Hong-Phuc-Dang-middle-and-Lilly-Nguyen-right.jpg
+[10]: images/women-panel-fossasia-2010-Hong-Phuc-Dang-middle-and-Lilly-Nguyen-right.jpg
 [11]: http://lubuntu.net
 [12]: http://android.com
 [13]: http://xpud.org
 [14]: http://penkia.net
-[15]: /images/cambodia-vietnamese-malaysian-participants-fossasia-2010.jpg
+[15]: images/cambodia-vietnamese-malaysian-participants-fossasia-2010.jpg
 [16]: http://openoffice.org
 [17]: http://openoffice.vn
 [18]: http://blog.hanoilug.org/
@@ -103,11 +103,11 @@ Thanks again to the amazing crowd at FOSSASIA - developers, translators, event o
 [23]: http://dr.jones.dk
 [24]: http://wiki.debian.org/PaulWise
 [25]: http://thomas.goirand.fr
-[26]: /images/Debconf-Participants_Yukiharu-YABUKI-and-Arne-Goetje.JPG
+[26]: images/Debconf-Participants_Yukiharu-YABUKI-and-Arne-Goetje.JPG
 [27]: http://fedoraproject.org
 [28]: http://blog.iwayvietnam.com/tuanta/
 [29]: http://pierros.papadeas.gr/?p=186
-[30]: /images/fedora-release-party.JPG
+[30]: images/fedora-release-party.JPG
 [31]: http://fdmbx.net
 [32]: http://freifunk.net
 [33]: http://crypto-stick.org
@@ -125,11 +125,11 @@ Thanks again to the amazing crowd at FOSSASIA - developers, translators, event o
 [45]: http://gnome.org
 [46]: http://lxde.org
 [47]: http://nguyentieuhau.wordpress.com
-[48]: /images/audience-at-fossasia-2010.jpg
+[48]: images/audience-at-fossasia-2010.jpg
 [49]: http://barcamp.vn
 [50]: http://preetam.net
 [51]: http://libregraphicsmeeting.org
 [52]: http://www.google.com/webfonts
 [53]: http://opendesign.asia
-[54]: /images/Libre-Graphics-Jon-Phillips-Participants-fossasia2010.JPG
-[55]: /images/pierros-papadeas-with-fossasia-participants.JPG
+[54]: images/Libre-Graphics-Jon-Phillips-Participants-fossasia2010.JPG
+[55]: images/pierros-papadeas-with-fossasia-participants.JPG
