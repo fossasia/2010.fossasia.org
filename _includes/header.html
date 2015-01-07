@@ -66,12 +66,27 @@ th, td
 .logos
 {
 	margin-right: 10%;
-	
+}
+
+.responsive img
+{
+	width: 100%!important;
+	height: auto!important;
 }
 
 </style>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+
+	$('.scrollToTop').click(function(){
+		$('html, body').animate({scrollTop : 0},800);
+		return false;
+	});
+	
+})
+</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
@@ -80,7 +95,7 @@ th, td
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v2.0";
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -109,4 +124,5 @@ th, td
 
 <div class="container">
 <div class="row">
+<div class="responsive">
 <div class="col-md-8" style="background-color: lightgray;padding-top:10px">

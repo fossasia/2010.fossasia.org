@@ -37,8 +37,6 @@ Average low °C (°F)|21(70)|22(72)|23(73)|24(75)|25(77)|24(75)|25(77)|24(75)|23
 
 ![][11]
 
-![][12]
-
 A masked mother and child
 
 ###**By taxi**
@@ -221,33 +219,32 @@ The Cathedral "Duc Ba" and Reunification Palace
 [8]: http://en.wikipedia.org/wiki/Mekong_River_Delta "Mekong River Delta"
 [9]: http://en.wikipedia.org/wiki/Can_Tho "Can Tho"
 [10]: http://en.wikipedia.org/w/index.php?title=Dau_Giay&action=edit&redlink=1 "Dau Giay (page does not exist)"
-[11]: http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Mother_Child_Motorbike_Vietnam.jpg/180px-Mother_Child_Motorbike_Vietnam.jpg
-[12]: http://en.wikipedia.org/skins-1.5/common/images/magnify-clip.png
-[13]: http://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HCM-City_Verkehr.JPG/280px-HCM-City_Verkehr.JPG
-[14]: http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/A_Saigon_bus.JPG/200px-A_Saigon_bus.JPG
-[15]: http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Buu_dien_1.jpg/120px-Buu_dien_1.jpg
-[16]: http://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Buu_dien_2.jpg/120px-Buu_dien_2.jpg
-[17]: http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Carte_postale.jpg/120px-Carte_postale.jpg
-[18]: http://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cho_Ben_Thanh_1.jpg/120px-Cho_Ben_Thanh_1.jpg
-[19]: http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Chua_Vinh_Nghiem.jpg/120px-Chua_Vinh_Nghiem.jpg
-[20]: http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cong_truong_con_rua.jpg/120px-Cong_truong_con_rua.jpg
-[21]: http://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dinh_Doc_Lap.jpg/120px-Dinh_Doc_Lap.jpg
-[22]: http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Le_Loi_-_Nguyen_hue.jpg/120px-Le_Loi_-_Nguyen_hue.jpg
-[23]: http://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Nha_tho_Duc_Ba_1.jpg/90px-Nha_tho_Duc_Ba_1.jpg
-[24]: http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Nha_tho_Duc_Ba_2.jpg/120px-Nha_tho_Duc_Ba_2.jpg
-[25]: http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Saigon_1.jpg/120px-Saigon_1.jpg
-[26]: http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Saigon_2.jpg/120px-Saigon_2.jpg
-[27]: http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Saigon_3.jpg/120px-Saigon_3.jpg
-[28]: http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Saigon_4.jpg/120px-Saigon_4.jpg
-[29]: http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Saigon_5.jpg/120px-Saigon_5.jpg
-[30]: http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Saigon_6.jpg/120px-Saigon_6.jpg
-[31]: http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Saigon_7.jpg/120px-Saigon_7.jpg
-[32]: http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Saigon_8.jpg/120px-Saigon_8.jpg
-[33]: http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Saigon_9.jpg/120px-Saigon_9.jpg
-[34]: http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Saigon_10.jpg/120px-Saigon_10.jpg
-[35]: http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Saigon_11.jpg/120px-Saigon_11.jpg
-[36]: http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Saigon_12.jpg/120px-Saigon_12.jpg
-[37]: http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Saigon_13.jpg/120px-Saigon_13.jpg
-[38]: http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Saigon_14.jpg/120px-Saigon_14.jpg
-[39]: http://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Saigon_15.jpg/120px-Saigon_15.jpg
-[40]: http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Saigon_16.jpg/120px-Saigon_16.jpg
+[11]: http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Mother_Child_Motorbike_Vietnam.jpg/1000px-Mother_Child_Motorbike_Vietnam.jpg
+[13]: http://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HCM-City_Verkehr.JPG/1000px-HCM-City_Verkehr.JPG
+[14]: http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/A_Saigon_bus.JPG/640px-A_Saigon_bus.JPG
+[15]: http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Buu_dien_1.jpg/1000px-Buu_dien_1.jpg
+[16]: http://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Buu_dien_2.jpg/1000px-Buu_dien_2.jpg
+[17]: http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Carte_postale.jpg/1000px-Carte_postale.jpg
+[18]: http://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cho_Ben_Thanh_1.jpg/1000px-Cho_Ben_Thanh_1.jpg
+[19]: http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Chua_Vinh_Nghiem.jpg/1000px-Chua_Vinh_Nghiem.jpg
+[20]: http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cong_truong_con_rua.jpg/1000px-Cong_truong_con_rua.jpg
+[21]: http://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Dinh_Doc_Lap.jpg/1000px-Dinh_Doc_Lap.jpg
+[22]: http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Le_Loi_-_Nguyen_hue.jpg/1000px-Le_Loi_-_Nguyen_hue.jpg
+[23]: http://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Nha_tho_Duc_Ba_1.jpg/1000px-Nha_tho_Duc_Ba_1.jpg
+[24]: http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Nha_tho_Duc_Ba_2.jpg/1000px-Nha_tho_Duc_Ba_2.jpg
+[25]: http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Saigon_1.jpg/1000px-Saigon_1.jpg
+[26]: http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Saigon_2.jpg/1000px-Saigon_2.jpg
+[27]: http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Saigon_3.jpg/1000px-Saigon_3.jpg
+[28]: http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Saigon_4.jpg/1000px-Saigon_4.jpg
+[29]: http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Saigon_5.jpg/1000px-Saigon_5.jpg
+[30]: http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Saigon_6.jpg/1000px-Saigon_6.jpg
+[31]: http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Saigon_7.jpg/1000px-Saigon_7.jpg
+[32]: http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Saigon_8.jpg/1000px-Saigon_8.jpg
+[33]: http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Saigon_9.jpg/1000px-Saigon_9.jpg
+[34]: http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Saigon_10.jpg/1000px-Saigon_10.jpg
+[35]: http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Saigon_11.jpg/1000px-Saigon_11.jpg
+[36]: http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Saigon_12.jpg/1000px-Saigon_12.jpg
+[37]: http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Saigon_13.jpg/1000px-Saigon_13.jpg
+[38]: http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Saigon_14.jpg/1000px-Saigon_14.jpg
+[39]: http://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Saigon_15.jpg/1000px-Saigon_15.jpg
+[40]: http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Saigon_16.jpg/1000px-Saigon_16.jpg
