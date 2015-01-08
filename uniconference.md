@@ -17,7 +17,7 @@ This is how we roll:
 
 **Ignite Sessions**
 
-****Ignite is a style of presentation where participants are given five minutes to speak on a subject accompanied by 20 slides. Each slide is displayed for 15 seconds, and slides are automatically advanced. [Pecha Kucha][4] is a similar format that features 20 slides for 20 seconds each. The first Ignite was held in 2006 in [Seattle, Washington][5], and was the brainchild of Brady Forrest and [Bre Pettis][6]. It was sponsored by [O'Reilly Media][7] and [_MAKE][8]_ magazine. Since its inception, more than 50 Ignites have been started in cities around the world. O'Reilly has continued to support Ignite—one occurred during the 2009 [OSCON][9] held by the company—but each Ignite is independently organized on the local level. (Source [WP][1])
+Ignite is a style of presentation where participants are given five minutes to speak on a subject accompanied by 20 slides. Each slide is displayed for 15 seconds, and slides are automatically advanced. [Pecha Kucha][4] is a similar format that features 20 slides for 20 seconds each. The first Ignite was held in 2006 in [Seattle, Washington][5], and was the brainchild of Brady Forrest and [Bre Pettis][6]. It was sponsored by [O'Reilly Media][7] and [_MAKE][8]_ magazine. Since its inception, more than 50 Ignites have been started in cities around the world. O'Reilly has continued to support Ignite—one occurred during the 2009 [OSCON][9] held by the company—but each Ignite is independently organized on the local level. (Source [WP][1])
 
 **Lightning Talks**
 
