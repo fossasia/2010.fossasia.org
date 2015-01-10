@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UniConference
+title: UnConference
 ---
 # Unconference
 
