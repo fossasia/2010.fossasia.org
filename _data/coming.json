@@ -1,0 +1,1412 @@
+[
+    {
+        "name": "Mario Behling",
+        "website": "http://mariobehling.de",
+        "interests": "",
+        "org": "            a:1:{i:0;s:12:\"freifunk.net\";}          "
+    },
+    {
+        "name": "Đặng Hồng Phúc",
+        "website": "http://foss.vn",
+        "interests": "",
+        "org": "            a:1:{i:0;s:12:\"FOSS Vietnam\";}          "
+    },
+    {
+        "name": "Pierros Papadeas",
+        "website": "http://pierros.papadeas.gr",
+        "interests": "I am currently working on extending the use of Fedora in academic field by organizing presentations (hackfests, installfests etc) and putting pressure on using more FOSS in the universities of Greece.",
+        "org": "            a:1:{i:0;s:14:\"Mozilla/Fedora\";}          "
+    },
+    {
+        "name": "Banh Van Tri",
+        "website": "",
+        "interests": "Linux",
+        "org": "            a:1:{i:0;s:3:\"ITD\";}          "
+    },
+    {
+        "name": "TRAN Duy Hung",
+        "website": "http://www.nguyentieuhau.com",
+        "interests": "I would like to introduce Lubuntu OS, share my experience with it to everybody and learn more about FOSS.",
+        "org": "            a:1:{i:0;s:10:\"Individual\";}          "
+    },
+    {
+        "name": "Nguyen Kim Kha",
+        "website": "http://kakalia.co.cc",
+        "interests": "Map technology, FOSS in Vietnam, Mozilla's projects.",
+        "org": "            a:2:{i:0;s:10:\"QHoach.com\";i:1;s:15:\"Mozilla Vietnam\";}          "
+    },
+    {
+        "name": "Trần Quang Thông",
+        "website": "http://mbm.vn",
+        "interests": "Xây dựng website với Drupal.",
+        "org": "            a:1:{i:0;s:17:\"MBM International\";}          "
+    },
+    {
+        "name": "Tran Dinh Minh Khanh",
+        "website": "",
+        "interests": "ubuntu",
+        "org": "            a:1:{i:0;s:15:\"Open University\";}          "
+    },
+    {
+        "name": "Tran Dinh Quan",
+        "website": "http://www.digitalcv.org",
+        "interests": "make acquaintance with friends in Open-source community. Want to learn more about new technology for open source software. Hope to get some new ideas for my future project.",
+        "org": "            a:1:{i:0;s:5:\"HCMUT\";}          "
+    },
+    {
+        "name": "Keo Kounila",
+        "website": "http://www.blueladyblog.com",
+        "interests": "female bloggers",
+        "org": "            a:1:{i:0;s:10:\"individual\";}          "
+    },
+    {
+        "name": "Alfred",
+        "website": "",
+        "interests": "a lot",
+        "org": "            a:1:{i:0;s:2:\"Xu\";}          "
+    },
+    {
+        "name": "Nguyen Van Phuc",
+        "website": "",
+        "interests": "Open Source, Network Security",
+        "org": "            a:1:{i:0;s:6:\"HCMCPV\";}          "
+    },
+    {
+        "name": "nhon",
+        "website": "",
+        "interests": "I want to know more about open software",
+        "org": "            a:1:{i:0;s:3:\"hcm\";}          "
+    },
+    {
+        "name": "abhishek gupta",
+        "website": "",
+        "interests": "anything",
+        "org": "            a:1:{i:0;s:27:\"iec college of engg & tech.\";}          "
+    },
+    {
+        "name": "Khai Nguyen",
+        "website": "",
+        "interests": "anything",
+        "org": "            a:1:{i:0;s:2:\"us\";}          "
+    },
+    {
+        "name": "Cao Minh Vu",
+        "website": "",
+        "interests": "Open source on mobile and embedded devices",
+        "org": "            a:1:{i:0;s:8:\"Personal\";}          "
+    },
+    {
+        "name": "Võ Duy Tuấn",
+        "website": "http://bloghoctap.com",
+        "interests": "NoSQL & Cloud Computing",
+        "org": "            a:1:{i:0;s:15:\"VNG Corporation\";}          "
+    },
+    {
+        "name": "Dương Bính Cường",
+        "website": "",
+        "interests": "Free and open source softwares",
+        "org": "            a:1:{i:0;s:2:\"OU\";}          "
+    },
+    {
+        "name": "Phùng Hạnh Vi",
+        "website": "",
+        "interests": "I want to have more knowledge about opensource",
+        "org": "            a:1:{i:0;s:10:\"individual\";}          "
+    },
+    {
+        "name": "Nguyen Thi Huyen Tran",
+        "website": "",
+        "interests": "I hope I can know about Ubuntu more than",
+        "org": "            a:1:{i:0;s:10:\"individual\";}          "
+    },
+    {
+        "name": "Lê Trung Nghĩa",
+        "website": "http://vnfoss.blogspot.com",
+        "interests": "Common knowledge about FOSS and related problems in Vietnam. Also check out ",
+        "org": "            a:1:{i:0;s:78:\"Development Co-ordination Agency For Environment of Science & Technology (DCA)\";}          "
+    },
+    {
+        "name": "channak sam",
+        "website": "http://www.channakengineer.blogspot.com",
+        "interests": "that good a chance for me to join to show what i have learn to shard and get what is new for me.",
+        "org": "            a:1:{i:0;s:29:\"Attitude Centre for Education\";}          "
+    },
+    {
+        "name": "Son Cheng Chon",
+        "website": "",
+        "interests": "I want to share Khmer OS",
+        "org": "            a:1:{i:0;s:4:\"KKIT\";}          "
+    },
+    {
+        "name": "Bùi Huy Hải",
+        "website": "http://www.misoft.com.vn",
+        "interests": "Học hỏi kiến thức mới.",
+        "org": "            a:1:{i:0;s:10:\"Misoft JSC\";}          "
+    },
+    {
+        "name": "Lay Phalla",
+        "website": "http://www.web-essentials.asia",
+        "interests": "I really interested in Open source",
+        "org": "            a:1:{i:0;s:14:\"Web Essentials\";}          "
+    },
+    {
+        "name": "Bonnaka Mao",
+        "website": "http://www.web-essentials.asia",
+        "interests": "I would expect to know about the new technologies, I like to see how people share their experience about using open source.",
+        "org": "            a:1:{i:0;s:14:\"Web Essentials\";}          "
+    },
+    {
+        "name": "Dimanche Eat",
+        "website": "http://www.web-essentials.asia",
+        "interests": "Want to know the technologies.",
+        "org": "            a:1:{i:0;s:14:\"Web Essentials\";}          "
+    },
+    {
+        "name": "Thux Sreyleak",
+        "website": "http://www.web-essentials.asia",
+        "interests": "Getting to know about new technologies and I want to know more about how people using Open Source Software also to get in touch with people.",
+        "org": "            a:1:{i:0;s:14:\"Web Essentials\";}          "
+    },
+    {
+        "name": "Châu Nguyễn Nhật Thanh",
+        "website": "http://me.zing.vn/thanhcnn2000",
+        "interests": "get the knowledge",
+        "org": "            a:1:{i:0;s:3:\"VNG\";}          "
+    },
+    {
+        "name": "Mam Violeng",
+        "website": "http://www.web-essentials.asia",
+        "interests": "Open Source",
+        "org": "            a:1:{i:0;s:14:\"Web Essentials\";}          "
+    },
+    {
+        "name": "Visay Keo",
+        "website": "http://www.web-essentials.asia",
+        "interests": "",
+        "org": "            Web Essentials          "
+    },
+    {
+        "name": "seangheng lim",
+        "website": "http://www.cdmdcambodia.org",
+        "interests": "I want to know how can local NGO benefits from IT,esp new technology.",
+        "org": "            a:1:{i:0;s:4:\"CDMD\";}          "
+    },
+    {
+        "name": "Lim Chivy",
+        "website": "http://www.web-essentials.asia",
+        "interests": "I would like to know more about FOSS.",
+        "org": "            a:1:{i:0;s:15:\"Web Essentials \";}          "
+    },
+    {
+        "name": "Jean Ng",
+        "website": "http://www.web-essentials.asia",
+        "interests": "Sharing about who Web Essentials is, what we do and how we are using Typo 3 in our social business.",
+        "org": "            a:1:{i:0;s:14:\"Web Essentials\";}          "
+    },
+    {
+        "name": "Diana Jayne Gonzales",
+        "website": "http://godiane.net",
+        "interests": "I would like to know more about lightweight technologies.",
+        "org": "            a:1:{i:0;s:4:\"UPOU\";}          "
+    },
+    {
+        "name": "Dararoath Vandeth",
+        "website": "http://www.dararoath.blogspot.com",
+        "interests": "I'm so keen to know lightweight mobile and to know, to learn, and to build network with other participants.",
+        "org": "            a:1:{i:0;s:30:\"Arbitration Council Foundation\";}          "
+    },
+    {
+        "name": "Trang Thảo Nguyên",
+        "website": "",
+        "interests": "Open source",
+        "org": "            a:1:{i:0;s:2:\"OU\";}          "
+    },
+    {
+        "name": "nguyễn văn huynh",
+        "website": "",
+        "interests": "* Biết thêm về FOSS, các ứng dụng và các giải pháp dành riêng cho điện thoại di động.",
+        "org": "            a:1:{i:0;s:38:\"đại học bách khoa hồ chí minh\";}          "
+    },
+    {
+        "name": "Be Chantra",
+        "website": "http://www.sabay.com.kh",
+        "interests": "I expect to get connection with open source developer around asia.",
+        "org": "            a:1:{i:0;s:5:\"Sabay\";}          "
+    },
+    {
+        "name": "Ngô Duy Khánh",
+        "website": "http://khanh.com.vn",
+        "interests": "Kiến thức/Kinh Nghiệm",
+        "org": "            a:1:{i:0;s:17:\"Máy Chủ Mạng\";}          "
+    },
+    {
+        "name": "Hoàng Trúc Phương",
+        "website": "",
+        "interests": "Xu thế sử dụng phần mềm mã nguồn mở tại Việt Nam đã phát triển như thế nào?",
+        "org": "            a:1:{i:0;s:9:\"DH KHXHNV\";}          "
+    },
+    {
+        "name": "Phan Hoàng Nhật",
+        "website": "http://www.foocosa.com",
+        "interests": "Thông tin về mã nguồn mở",
+        "org": "            a:1:{i:0;s:40:\"Công ty TNHH MTV Lương Thực Tp. HCM\";}          "
+    },
+    {
+        "name": "Nguyễn Ngọc Thúy Hiền",
+        "website": "",
+        "interests": "I want to know more about Open Source",
+        "org": "            a:1:{i:0;s:15:\"Open University\";}          "
+    },
+    {
+        "name": "Luong Viet Phong",
+        "website": "",
+        "interests": "MySQL, MongoDB, jquery, php framework, python, GAE",
+        "org": "            a:1:{i:0;s:4:\"VATC\";}          "
+    },
+    {
+        "name": "Huynh Di Nguyen",
+        "website": "",
+        "interests": "ubuntu-vn.org",
+        "org": "            a:1:{i:0;s:36:\"University of Science of Ho Chi Minh\";}          "
+    },
+    {
+        "name": "Linh La",
+        "website": "",
+        "interests": "to learn more about the open source community, what it can offer and what I can do to contribute.",
+        "org": "            a:1:{i:0;s:3:\"PwC\";}          "
+    },
+    {
+        "name": "Nguyen Huynh Trung Kien",
+        "website": "http://www.facebook.com/kien.knt",
+        "interests": "Updated knowledge.",
+        "org": "            a:1:{i:0;s:3:\"KNT\";}          "
+    },
+    {
+        "name": "duong thi thanh truc",
+        "website": "",
+        "interests": "I wanna know more about opensource software.",
+        "org": "            a:1:{i:0;s:28:\"university of economics HCMC\";}          "
+    },
+    {
+        "name": "Hoàng Kim Mai Khôi",
+        "website": "",
+        "interests": "i want to make new friends and know more about FOSS",
+        "org": "            a:1:{i:0;s:5:\"GNOME\";}          "
+    },
+    {
+        "name": "Tran Duy Khiem",
+        "website": "",
+        "interests": "know more about IT",
+        "org": "            a:1:{i:0;s:4:\"USSH\";}          "
+    },
+    {
+        "name": "Lê Thi Hồng",
+        "website": "",
+        "interests": "join and share",
+        "org": "            a:1:{i:0;s:6:\"BUHCMC\";}          "
+    },
+    {
+        "name": "Truong Thi Thuong",
+        "website": "http://thuongiu",
+        "interests": "love",
+        "org": "            a:1:{i:0;s:45:\"University of social sciences and humannities\";}          "
+    },
+    {
+        "name": "Lê Đặng Huỳnh Châu",
+        "website": "",
+        "interests": "Biết được nhiều hơn về lĩnh vực phần mềm.",
+        "org": "            a:1:{i:0;s:58:\"Trường Đại học Khoa học Xã hội và Nhân Văn\";}          "
+    },
+    {
+        "name": "thanh thùy",
+        "website": "http://www.theoyeucau.com/Home/Onair/Quick_Snow_Show/2010/10/31/Ngay_Mang_Ten_11/",
+        "interests": "knowledge, relationship",
+        "org": "            a:1:{i:0;s:3:\"BCB\";}          "
+    },
+    {
+        "name": "Nguyen Huong Mai",
+        "website": "",
+        "interests": "come and have more imformation about open software",
+        "org": "            a:1:{i:0;s:15:\"Open University\";}          "
+    },
+    {
+        "name": "ngo thanh thuy",
+        "website": "http://vn.360plus.yahoo.com/violet_rose_thuy2005",
+        "interests": "...",
+        "org": "            a:1:{i:0;s:41:\"Social sciences anh humanities university\";}          "
+    },
+    {
+        "name": "Bui Thi Kim Loan",
+        "website": "",
+        "interests": "I expect to make friend with speakers as well as many lovely friends in other university. I also want to improve interpreting skill and to expend my mind etc.",
+        "org": "            a:1:{i:0;s:4:\"USSH\";}          "
+    },
+    {
+        "name": "Lê Trung Hiếu",
+        "website": "http://my.opera.com/mua-thuy-tinh",
+        "interests": "Open source software, the career path and make friend.",
+        "org": "            a:1:{i:0;s:29:\"HCMC University of Technology\";}          "
+    },
+    {
+        "name": "Nguyễn Hoài Thương",
+        "website": "",
+        "interests": "to know the lightweight technology and share the experience of using computer",
+        "org": "            a:1:{i:0;s:2:\"IR\";}          "
+    },
+    {
+        "name": "Tran Thi Mai Anh",
+        "website": "http://www.facebook.com/meoluoi2302",
+        "interests": "Exchanging language and knowledge , making friend ^^ and be a volunteer",
+        "org": "            a:1:{i:0;s:8:\"Fossasia\";}          "
+    },
+    {
+        "name": "Đàm Tuyết Nghi",
+        "website": "",
+        "interests": "Get to know free software technologies and join volunteer activities",
+        "org": "            a:1:{i:0;s:20:\"Hong Bang University\";}          "
+    },
+    {
+        "name": "Ha Thi Phuong Thao",
+        "website": "",
+        "interests": "open software",
+        "org": "            a:1:{i:0;s:22:\"University of sciences\";}          "
+    },
+    {
+        "name": "Voòng Trần Kim Anh",
+        "website": "",
+        "interests": "Knowledge and experience",
+        "org": "            a:1:{i:0;s:28:\"University of Economics HCMC\";}          "
+    },
+    {
+        "name": "Lưu Nhật Nam",
+        "website": "",
+        "interests": "Building relationship",
+        "org": "            a:1:{i:0;s:24:\"Foreign Trade University\";}          "
+    },
+    {
+        "name": "Hoàng Lê Vân Anh",
+        "website": "",
+        "interests": "I want to know more about open sources, including theirs features, benefits, enterprises in this fields,as well as their influence on over the world.",
+        "org": "            a:1:{i:0;s:41:\"College of Social Sciences and Humanities\";}          "
+    },
+    {
+        "name": "Nguyen Trong Khang",
+        "website": "",
+        "interests": "I'm coming with a full hope of expanding open-source software, OS and on other platforms such as smart phones, TVs,... . I want to extend my knowledge more about the world of open-source, Ubuntu, other OSs to be specific, and expect to exploit these more on everyday and profession life as some open-source softwares may come to an end.",
+        "org": "            a:1:{i:0;s:36:\"Ho Chi Minh University of Technology\";}          "
+    },
+    {
+        "name": "Phan Minh Tuấn",
+        "website": "http://vn.myblog.yahoo.com/gilardinokid2311",
+        "interests": "Strengthen my knowledge at IT field",
+        "org": "            a:1:{i:0;s:19:\"Van Lang University\";}          "
+    },
+    {
+        "name": "Lu Ngọc Lan",
+        "website": "",
+        "interests": "know more about open source software and it's applicability for everyone especially students.",
+        "org": "            a:1:{i:0;s:41:\"university of social science and humanity\";}          "
+    },
+    {
+        "name": "Nguyen Thi Kim Ngan",
+        "website": "",
+        "interests": "I want to make freinds and learn more interesting things from volunteer activites.",
+        "org": "            a:1:{i:0;s:4:\"USSH\";}          "
+    },
+    {
+        "name": "Nguyen Thi Thao Nguyen",
+        "website": "",
+        "interests": "- Learn more information about free and open software",
+        "org": "a:2:{i:0;s:48:\"-Vietnam National University - Ho Chi Minh City\";i:1;s:33:\"University of  Economics and Law.\";}          "
+    },
+    {
+        "name": "Nguyen Tran Cat Vinh",
+        "website": "",
+        "interests": "I am a volunteer in the event, so I will try my best with my peers to make this event successful :)",
+        "org": "            a:1:{i:0;s:38:\"University of Economics Hochiminh City\";}          "
+    },
+    {
+        "name": "Nguyen Thanh Tung",
+        "website": "",
+        "interests": "Understand more aspects about IT and woman role in IT industry as well. Fun and friendship cannot be absent, too.",
+        "org": "            a:1:{i:0;s:4:\"RMIT\";}          "
+    },
+    {
+        "name": "HHCC",
+        "website": "",
+        "interests": "",
+        "org": "            HHCC          "
+    },
+    {
+        "name": "Trần Thị Ngọc Trâm",
+        "website": "",
+        "interests": "Know more about IT and FOSS",
+        "org": "            a:1:{i:0;s:42:\"University of Social Sciences and Humanity\";}          "
+    },
+    {
+        "name": "Nguyễn Thị Lan",
+        "website": "",
+        "interests": "I expect to know more about information technology that is very necessary now, have a chance to meet and communicate with a lot of friends all over the world, make me more active and dynamic.",
+        "org": "            a:1:{i:0;s:31:\"University of Economics and Law\";}          "
+    },
+    {
+        "name": "duong thi van anh",
+        "website": "",
+        "interests": "I expect to know more about open source, and make new friends",
+        "org": "            a:1:{i:0;s:11:\"translation\";}          "
+    },
+    {
+        "name": "Kakada Chheang",
+        "website": "http://kakadachheang.wordpress.com/",
+        "interests": "to get the technology and share some experience with all of them there.",
+        "org": "            a:1:{i:0;s:7:\"InSTEDD\";}          "
+    },
+    {
+        "name": "Nguyen Thi Huong",
+        "website": "",
+        "interests": "Clearer information about Fossasia.",
+        "org": "            a:1:{i:0;s:59:\"Hochiminh city University of social sciences and humanities\";}          "
+    },
+    {
+        "name": "Tran Nguyen Huong Mai",
+        "website": "",
+        "interests": "information",
+        "org": "            a:1:{i:0;s:8:\"HCM USSH\";}          "
+    },
+    {
+        "name": "Pham Thi Anh Nguyet",
+        "website": "",
+        "interests": "I am a active, friendly and enthusiastic student. I want to join social activities to improve my skills. I want to do part time jobs which concern to my major to obtain knowledge in order to have a good job in future.",
+        "org": "            a:1:{i:0;s:50:\" HCMC University of social sciences and humanities\";}          "
+    },
+    {
+        "name": "TẠ HOÀNG THỊNH",
+        "website": "",
+        "interests": "experience",
+        "org": "            a:1:{i:0;s:4:\"USSH\";}          "
+    },
+    {
+        "name": "tran ha my dung",
+        "website": "",
+        "interests": "I am a friendly,active,enthusiatic and hard-working person.I want to be a volunteer for many programs to save experience and have a good job in the future.",
+        "org": "            a:1:{i:0;s:49:\"HCMC University of Social Sciences and Humanities\";}          "
+    },
+    {
+        "name": "Quynh Nguyen Nhu",
+        "website": "",
+        "interests": "I'm going to take part in the event as a volunteer, hope that I can save some precious experience.",
+        "org": "            a:1:{i:0;s:44:\"University of Social Sciences and Humanities\";}          "
+    },
+    {
+        "name": "hoang thi tuyet hoa",
+        "website": "",
+        "interests": "i will share anything i know with the program.",
+        "org": "            a:1:{i:0;s:45:\"university of social sciences and humanities.\";}          "
+    },
+    {
+        "name": "tran thi nhu quynh",
+        "website": "",
+        "interests": "I expect to know more about FOSSASIA and make friends.",
+        "org": "            a:1:{i:0;s:11:\"translation\";}          "
+    },
+    {
+        "name": "Ngo Thi My Tien",
+        "website": "",
+        "interests": "I am so happy when I am selected to be one of FOSSASIA Volunteers. I will try my best to do this job. I also would like to share with every one about IT.",
+        "org": "            a:1:{i:0;s:4:\"USSH\";}          "
+    },
+    {
+        "name": "Nguyen Thi Bich Hang",
+        "website": "",
+        "interests": "i'm very happy to be a member of our organization. i'll try all my best to support for our program more successfully.",
+        "org": "            a:1:{i:0;s:7:\"student\";}          "
+    },
+    {
+        "name": "Dang Minh Tri",
+        "website": "",
+        "interests": "I want to attend Fossaia in order to learn more knowledge and experience about teamwork skill.",
+        "org": "            a:1:{i:0;s:3:\"UEH\";}          "
+    },
+    {
+        "name": "nguyen luong hoang lien",
+        "website": "",
+        "interests": "I expect to know more about FOSSASIA,make friends and to be more confident.",
+        "org": "            a:1:{i:0;s:11:\"translation\";}          "
+    },
+    {
+        "name": "Đào Thị Thanh Huyền",
+        "website": "",
+        "interests": "i expect to know how the IT men build and run their programs of softwares... Moreover, I can learn more from them not only in technology but also in their countries' culture and custom. From that on, I have more chances to update IT information and this help me to share with everyone confidently everywhen we'r chatting... I think that's really a meaningful event and it's my pleasure to be an volunteer for that event. I believe that i will be responsible to get mutual goats.",
+        "org": "            a:1:{i:0;s:31:\"University of economics and law\";}          "
+    },
+    {
+        "name": "Vo Ngoc Bich Tram",
+        "website": "",
+        "interests": "i want to get many experiences in order to find the good job in my future.so,i decided to send my application to you,with my hope is that i am getting some my own skills.Thanks for your choice.",
+        "org": "            a:1:{i:0;s:44:\"University of social sciences and humanities\";}          "
+    },
+    {
+        "name": "Nguyễn Công Uyên",
+        "website": "",
+        "interests": "Begining of Fedora.",
+        "org": "            a:1:{i:0;s:3:\"No.\";}          "
+    },
+    {
+        "name": "Trong Tuan",
+        "website": "http://abc.bizz",
+        "interests": "",
+        "org": "            Công ty ABC          "
+    },
+    {
+        "name": "Nguyễn Thị Hải An",
+        "website": "",
+        "interests": "I want to know the specific activities that a volunteer have to do in this program",
+        "org": "            a:1:{i:0;s:19:\"Bankingf University\";}          "
+    },
+    {
+        "name": "Nguyen Thi Kim Chi",
+        "website": "",
+        "interests": "I am a friendly and active student. I want to volunteer for this program  not only to get knowledge of information technology and computer but also to improve my English skills.",
+        "org": "            a:1:{i:0;s:49:\"HCMC university of social sciences and humanities\";}          "
+    },
+    {
+        "name": "NGUYEN THI THANH XUAN",
+        "website": "",
+        "interests": "I hope that i will learn many experiences when I take part in this program. I also want to contribute my a little knowlegde to help this program.",
+        "org": "            a:1:{i:0;s:10:\"UNIVERSITY\";}          "
+    },
+    {
+        "name": "Phu Mỹ Linh",
+        "website": "",
+        "interests": "- Learning new business chances which is creative, effective, friendly to the environment.",
+        "org": "            a:2:{i:0;s:3:\"IYC\";i:1;s:13:\"SAIGON HOTPOT\";}          "
+    },
+    {
+        "name": "Trần Quốc Long",
+        "website": "",
+        "interests": "I expect to learing much more experience for my knowledge. Bisides, i can look for new technology for my job after. I am very excited in joining in the event and i hope find many friends.",
+        "org": "            a:1:{i:0;s:30:\"International Youth Club (IYC)\";}          "
+    },
+    {
+        "name": "Hoàng Thiên Kim",
+        "website": "",
+        "interests": "I want to get to know other people and to work in a big organization.",
+        "org": "            a:1:{i:0;s:19:\"DH Ngoại Thương\";}          "
+    },
+    {
+        "name": "trần văn thạnh",
+        "website": "",
+        "interests": "get more infomation about FOSS.",
+        "org": "            a:1:{i:0;s:44:\"university of social sciences and humanities\";}          "
+    },
+    {
+        "name": "Phạm Nguyễn Việt Anh",
+        "website": "",
+        "interests": "I'm expect for more knowledge, more friends, more experiences, more happiness and share my abilities with everyone.^^",
+        "org": "            a:1:{i:0;s:24:\"foreign trade university\";}          "
+    },
+    {
+        "name": "channa ly",
+        "website": "http://www.instedd.org",
+        "interests": "new technologies,especially web.",
+        "org": "            a:1:{i:0;s:7:\"instedd\";}          "
+    },
+    {
+        "name": "channa ly",
+        "website": "http://www.instedd.org",
+        "interests": "new technologies",
+        "org": "            a:1:{i:0;s:7:\"instedd\";}          "
+    },
+    {
+        "name": "CHEAVIREAK CHAN",
+        "website": "http://vbabeeboy.blogspot.com",
+        "interests": "How to get clear about open office",
+        "org": "            a:1:{i:0;s:30:\"Royal University of Phnom Penh\";}          "
+    },
+    {
+        "name": "Alexandre Vitrac",
+        "website": "",
+        "interests": "- Networking with the FOSS community in HCMC",
+        "org": "            a:1:{i:0;s:3:\"CSC\";}          "
+    },
+    {
+        "name": "Lê Minh Tâm",
+        "website": "http://http://www.tongti.net",
+        "interests": "Get new information.",
+        "org": "            a:1:{i:0;s:3:\"SSP\";}          "
+    },
+    {
+        "name": "Taro Matsuzawa",
+        "website": "http://http://d.hatena.ne.jp/smellman",
+        "interests": "I want share Firefox or Ruby language.",
+        "org": "            a:1:{i:0;s:9:\"KBMJ Inc.\";}          "
+    },
+    {
+        "name": "INOSE RUAN",
+        "website": "http://http://jv-it.com.vn",
+        "interests": "New technology, new IT business method.",
+        "org": "            a:2:{i:0;s:6:\"JV-IT.\";i:1;s:3:\"JSC\";}          "
+    },
+    {
+        "name": "Huỳnh Phương Khanh",
+        "website": "",
+        "interests": "knowledge and experience",
+        "org": "            a:1:{i:0;s:24:\"Foreign Trade University\";}          "
+    },
+    {
+        "name": "khanh linh",
+        "website": "",
+        "interests": "i want to meet everybody and make friend with them",
+        "org": "            a:1:{i:0;s:37:\"university of financial and marketing\";}          "
+    },
+    {
+        "name": "nguyen duc minh khoi",
+        "website": "",
+        "interests": "learn more new things about IT world as well as programing",
+        "org": "            a:1:{i:0;s:24:\"university of technology\";}          "
+    },
+    {
+        "name": "An Nguyen Pham Xuan",
+        "website": "",
+        "interests": "open source software.",
+        "org": "            a:1:{i:0;s:4:\"USSH\";}          "
+    },
+    {
+        "name": "tran hoang long",
+        "website": "",
+        "interests": "experiences in making events.",
+        "org": "            a:1:{i:0;s:36:\"Ho Chi Minh university of technology\";}          "
+    },
+    {
+        "name": "Hoang Quang Huy",
+        "website": "http://http://hqhuy.wordpress.com",
+        "interests": "-learn more about FOSS apps and  FOSS community in Vietnam",
+        "org": "            a:1:{i:0;s:30:\"Hanoi University of Technology\";}          "
+    },
+    {
+        "name": "Brad Crittenden",
+        "website": "http://http://launchpad.net/~bac",
+        "interests": "Learn more about FOSS in Vietnam.  Available for discussions about Launchpad.net.",
+        "org": "            a:1:{i:0;s:13:\"Canonical Ltd\";}          "
+    },
+    {
+        "name": "Lê Ngọc Quốc Huy",
+        "website": "http://huylenq.blogspot.com",
+        "interests": "web application development",
+        "org": "            a:1:{i:0;s:46:\"International University (National University)\";}          "
+    },
+    {
+        "name": "Xuan Huy Ho",
+        "website": "",
+        "interests": "I'm a volunteer",
+        "org": "            a:1:{i:0;s:4:\"USSH\";}          "
+    },
+    {
+        "name": "Paul Wise",
+        "website": "http://http://wiki.debian.org/PaulWise",
+        "interests": "Debian stuff.",
+        "org": "            a:1:{i:0;s:6:\"Debian\";}          "
+    },
+    {
+        "name": "Jeroen Vermeulen",
+        "website": "",
+        "interests": "PostgreSQL, Python, C++",
+        "org": "            a:1:{i:0;s:9:\"Canonical\";}          "
+    },
+    {
+        "name": "Arne Goetje",
+        "website": "",
+        "interests": "I will teach how to translate Debian into Vietnamese and hope to recruit new translators.",
+        "org": "            a:1:{i:0;s:6:\"Debian\";}          "
+    },
+    {
+        "name": "Mai Thị Thu Trang",
+        "website": "",
+        "interests": "open software/ meet friends",
+        "org": "            a:1:{i:0;s:3:\"UEH\";}          "
+    },
+    {
+        "name": "Lê Hoàng Hà",
+        "website": "",
+        "interests": "tôi mong muốn được tìm hiểu về:",
+        "org": "            a:1:{i:0;s:48:\"Đại học công nghệ thông tin - ĐHQG.HCM\";}          "
+    },
+    {
+        "name": "Nguyen Thanh Chieu",
+        "website": "",
+        "interests": "Biet them ve ma nguon mo, ket ban de duoc giai dap thac mac.",
+        "org": "            a:1:{i:0;s:13:\"Ca Sau Hoa Ca\";}          "
+    },
+    {
+        "name": "nguyen thi mot",
+        "website": "",
+        "interests": "toi doi de duoc biet vai thong tin ve software, va phat trien ky nang tieng anh cua minh.",
+        "org": "            a:1:{i:0;s:10:\"volunteers\";}          "
+    },
+    {
+        "name": "Bui Nghia Thuat",
+        "website": "http://http://cafelancer.com",
+        "interests": "Linux",
+        "org": "            a:1:{i:0;s:12:\"GHP Far East\";}          "
+    },
+    {
+        "name": "Trần Cao Nhân",
+        "website": "http://www.vttu.edu.vn",
+        "interests": "I want to use open source software for my work. Because it's FREE.",
+        "org": "            a:1:{i:0;s:4:\"VTTU\";}          "
+    },
+    {
+        "name": "Nguyễn Thùy Diễm",
+        "website": "http://www.vttu.eu.vn",
+        "interests": "Hieu them ve ma nguon mở. Hiện hệ thống thư viện cua trường đang ứng dụng mã nguồn mở Koha để hoạt động. Và trong vài năm tới trường sẽ thực hiện triển khai hệ thống mã nguồn mở cho toàn trường. Do vậy tôi mong muốn tham gia để có thể hiểu và tìm thêm những gì mà trường cần để thực hiện được tốt nhất.",
+        "org": "            a:1:{i:0;s:40:\"Đại học Võ Trường Toản (VTTU)\";}          "
+    },
+    {
+        "name": "Nguyen Thanh Tin",
+        "website": "http://http://www.sutrixmedia.com",
+        "interests": "opensource knowledge and knowledge to do business based on Opensource",
+        "org": "            a:1:{i:0;s:11:\"Sutrixmedia\";}          "
+    },
+    {
+        "name": "Quoc Khai",
+        "website": "",
+        "interests": "More about FOSS.",
+        "org": "            a:1:{i:0;s:6:\"HUFLIT\";}          "
+    },
+    {
+        "name": "Dominik Stankowski",
+        "website": "http://www.web-essentials.asia",
+        "interests": "Share about the Content Management System TYPO3",
+        "org": "            a:1:{i:0;s:25:\"Web Essentials (Cambodia)\";}          "
+    },
+    {
+        "name": "QUOC KHAI",
+        "website": "",
+        "interests": "Latest news about FOSS and what can I use.",
+        "org": "            a:1:{i:0;s:17:\"HUFLIT UNIVERSITY\";}          "
+    },
+    {
+        "name": "Lê Hoàng Hà",
+        "website": "",
+        "interests": "Below here are what I expect to know from the conference:",
+        "org": "            a:1:{i:0;s:43:\"University of Information Technology - VNUH\";}          "
+    },
+    {
+        "name": "Vu Minh Ngoc",
+        "website": "http://www.facebook.com/minhngoc.v",
+        "interests": "I expect to learn more about Open Source technologies and the new lightweight mobile and desktop solutions as well as how to apply them to my work.",
+        "org": "            a:1:{i:0;s:38:\"Banking University of Ho Chi Minh city\";}          "
+    },
+    {
+        "name": "Hang Bui",
+        "website": "",
+        "interests": "Information about Lightweight Computing & Women in IT",
+        "org": "            a:1:{i:0;s:2:\"IT\";}          "
+    },
+    {
+        "name": "Joerg Henning",
+        "website": "http://www.spectos.com",
+        "interests": "Get to know Open Source culture in Vietnam, Networking",
+        "org": "            a:1:{i:0;s:12:\"Spectos GmbH\";}          "
+    },
+    {
+        "name": "Barend Scholtus",
+        "website": "http://https://github.com/rbscholtus/Space-Invaders",
+        "interests": "Emulator programming and experience in education.",
+        "org": "            a:1:{i:0;s:23:\"RMIT University Vietnam\";}          "
+    },
+    {
+        "name": "Vo Hong Quan",
+        "website": "",
+        "interests": "Know",
+        "org": "            a:1:{i:0;s:8:\"Personal\";}          "
+    },
+    {
+        "name": "Yutaka Niibe",
+        "website": "http://http://www.fsij.org/gnuk/",
+        "interests": "GPG key sign party",
+        "org": "            a:1:{i:0;s:33:\"Free Software Initiative of Japan\";}          "
+    },
+    {
+        "name": "Dietrich Ayala",
+        "website": "http://http://flavors.me/da",
+        "interests": "",
+        "org": "            a:1:{i:0;s:7:\"Mozilla\";}          "
+    },
+    {
+        "name": "Lê Quang",
+        "website": "http://www.bkitclub.net",
+        "interests": "I hope I have some friends at there! :-)",
+        "org": "            a:1:{i:0;s:9:\"BKIT CLUB\";}          "
+    },
+    {
+        "name": "nguyen thi ngoc chau",
+        "website": "",
+        "interests": "biêt thêm được nhiều thông tin bổ ích",
+        "org": "            a:1:{i:0;s:6:\"huflit\";}          "
+    },
+    {
+        "name": "Tôn Thất Duy Khương",
+        "website": "",
+        "interests": "I want to know about IT as much as posable. To have many plan for me in the future",
+        "org": "            a:1:{i:0;s:8:\"bkitclub\";}          "
+    },
+    {
+        "name": "NGUYỄN ĐẶNG HOÀNG TUÂN",
+        "website": "http://http://heu.vnoss.org",
+        "interests": "Open Source Promotion Activities in Viet Nam and Asia!",
+        "org": "            a:1:{i:0;s:5:\"VNOSS\";}          "
+    },
+    {
+        "name": "Le Huynh Cong Thao",
+        "website": "",
+        "interests": "LAMP",
+        "org": "            a:1:{i:0;s:11:\"Harvey Nash\";}          "
+    },
+    {
+        "name": "Nguyen Ngoc Binh Minh",
+        "website": "",
+        "interests": "Tôi muốn biết thêm về các ứng dụng trọng tâm trong thị trường hiện nay",
+        "org": "            a:1:{i:0;s:36:\"Ho Chi Minh University of technology\";}          "
+    },
+    {
+        "name": "Lâm Chí Nguyện",
+        "website": "http://WWW.taydoinfo.com",
+        "interests": "Tôi muốn tìm hiểu về các kỹ thuật cài đặt các dịch vụ mạng :Web, Mail, quản trị người dùng, quản lý truy cập mạng, lập trình hệ thống trên linux",
+        "org": "            a:2:{i:0;s:12:\"Khoa CNTT&TT\";i:1;s:23:\"Đại học Cần Thơ\";}          "
+    },
+    {
+        "name": "Nguyễn Minh Cang",
+        "website": "",
+        "interests": "open source",
+        "org": "            a:1:{i:0;s:6:\"Netnam\";}          "
+    },
+    {
+        "name": "Huỳnh Trúc Lâm",
+        "website": "",
+        "interests": "open source",
+        "org": "            a:1:{i:0;s:21:\"Hoya Lens VietNam ltd\";}          "
+    },
+    {
+        "name": "Nguyễn Thị Huyền Trâm",
+        "website": "",
+        "interests": "Liferay portal",
+        "org": "            a:1:{i:0;s:60:\"Trung tâm công nghệ thông tin và truyền thông TPHCM\";}          "
+    },
+    {
+        "name": "Huỳnh Thịnh",
+        "website": "",
+        "interests": "Để hiểu biết hơn về Open Source, học hỏi từ bạn bè, khác mời của chương trình.",
+        "org": "            a:1:{i:0;s:33:\"Trường ĐH CNTT (ĐH QG.TPHCM)\";}          "
+    },
+    {
+        "name": "Duc Ho Viet To",
+        "website": "",
+        "interests": "ubuntu, android and other open source systems",
+        "org": "            a:1:{i:0;s:8:\"Personal\";}          "
+    },
+    {
+        "name": "Nguyen Trung Chinh",
+        "website": "http://http://twitter.com/ntr9h",
+        "interests": "Generic knowledge out the current open source apps/frameworks",
+        "org": "            a:1:{i:0;s:3:\"TPL\";}          "
+    },
+    {
+        "name": "Nguyen Bao Toan Khoa",
+        "website": "http://www.hafic.com.vn",
+        "interests": "intend to joint",
+        "org": "            a:1:{i:0;s:35:\"HANDICO Finance Joint Stock Company\";}          "
+    },
+    {
+        "name": "Đặng Lâm Phương",
+        "website": "http://www.tig.vn",
+        "interests": "To learn new things and to network with different technical people from every corner of the world",
+        "org": "            a:1:{i:0;s:8:\"TIG Corp\";}          "
+    },
+    {
+        "name": "Trương Xuân Việt",
+        "website": "",
+        "interests": "GAMA - a GIS platform for Simulation.",
+        "org": "            a:1:{i:0;s:33:\"Cantho University Software Center\";}          "
+    },
+    {
+        "name": "Mai Xuan Vu",
+        "website": "",
+        "interests": "Online Services, Virtual Private Server",
+        "org": "            a:1:{i:0;s:10:\"NETNAM HCM\";}          "
+    },
+    {
+        "name": "Walter Heck",
+        "website": "http://http://tribily.com",
+        "interests": "Speaking on zabbix",
+        "org": "            a:1:{i:0;s:7:\"Tribily\";}          "
+    },
+    {
+        "name": "Phạm Lê Khánh Hải",
+        "website": "http://http://itk35.tk",
+        "interests": "Mã nguồn mở phát triển",
+        "org": "            a:1:{i:0;s:31:\"Đại học Sư Phạm TP. HCM\";}          "
+    },
+    {
+        "name": "Lưu Phạm Văn Khanh",
+        "website": "",
+        "interests": "Extend relationship",
+        "org": "            a:1:{i:0;s:12:\"CSC Viet Nam\";}          "
+    },
+    {
+        "name": "Hoàng Thanh Luân",
+        "website": "http://svthuannghia@googlegroups.com",
+        "interests": "học hỏi công nghệ mới",
+        "org": "            a:1:{i:0;s:5:\"hcmup\";}          "
+    },
+    {
+        "name": "Nguyen Phan Anh",
+        "website": "",
+        "interests": "",
+        "org": "            a:1:{i:0;s:28:\"Hungvuong university of HCMC\";}          "
+    },
+    {
+        "name": "Trương Xuân Tính",
+        "website": "http://www.evolus.vn",
+        "interests": "I want to know more about FOSS activity in Vietnam",
+        "org": "            a:2:{i:0;s:23:\"Evolution Solutions Co.\";i:1;s:4:\"Ltd.\";}          "
+    },
+    {
+        "name": "Đinh Hồng Châu",
+        "website": "",
+        "interests": "Android programming issues.",
+        "org": "            a:1:{i:0;s:40:\"University of Information Technology VNU\";}          "
+    },
+    {
+        "name": "Tan Nguyen",
+        "website": "http://http://tli-consulting.com",
+        "interests": "I want to know issue about Android and new technology",
+        "org": "            a:1:{i:0;s:14:\"TLI-consulting\";}          "
+    },
+    {
+        "name": "Tran Vu Tat binh",
+        "website": "",
+        "interests": "Android",
+        "org": "            a:1:{i:0;s:10:\"SkunkWorks\";}          "
+    },
+    {
+        "name": "Sitthykun LY",
+        "website": "http://niyum.com",
+        "interests": "Joomla",
+        "org": "            a:1:{i:0;s:7:\"Arocore\";}          "
+    },
+    {
+        "name": "nam pham",
+        "website": "http://mbm.vn",
+        "interests": "",
+        "org": "            a:1:{i:0;s:3:\"mbm\";}          "
+    },
+    {
+        "name": "ana nov",
+        "website": "",
+        "interests": "",
+        "org": "            a:1:{i:0;s:15:\"ang khmer group\";}          "
+    },
+    {
+        "name": "Lê Thanh Bình",
+        "website": "",
+        "interests": "",
+        "org": "            a:1:{i:0;s:24:\"Đại học Y Hà Nội\";}          "
+    },
+    {
+        "name": "leijuping",
+        "website": "http://www.sian.com",
+        "interests": "",
+        "org": "            a:1:{i:0;s:6:\"nop734\";}          "
+    },
+    {
+        "name": "Le Thanh Huy",
+        "website": "",
+        "interests": "",
+        "org": "            a:1:{i:0;s:17:\"Cantho University\";}          "
+    },
+    {
+        "name": "cloutletsa",
+        "website": "",
+        "interests": "",
+        "org": "            a:1:{i:0;s:6:\"vwx271\";}          "
+    },
+    {
+        "name": "Linh Hoang Van Thanh",
+        "website": "",
+        "interests": "",
+        "org": "            a:1:{i:0;s:70:\"University of Social Sciences and Humanities - HCM National University\";}          "
+    },
+    {
+        "name": "bendang89",
+        "website": "",
+        "interests": "",
+        "org": "            a:1:{i:0;s:6:\"abc789\";}          "
+    },
+    {
+        "name": "Nicolas Embleton",
+        "website": "http://www.tli-consulting.com",
+        "interests": "",
+        "org": "            TLI Consulting          "
+    },
+    {
+        "name": "Phạm Thị Duyên Anh",
+        "website": "",
+        "interests": "",
+        "org": "            a:1:{i:0;s:55:\"Student at University of Social Sciences and Humanities\";}          "
+    },
+    {
+        "name": "Manish Yadav",
+        "website": "http://techtickle.com",
+        "interests": "",
+        "org": "            a:1:{i:0;s:7:\"Sapient\";}          "
+    },
+    {
+        "name": "Jeffery",
+        "website": "",
+        "interests": "",
+        "org": "            a:1:{i:0;s:7:\"elmeera\";}          "
+    },
+    {
+        "name": "Yahbinie",
+        "website": "",
+        "interests": "",
+        "org": "            a:1:{i:0;s:6:\"tobbey\";}          "
+    },
+    {
+        "name": "Ngoc",
+        "website": "",
+        "interests": "",
+        "org": "            a:1:{i:0;s:3:\"wae\";}          "
+    },
+    {
+        "name": "nikannikan98",
+        "website": "",
+        "interests": "",
+        "org": "            a:1:{i:0;s:6:\"tuv041\";}          "
+    },
+    {
+        "name": "hunlylie2",
+        "website": "http://http://www.hongvogue.com/",
+        "interests": "",
+        "org": "            a:1:{i:0;s:6:\"qrs327\";}          "
+    },
+    {
+        "name": "Ho Thi Hai Yen",
+        "website": "",
+        "interests": "",
+        "org": "            a:1:{i:0;s:44:\"University of Social Sciences and Humanities\";}          "
+    },
+    {
+        "name": "Henry",
+        "website": "",
+        "interests": "",
+        "org": "            a:1:{i:0;s:3:\"non\";}          "
+    },
+    {
+        "name": "nigeniek",
+        "website": "http://http://www.cheapairjordansale.com",
+        "interests": "",
+        "org": "            a:1:{i:0;s:6:\"def340\";}          "
+    },
+    {
+        "name": "wulingling",
+        "website": "",
+        "interests": "",
+        "org": "            a:1:{i:0;s:6:\"cde853\";}          "
+    },
+    {
+        "name": "Long Hiep",
+        "website": "",
+        "interests": "",
+        "org": "            a:1:{i:0;s:2:\"YP\";}          "
+    },
+    {
+        "name": "xiaoxiaoli1",
+        "website": "",
+        "interests": "",
+        "org": "            a:1:{i:0;s:6:\"def533\";}          "
+    },
+    {
+        "name": "akkude61",
+        "website": "http://http://www.dellakku.de/",
+        "interests": "",
+        "org": "            a:1:{i:0;s:6:\"vwx357\";}          "
+    },
+    {
+        "name": "Dinh Hoang Mai",
+        "website": "http://ca631.com",
+        "interests": "",
+        "org": "            a:1:{i:0;s:24:\"University of Technology\";}          "
+    },
+    {
+        "name": "xzhongwang",
+        "website": "http://http://gameps3controller.info",
+        "interests": "",
+        "org": "            a:1:{i:0;s:6:\"mno830\";}          "
+    },
+    {
+        "name": "Pheng Saochheng",
+        "website": "http://http://ypdpcc-uri.blogspot.com/",
+        "interests": "",
+        "org": "            a:1:{i:0;s:45:\"Youth Partner In Development and Peace (YPDP)\";}          "
+    },
+    {
+        "name": "crjb1842",
+        "website": "",
+        "interests": "",
+        "org": "            a:1:{i:0;s:6:\"qrs167\";}          "
+    },
+    {
+        "name": "Sven Berg Ryen",
+        "website": "http://http://www.maxus.com.sg",
+        "interests": "",
+        "org": "            a:1:{i:0;s:30:\"Maxus Media & Software Pte Ltd\";}          "
+    },
+    {
+        "name": "Be Chantra",
+        "website": "http://perfextech.com",
+        "interests": "",
+        "org": "            Perfex Technology          "
+    },
+    {
+        "name": "Lonh SENG",
+        "website": "http://www.ppc.com.kh",
+        "interests": "",
+        "org": "            PPC          "
+    },
+    {
+        "name": "Daniel CAUNE",
+        "website": "http://http://www.majormode.com/",
+        "interests": "",
+        "org": "            Majormode          "
+    },
+    {
+        "name": "Bùi Huỳnh Kinh Luân",
+        "website": "",
+        "interests": "",
+        "org": "            Van Lang University          "
+    },
+    {
+        "name": "Dinh Thai Minh Tam",
+        "website": "http://www.mecorp.vn",
+        "interests": "",
+        "org": "            ME Corp          "
+    },
+    {
+        "name": "Tran The Toan",
+        "website": "",
+        "interests": "",
+        "org": "            freelancer          "
+    },
+    {
+        "name": "Nguyen Hoai Thuong",
+        "website": "",
+        "interests": "",
+        "org": "            UIT          "
+    },
+    {
+        "name": "Nguyen Thi Hoang Nguyen",
+        "website": "",
+        "interests": "",
+        "org": "            University of Social Sciences and Humanities          "
+    },
+    {
+        "name": "Vương Đức Hiền",
+        "website": "http://vuonghienuit.wordpress.com",
+        "interests": "",
+        "org": "            UIT          "
+    },
+    {
+        "name": "Arunreasey sann",
+        "website": "http://thecaug.net",
+        "interests": "",
+        "org": "            Cambodia Android User Group          "
+    },
+    {
+        "name": "Trần Kim Hiếu",
+        "website": "http://https://www.facebook.com/hieu.trankim",
+        "interests": "",
+        "org": "            Hồ Chí Minh University of Science          "
+    },
+    {
+        "name": "Tran Van Binh",
+        "website": "",
+        "interests": "",
+        "org": "            Univeristy of Information Technology          "
+    },
+    {
+        "name": "mai truong cuu",
+        "website": "",
+        "interests": "",
+        "org": "            DH vanlang          "
+    },
+    {
+        "name": "Mao Socheat",
+        "website": "http://http://www.cambodia.com/",
+        "interests": "",
+        "org": "            Yejj          "
+    },
+    {
+        "name": "Huy Thanh Nguyen",
+        "website": "http://sharex.me",
+        "interests": "",
+        "org": "            Sharex          "
+    },
+    {
+        "name": "Nguyen Mai Lam",
+        "website": "",
+        "interests": "",
+        "org": "            HVCT          "
+    },
+    {
+        "name": "Nguyễn Quốc Trung",
+        "website": "",
+        "interests": "",
+        "org": "            ĐHDL Văn Lang          "
+    },
+    {
+        "name": "Lê Trung Chánh",
+        "website": "http://http://www.vnexplorer.net",
+        "interests": "",
+        "org": "            UIT LUG          "
+    },
+    {
+        "name": "krohabill",
+        "website": "",
+        "interests": "",
+        "org": "            krohabill          "
+    },
+    {
+        "name": "Pongsametrey SOK",
+        "website": "http://http://nokor-group.com",
+        "interests": "",
+        "org": "            Nokor-IT Group          "
+    },
+    {
+        "name": "Nguyen Huu Tuan",
+        "website": "",
+        "interests": "",
+        "org": "            Minh Huu Limited          "
+    },
+    {
+        "name": "Dong Nguyen",
+        "website": "http://http://www.linkedin.com/in/dongnguyen1212",
+        "interests": "",
+        "org": "            Foreign Trade University          "
+    },
+    {
+        "name": "Vo Trung Truong",
+        "website": "",
+        "interests": "",
+        "org": "            Van Lang University          "
+    },
+    {
+        "name": "nguyễn bạch đài trang",
+        "website": "",
+        "interests": "",
+        "org": "            van lang          "
+    },
+    {
+        "name": "Le Dac Minh",
+        "website": "",
+        "interests": "",
+        "org": "            University of Science          "
+    },
+    {
+        "name": "Nguyen Ngoc Binh",
+        "website": "",
+        "interests": "",
+        "org": "            ispace          "
+    },
+    {
+        "name": "Cat Hoang Huy",
+        "website": "",
+        "interests": "",
+        "org": "            RMIT          "
+    },
+    {
+        "name": "Chuyen Vo",
+        "website": "http://vdchuyen.com",
+        "interests": "",
+        "org": "            VNG          "
+    },
+    {
+        "name": "james hopes",
+        "website": "",
+        "interests": "",
+        "org": "            hajkhkj          "
+    },
+    {
+        "name": "Kim-Anh Thi Vo",
+        "website": "http://kimanhvo.net",
+        "interests": "",
+        "org": "            HISP-VN          "
+    },
+    {
+        "name": "Triết",
+        "website": "",
+        "interests": "",
+        "org": "            Home          "
+    },
+    {
+        "name": "Nguyễn Lý Kha",
+        "website": "",
+        "interests": "",
+        "org": "            Van Lang University          "
+    },
+    {
+        "name": "Vo Van Cuong",
+        "website": "http://http://thucungcuatoi.tk",
+        "interests": "",
+        "org": "            FPT-Aptech          "
+    },
+    {
+        "name": "Nguyen Cong Thuong",
+        "website": "http://facebook.com/poorfool9",
+        "interests": "",
+        "org": "            fpt-aptech          "
+    },
+    {
+        "name": "Diệp Hữu Hoàng",
+        "website": "",
+        "interests": "",
+        "org": "            UIT          "
+    },
+    {
+        "name": "Nguyễn Quốc Vương",
+        "website": "",
+        "interests": "",
+        "org": "            Đại học Bách Khoa Tp Hồ Chí Minh          "
+    },
+    {
+        "name": "violetroz",
+        "website": "",
+        "interests": "",
+        "org": "            violetroz          "
+    },
+    {
+        "name": "Lưu Văn Sơn",
+        "website": "http://gnt.com.vn",
+        "interests": "",
+        "org": "            GNT Viet Nam          "
+    },
+    {
+        "name": "Nguyen Ngoc Tuan Anh",
+        "website": "",
+        "interests": "",
+        "org": "            Van Lang          "
+    },
+    {
+        "name": "Nguyễn Trung Kiên",
+        "website": "",
+        "interests": "",
+        "org": "            Geek          "
+    },
+    {
+        "name": "cindypham",
+        "website": "",
+        "interests": "",
+        "org": "            CQU          "
+    }
+]
