@@ -8,7 +8,6 @@ body {
 
 table
 {
-	border-collapse: separate;
 	border-spacing: 10px;
 	table-layout: fixed;
 	width: 100%;
@@ -103,4 +102,12 @@ th, td
 	background:#fff; 
 	clear:left; 
 	font:14px Helvetica,Arial,sans-serif; 
+}
+
+table tbody tr:nth-child(even) td {
+	background: #ccccff;
+}
+
+table tr th {
+	background: #ffffcc;
 }
