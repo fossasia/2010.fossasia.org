@@ -33,6 +33,10 @@ th, td
 	border-bottom-right-radius: 0px;
 	border-bottom-left-radius: 0px;
 }
+.section-header p {
+	margin-left: 5px;
+	margin-bottom : 0;
+}
 
 .section-body
 {
