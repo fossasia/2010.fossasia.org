@@ -75,3 +75,32 @@ th, td
 {
 	border: solid 1px black;
 }
+
+.flickr_badge_image {
+	margin:10px;
+	display:inline;
+}
+.flickr_badge_image img { 
+	border: 1px solid #666666 !important; 
+	padding:1px; 
+	margin:10px;
+}
+#flickr_badge_wrapper {
+	display: -webkit-flexbox;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-flow: row wrap;
+	-ms-flex-flow: row wrap;
+	flex-flow: row wrap;
+	-webkit-flex-pack: justify;
+	-ms-flex-pack: justify;
+	-webkit-justify-content: space-between;
+	justify-content: space-between;
+	padding: 15px;
+}
+#mc_embed_signup{
+	background:#fff; 
+	clear:left; 
+	font:14px Helvetica,Arial,sans-serif; 
+}
