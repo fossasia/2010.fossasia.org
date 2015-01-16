@@ -61,6 +61,7 @@ th, td
 .logos
 {
 	margin-bottom: 5%;
+	padding: 3px;
 }
 
 .logo-s
@@ -114,4 +115,8 @@ table tbody tr:nth-child(even) td {
 
 table tr th {
 	background: #ffffcc;
+}
+
+.logos:hover {
+	border: 1px solid #b92836;
 }
