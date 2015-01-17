@@ -69,6 +69,17 @@ th, td
 	max-width: 100%!important;
 }
 
+.logo-s div:nth-child(2){
+	margin-left: 5px;
+}
+
+.logo-s div:nth-child(2){
+	margin-left: 20%;
+}
+.logo-s div:last-child {
+	text-align: center;
+	display: block;
+}
 .responsive img
 {
 	width: 100%!important;
@@ -122,6 +133,6 @@ table tr th {
 }
 
 .logo-container {
-	display: block;
-	text-align: center;
+	display: inline-block;
+	padding: 20px;
 }
