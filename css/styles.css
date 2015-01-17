@@ -156,3 +156,11 @@ table tr th {
 	max-width:120px;
 	margin-top: auto;
 }
+
+.col-md-8 {
+	background-color: lightgray;
+}
+
+.content-wrapper {
+	padding: 15px;
+}
