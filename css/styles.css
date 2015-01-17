@@ -120,3 +120,8 @@ table tr th {
 .logos:hover {
 	border: 1px solid #b92836;
 }
+
+.logo-container {
+	display: block;
+	text-align: center;
+}

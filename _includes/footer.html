@@ -44,76 +44,13 @@
     <p>PROJECTS</p>
   </div>
   <div class="section-body logo-s">
-    <span style="display:block;text-align: center;margin-bottom:20px">
-    <a href="http://www.debian.org/">
-    <img class="logos" src="{{ site.baseurl }}/images/debian.png" alt="Debian"/></a><br/>
-    <a href="http://www.drupal.org/">
-    <img class="logos" src="{{ site.baseurl }}/images/drupal.png" alt="drupal"/></a><br/>
-    </span>
-    <span style="display:block;text-align: center;">
-    <a href="http://fedoraproject.org/">
-    <img class="logos" src="{{ site.baseurl }}/images/fedora.png" alt="fedora"/></a><br/>
-    <a href="http://www.blackray.org/">
-    <img class="logos" src="{{ site.baseurl }}/images/blackray.png" alt="blackray"/></a><br/>
-    </span>
-    <span style="display:block;text-align: center;">
-    <a href="http://mozilla.org/">
-    <img class="logos" src="{{ site.baseurl }}/images/mozilla.png" alt="mozilla"/></a><br/>
-    <a href="http://lubuntu.net/">
-    <img class="logos" src="{{ site.baseurl }}/images/lubuntu.png" alt="lubuntu"/></a><br/>
-    </span>
-    <span style="display:block;text-align: center;">
-    <a href="http://opendesign.asia/">
-    <img class="logos" src="{{ site.baseurl }}/images/opendesign.png" alt="opendesign"/></a><br/>
-    <a href="http://nosql-database.org/">
-    <img class="logos" src="{{ site.baseurl }}/images/nosql.png" alt="nosql"/></a><br/>
-    </span>
-    <span style="display:block;text-align: center;">
-    <a href="http://olpc.vn/">
-    <img class="logos" src="{{ site.baseurl }}/images/olpc.png" alt="olpc"/></a><br/>
-    <a href="http://tiddlywiki.com/">
-    <img class="logos" src="{{ site.baseurl }}/images/tiddlywiki.png" alt="tiddlywiki"/></a><br/>
-    </span>
-    <span style="display:block;text-align: center;">
-    <a href="http://status.net/">
-    <img class="logos" src="{{ site.baseurl }}/images/statusnet.png" alt="statusnet"/></a><br/>
-    <a href="http://yacy.net/">
-    <img class="logos" src="{{ site.baseurl }}/images/yacy.png" alt="yacy"/></a><br/>
-    </span>
-    <span style="display:block;text-align: center;">
-    <a href="http://ubuntu-vn.org/">
-    <img class="logos" src="{{ site.baseurl }}/images/ubuntu_vn.png" alt="ubuntu vn"/></a><br/>
-    <a href="http://xpud.org/">
-    <img class="logos" src="{{ site.baseurl }}/images/xpud.png" alt="xpud"/></a><br/>
-    </span>
-    <span style="display:block;text-align: center;">
-    <a href="http://www.exoplatform.com/">
-    <img class="logos" src="{{ site.baseurl }}/images/exo.png" alt="exo"/></a><br/>
-    <a href="http://freifunk.net/">
-    <img class="logos" src="{{ site.baseurl }}/images/freifunk.png" alt="freifunk"/></a><br/>
-    </span>
-    <span style="display:block;text-align: center;">
-    <a href="http://www.joomla.org/">
-    <img class="logos" src="{{ site.baseurl }}/images/joomla-logo.png" alt="joomla"/></a><br/>
-    <a href="http://libregraphicsmeeting.org/">
-    <img class="logos" src="{{ site.baseurl }}/images/libre.png" alt="libre"/></a><br/>
-    </span>
-    <span style="display:block;text-align: center;">
-    <a href="http://www.android.com/">
-    <img class="logos" src="{{ site.baseurl }}/images/android.png" alt="android"/></a><br/>
-    <a href="http://www.mariadb.org/">
-    <img class="logos" src="{{ site.baseurl }}/images/mariadb.png" alt="mariadb"/></a><br/>
-    </span>
-    <span style="display:block;text-align: center;">
-    <a href="http://tomatocms.com/">
-    <img class="logos" src="{{ site.baseurl }}/images/tomatocms.png" alt="tomatocms"/></a><br/>
-    <a href="http://eden.sahanafoundation.org/">
-    <img class="logos" src="{{ site.baseurl }}/images/sahana_eden.png" alt="sahana"/></a><br/>
-    </span>
-    <span style="display:block;text-align: center;">
-    <a href="http://www.typo3.com/">
-    <img class="logos" src="{{ site.baseurl }}/images/typo3.png" alt="typo3"/></a><br/>
-    </span>
+    {% for logo in site.data.logos %}
+      <div class="logo-container">
+        <a href="{{ logo.link }}">
+          <img src="{{ site.baseurl }}/images/{{ logo.imgName }}" alt="" class="logos">
+        </a>
+      </div>
+    {% endfor %}
   </div>
   <div class="section-header">
     SPONSORS
