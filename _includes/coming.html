@@ -1,13 +1,22 @@
-<table class="b" style="width:100%;border-collapse: collapse;text-align:center">
-<tr><td class="b"><b>Name</b></td><td class="b"><b>Organization</b></td><td class="b"><b>Website</b></td><td class="b"><b>Interests</b></td></tr>
-{% for member in site.data.coming %}
-	{% if member %}
-	<tr>
-	<td class="b">{{ member.name }}</td>
-	<td class="b">{{ member.org }}</td>
-	<td class="b"><a href="{{ member.website }}">{{ member.website }}</a></td>
-	<td class="b">{{ member.interests }}</td>
-	</tr>
-	{% endif %}
-{% endfor %}
+<table class="table b" style="width:100%;border-collapse: collapse;text-align:center">
+	<thead>
+		<tr>
+			<th class="b"><b>Name</b></th>
+			<th class="b"><b>Organization</b></th>
+			<th class="b"><b>Website</b></th>
+			<th class="b"><b>Interests</b></th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for member in site.data.coming %}
+			{% if member %}
+			<tr>
+				<td class="b">{{ member.name }}</td>
+				<td class="b">{{ member.org }}</td>
+				<td class="b"><a href="{{ member.website }}">{{ member.website }}</a></td>
+				<td class="b">{{ member.interests }}</td>
+			</tr>
+			{% endif %}
+		{% endfor %}
+	</tbody>
 </table>

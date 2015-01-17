@@ -6,6 +6,7 @@ layout: default
 
 The main topics of FOSSASIA 2010 are **Lightweight Computing** and **Women in IT**. We also have sessions dedicated to **OpenOffice.org** and will host a Debian **Mini-Debconf**.
 
+{:.table}
 Day | Time | Event | Location
 --- | --- | --- | ---
 Thursday, Nov. 11 | 20.00 | Pre-Meeting |The Spotted Cow Bar 111 Bui Vien, dist 1. HCMC(opposite to Happy Inn, closed to Pham Ngu Lao & De Tham) [Google Maps](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=111+Bui+Vien,+Ho+Chi+Minh+City,+Vietnam&sll=37.0625,-95.677068&sspn=27.284961,56.513672&ie=UTF8&hq=&hnear=111+Bui+Vien,+ph%C6%B0%E1%BB%9Dng+Ph%E1%BA%A1m+Ng%C5%A9+L%C3%A3o,+District+1,+Ho+Chi+Minh+City,+Vietnam&ll=10.765331,106.686237&spn=0.008242,0.021973&z=16)
