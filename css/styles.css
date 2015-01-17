@@ -136,3 +136,23 @@ table tr th {
 	display: inline-block;
 	padding: 20px;
 }
+
+.navbar-nav {
+	float: right;
+}
+
+.navbar-nav li:hover {
+	background-image: -webkit-linear-gradient(top,#080808 0,#0f0f0f 100%);
+	background-image: -o-linear-gradient(top,#080808 0,#0f0f0f 100%);
+	background-image: -webkit-gradient(linear,left top,left bottom,from(#080808),to(#0f0f0f));
+	background-image: linear-gradient(to bottom,#080808 0,#0f0f0f 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff080808', endColorstr='#ff0f0f0f', GradientType=0);
+	background-repeat: repeat-x;
+	-webkit-box-shadow: inset 0 3px 9px rgba(0,0,0,.25);
+	box-shadow: inset 0 3px 9px rgba(0,0,0,.25);
+}
+
+.site-logo {
+	max-width:120px;
+	margin-top: auto;
+}

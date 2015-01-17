@@ -18,7 +18,7 @@
 				<span class="icon-bar"></span>
 			</button>
 			<a class="navbar-brand" href="index.html">
-				<img style="max-width:100px;margin-top: auto;" src="{{ site.baseurl }}/images/fossasia-dark.png" alt="fossasia logo" />
+				<img class="site-logo" src="{{ site.baseurl }}/images/fossasia-dark.png" alt="fossasia logo" />
 			</a>
 		</div>
 		<div id="navbar" class="collapse navbar-collapse">
@@ -28,9 +28,13 @@
 				<li><a href="{{ site.baseurl }}/whos_coming">Who's coming</a></li>
 				<li><a href="{{ site.baseurl }}/location">Location</a></li>
 				<li><a href="{{ site.baseurl }}/venue">Venue</a></li>
-				<li><a href="{{ site.baseurl }}/schedule">Schedule</a></li>
-				<li><a href="{{ site.baseurl }}/minidebconf">MiniDebConf</a></li>
-				<li><a href="{{ site.baseurl }}/unconference">UnConference</a></li>
+				<li><a href="{{ site.baseurl }}/schedule">Schedule</a></li>                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Meetings <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+						<li><a href="{{ site.baseurl }}/minidebconf">MiniDebConf</a></li>
+						<li><a href="{{ site.baseurl }}/unconference">UnConference</a></li>
+                  </ul>
+                </li>
 				<li><a href="{{ site.baseurl }}/about">About</a></li>
 				<li><a href="{{ site.baseurl }}/contact">Contact</a></li>
 			</ul>
