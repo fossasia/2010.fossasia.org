@@ -91,6 +91,10 @@ th, td
 	border: solid 1px black;
 }
 
+.b tr th {
+	text-align: center;
+}
+
 .flickr_badge_image {
 	margin:10px;
 	display:inline;
