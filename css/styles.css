@@ -138,9 +138,6 @@ table tr th {
 	padding: 20px;
 }
 
-.navbar-nav {
-	float: right;
-}
 
 .navbar-nav li:hover {
 	background-image: -webkit-linear-gradient(top,#080808 0,#0f0f0f 100%);
