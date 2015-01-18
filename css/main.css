@@ -33,6 +33,13 @@
   }
 }
 
+@media (min-width:768px) {
+  .content
+  {
+    min-height:858px;
+  }
+}
+
 .twitter-timeline{
   margin-top:1.5em;
 }
