@@ -53,6 +53,13 @@
   color:white;
 }
 
+#ourfriends > .grey{
+  background:#f5f5f5;
+}
+
+#ourfriends > .white{
+  background:white;
+}
 /*************************
 *******Typography******
 **************************/
