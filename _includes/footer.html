@@ -178,3 +178,16 @@
         </div>
     </div>
 </div>
+
+<script type="text/javascript">
+$( document ).ready(function() {
+    if ($(window).width()< 768) $(".logo-s").css("display","none");
+});
+$("#projectshowbtn").click(function(){
+  if ($(".logo-s").css( "display" )=="none"){
+    $(".logo-s").css("display","block");
+  } else {
+    $(".logo-s").css("display","none");
+  }
+});
+</script>
