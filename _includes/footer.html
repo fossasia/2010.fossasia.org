@@ -65,7 +65,7 @@
 
                 <ul>
                     <li class="heading-three">
-                        <h1 class="section-table-heading">Projects<a style="cursor:pointer;" id="projectshowbtn">[Show/Hide]</a></h1>
+                        <h1 class="section-table-heading">Projects<a style="cursor:pointer; margin-left:20px;" id="projectshowbtn"><img src="http://houseliftinc.com/wp-content/uploads/2014/04/down-arrow-1.png" style="height: 30px;"></a></h1>
                     </li>
                     <li>
                         <div class="section-body logo-s row"align="center">
@@ -234,10 +234,10 @@ $( document ).ready(function() {
     if ($(window).width()< 768) $(".logo-s").css("display","none");
 });
 $("#projectshowbtn").click(function(){
-  if ($(".logo-s").css( "display" )=="none"){
-    $(".logo-s").css("display","block");
-} else {
-    $(".logo-s").css("display","none");
-}
+    if ( $( ".logo-s" ).is( ":hidden" ) ) {
+        $( ".logo-s" ).slideDown( "slow" );
+    } else {
+        $( ".logo-s" ).slideUp("slow");
+    }
 });
 </script>
