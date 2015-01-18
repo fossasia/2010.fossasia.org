@@ -8,34 +8,36 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <!-- navbar -->
-<nav class="navbar navbar-inverse navbar-fixed-top">
-	<div class="container">
-		<div class="navbar-header">
-			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-				<span class="sr-only">Toggle navigation</span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</button>
-			<a class="navbar-brand" href="index.html"><img id="logo" src="{{ site.baseurl }}/images/fever_logo.png" alt="logo"></a>
-		</div>
-		<div id="navbar" class="collapse navbar-collapse">
-			<ul class="nav navbar-nav">
-				<li><a href="{{ site.baseurl }}/">Home</a></li>
-				<li><a href="{{ site.baseurl }}/hotels_and_accommodation">Hotels & Accommodation</a></li>
-				<li><a href="{{ site.baseurl }}/whos_coming">Who's coming</a></li>
-				<li><a href="{{ site.baseurl }}/location">Location</a></li>
-				<li><a href="{{ site.baseurl }}/venue">Venue</a></li>
-				<li><a href="{{ site.baseurl }}/schedule">Schedule</a></li>                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Meetings <span class="caret"></span></a>
-                  <ul class="dropdown-menu" role="menu">
-						<li><a href="{{ site.baseurl }}/minidebconf">MiniDebConf</a></li>
-						<li><a href="{{ site.baseurl }}/unconference">UnConference</a></li>
-                  </ul>
-                </li>
-				<li><a href="{{ site.baseurl }}/about">About</a></li>
-				<li><a href="{{ site.baseurl }}/contact">Contact</a></li>
-			</ul>
-		</div>
-	</div>
-</nav>
+<nav class="navbar navbar-inverse" role="banner">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="index.html"><img id="logo" src="images/fever_logo.png" alt="logo"></a>
+				</div>
+				
+				<div class="collapse navbar-collapse navbar-right" id="navibar">
+					<ul class="nav navbar-nav">
+						<li><a href="{{ site.baseurl }}/index">Home</a></li>
+						<li><a href="{{ site.baseurl }}/hotels_and_accommodation">Hotels & Accommodation</a></li>
+						<li><a href="{{ site.baseurl }}/whos_coming">Who's coming</a></li>
+						<li><a href="{{ site.baseurl }}/location">Location</a></li>
+						<li><a href="{{ site.baseurl }}/venue">Venue</a></li>
+						<li><a href="{{ site.baseurl }}/schedule">Schedule</a></li>
+						<li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown">Meetings<!--<i class="fa fa-angle-down"></i>--></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="{{ site.baseurl }}/minidebconf">MiniDebConf</a></li>
+                                <li><a href="{{ site.baseurl }}/unconference">UnConference</a></li>
+                            </ul>
+                        </li>
+						<li><a href="{{ site.baseurl }}/about">About</a></li>
+						<li><a href="{{ site.baseurl }}/contact">Contact</a></li>                    
+					</ul>
+				</div>
+			</div><!--/.container-->
+		</nav><!--/nav-->
