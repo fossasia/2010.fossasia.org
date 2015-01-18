@@ -229,9 +229,50 @@
 </div><!--/container-->
 </section><!--/table-page-->
 
+<a href="#" class="scrollToTop"></a>
+
+<style type="text/css">
+.scrollToTop{
+    width:60px; 
+    height:60px;
+    padding:10px; 
+    text-align:center; 
+    background: whiteSmoke;
+    font-weight: bold;
+    color: #444;
+    text-decoration: none;
+    position:fixed;
+    top:75px;
+    right:40px;
+    display:none;
+    background: url(http://www.mydrivenortheast.com/images/scroll.png) no-repeat 0px 0px;
+    background-size: cover;
+}
+.scrollToTop:hover{
+    text-decoration:none;
+}
+</style>
+
 <script type="text/javascript">
 $( document ).ready(function() {
+
     if ($(window).width()< 768) $(".logo-s").css("display","none");
+
+    //Check to see if the window is top if not then display button
+    $(window).scroll(function(){
+        if ($(this).scrollTop() > 100) {
+            $('.scrollToTop').fadeIn();
+        } else {
+            $('.scrollToTop').fadeOut();
+        }
+    });
+    
+    //Click event to scroll to top
+    $('.scrollToTop').click(function(){
+        $('html, body').animate({scrollTop : 0},800);
+        return false;
+    });
+    
 });
 $("#projectshowbtn").click(function(){
     if ( $( ".logo-s" ).is( ":hidden" ) ) {
