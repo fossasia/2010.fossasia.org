@@ -7,37 +7,79 @@
 	fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
+<div class="preload_bg"><div id="loading_logo" style="margin-left: 50%; margin-right: 50%; left: -118px; position: fixed; margin-top: 180px;"></div><div class="loading_ani"></div></div>
+
+<script>
+$(window).load(function(){
+	$('.preload_bg').fadeOut();
+}
+)
+</script>
+
+<style type="text/css">
+
+.preload_bg{
+	background:#fff;
+	width:100%;
+	height:100%;
+	position:fixed;
+	z-index:99;
+	top:0;
+	bottom:0;
+}
+
+.loading_ani{
+	width:128px;
+	height:15px;
+	background:url({{ site.baseurl }}/images/ajax-loader.gif) no-repeat;
+	position:fixed;
+	margin-left:50%;
+	margin-right:50%;
+	left:-64px;
+	margin-top:310px;
+}
+
+#loading_logo{
+	background: url({{ site.baseurl }}/images/fever_logo.png) no-repeat;
+	width: 241px;
+	height: 100px;
+	display: inline-block;
+	margin-top: 10px;
+}
+
+</style>
+
 <!-- navbar -->
 <nav class="navbar navbar-inverse" role="banner">
-			<div class="container">
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-					<a class="navbar-brand" href="index.html"><img id="logo" src="{{ site.baseurl }}/images/fever_logo.png" alt="logo"></a>
-				</div>
-				
-				<div class="collapse navbar-collapse navbar-right" id="navibar">
-					<ul class="nav navbar-nav">
-						<li><a href="{{ site.baseurl }}/index">Home</a></li>
-						<li><a href="{{ site.baseurl }}/hotels_and_accommodation">Hotels & Accommodation</a></li>
-						<li><a href="{{ site.baseurl }}/whos_coming">Who's coming</a></li>
-						<li><a href="{{ site.baseurl }}/location">Location</a></li>
-						<li><a href="{{ site.baseurl }}/venue">Venue</a></li>
-						<li><a href="{{ site.baseurl }}/schedule">Schedule</a></li>
-						<li class="dropdown" id="meetings">
-                            <a class="dropdown-toggle" data-toggle="dropdown">Meetings<!--<i class="fa fa-angle-down"></i>--></a>
-                            <ul class="dropdown-menu" id="meetingsmenu">
-                                <li><a href="{{ site.baseurl }}/minidebconf">MiniDebConf</a></li>
-                                <li><a href="{{ site.baseurl }}/unconference">UnConference</a></li>
-                            </ul>
-                        </li>
-						<li><a href="{{ site.baseurl }}/about">About</a></li>
-						<li><a href="{{ site.baseurl }}/contact">Contact</a></li>                    
+	<div class="container">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="index.html"><img id="logo" src="{{ site.baseurl }}/images/fever_logo.png" alt="logo"></a>
+		</div>
+		
+		<div class="collapse navbar-collapse navbar-right" id="navibar">
+			<ul class="nav navbar-nav">
+				<li><a href="{{ site.baseurl }}/index">Home</a></li>
+				<li><a href="{{ site.baseurl }}/hotels_and_accommodation">Hotels & Accommodation</a></li>
+				<li><a href="{{ site.baseurl }}/whos_coming">Who's coming</a></li>
+				<li><a href="{{ site.baseurl }}/location">Location</a></li>
+				<li><a href="{{ site.baseurl }}/venue">Venue</a></li>
+				<li><a href="{{ site.baseurl }}/schedule">Schedule</a></li>
+				<li class="dropdown" id="meetings">
+					<a class="dropdown-toggle" data-toggle="dropdown">Meetings<!--<i class="fa fa-angle-down"></i>--></a>
+					<ul class="dropdown-menu" id="meetingsmenu">
+						<li><a href="{{ site.baseurl }}/minidebconf">MiniDebConf</a></li>
+						<li><a href="{{ site.baseurl }}/unconference">UnConference</a></li>
 					</ul>
-				</div>
-			</div><!--/.container-->
+				</li>
+				<li><a href="{{ site.baseurl }}/about">About</a></li>
+				<li><a href="{{ site.baseurl }}/contact">Contact</a></li>                    
+			</ul>
+		</div>
+	</div><!--/.container-->
 		</nav><!--/nav-->
