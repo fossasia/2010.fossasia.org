@@ -1,19 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-	{% include head.html %}
+{% include head.html %}
 <body>
 	{% include header.html %}
+
 	<div class="container">
 		<div class="row">
 			<div class="responsive">
-				<div class="col-md-8">
+				<div class="col-md-12 content">
 					<div class="content-wrapper">
 						{{content}}
 					</div>
 				</div>
 			</div>
-		{% include footer.html %}
+			{% include footer.html %}
 		</div>
+	</div>
+	<div style="margin-top: 30px; padding: 10px 10px; width: 100%; background-color: black; color: white; height: 35px">
+		Content available on <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pl">CC-BY-SA license</a>
+		<span style="display:block;float:right">
+			<a href="http://2010.fossasia.org/">Ported from Drupal</a> by Tymon Radzik 2015 during Google Code-In contest</a>
+		</span>
 	</div>
 </body>
 </html>
