@@ -19,6 +19,20 @@
   }
 }
 
+@media (min-width: 992px) {
+  #meetings
+  {
+    padding-bottom:0px;
+  }
+}
+
+@media (min-width: 768px) and (max-width:992px) {
+  #meetingsmenu
+  {
+    margin-top:-20px;
+  }
+}
+
 .twitter-timeline{
   margin-top:1.5em;
 }
