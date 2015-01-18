@@ -33,6 +33,13 @@
   }
 }
 
+@media (min-width:768px) {
+  .content
+  {
+    min-height:858px;
+  }
+}
+
 .twitter-timeline{
   margin-top:1.5em;
 }
@@ -44,6 +51,20 @@
 
 .section-table-heading{
   color:white;
+}
+
+@media (max-width:992px){
+  #ourfriends-masterdiv{
+    height:410px;
+  }
+}
+
+#ourfriends > .grey{
+  background:rgba(245, 245, 245, 0.6);
+}
+
+#ourfriends > .white{
+  background:white;
 }
 
 /*************************
