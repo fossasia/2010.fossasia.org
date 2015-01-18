@@ -128,6 +128,11 @@ table tr th {
 	background: #ffffcc;
 }
 
+.logo-col > div {
+	margin:10px 0px 10px 0px;
+}
+
+
 .logo-col > div:hover {
 	background:rgb(236, 236, 236);
 }
