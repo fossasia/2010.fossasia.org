@@ -55,7 +55,7 @@ th, td
 	margin: 0 auto;
 }
 
-.logos
+/*.logos
 {
 	margin-bottom: 5%;
 	padding: 3px;
@@ -76,7 +76,7 @@ th, td
 .logo-s div:last-child {
 	text-align: center;
 	display: block;
-}
+}*/
 .responsive img
 {
 	width: 100%!important;
