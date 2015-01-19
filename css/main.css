@@ -19,7 +19,7 @@
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 991px) {
   #meetings
   {
     padding-bottom:0px;
@@ -46,7 +46,7 @@ https://developers.facebook.com/docs/reference/plugins/like-box/
   width: 100% !important;
 }
 
-@media (min-width: 460px) and (max-width:992px){
+@media (min-width: 460px) and (max-width:991px){
   #twitter-widget-0{
     width:80% !important;
     margin-left:10%;
@@ -68,7 +68,7 @@ https://developers.facebook.com/docs/reference/plugins/like-box/
   }
 }
 
-@media (min-width: 768px) and (max-width:992px) {
+@media (min-width: 768px) and (max-width:991px) {
   #meetingsmenu
   {
     margin-top:-20px;
@@ -100,9 +100,13 @@ https://developers.facebook.com/docs/reference/plugins/like-box/
   color:white;
 }
 
-@media (max-width:992px){
+@media (max-width:991px){
   #ourfriends-masterdiv{
     height:410px;
+  }
+
+  #section-1{
+    margin-top:900px;
   }
 }
 
