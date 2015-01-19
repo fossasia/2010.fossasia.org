@@ -6,6 +6,7 @@ title: Location
 
 Ho Chi Minh City (Saigon) (Vietnamese: Thành phố Hồ Chí Minh Thanh Pho Ho Chi Minh) is the largest city in Vietnam. It was known as Prey Nokor before being annexed by the Vietnamese in the 17th century. Under the name Saigon, it was the capital of the French colony of Cochinchina and later of the independent state of South Vietnam from 1954 to 1975. In 1976, Saigon merged with the surrounding province of Gia Định and was officially renamed Hồ Chí Minh City (although the name Sài Gòn – formally known as District 1 – is still commonly used.)
 
+{:.scale-img}
 ![Tập tin:Saigonnightskyline.jpg][1]
 
 Saigon Ho Chi Minh City's Downtown at night  
