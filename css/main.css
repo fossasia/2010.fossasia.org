@@ -20,14 +20,9 @@
 }
 
 @media (min-width: 991px) {
-  #meetings
+  .dropdown-fix
   {
-    padding-bottom:0px;
-  }
-
-  #fossasia
-  {
-    padding-bottom:0px;
+    padding-bottom:0px !important;
   }
 }
 
@@ -69,14 +64,9 @@ https://developers.facebook.com/docs/reference/plugins/like-box/
 }
 
 @media (min-width: 768px) and (max-width:991px) {
-  #meetingsmenu
+  .dropdownmenu-fix
   {
-    margin-top:-20px;
-  }
-
-  #fossasiamenu
-  {
-    margin-top:-20px;
+    margin-top:-20px !important;
   }
 }
 
