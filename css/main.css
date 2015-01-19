@@ -26,6 +26,43 @@
   }
 }
 
+/*
+Make the Facebook Like box responsive (fluid width)
+https://developers.facebook.com/docs/reference/plugins/like-box/
+*/
+
+/* This element holds injected scripts inside iframes that in some cases may stretch layouts. So, we're just hiding it. */
+#fb-root {
+  display: none;
+}
+
+/* To fill the container and nothing else */
+.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
+  width: 100% !important;
+}
+
+@media (min-width: 460px) and (max-width:992px){
+  #twitter-widget-0{
+    width:80% !important;
+    margin-left:10%;
+  }
+  .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
+    width: 80% !important;
+    margin-left:10%;
+  }
+}
+
+@media (max-width:460px){
+  #twitter-widget-0{
+    width:96% !important;
+    margin-left:2%;
+  }
+  .fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget span iframe[style] {
+    width: 96% !important;
+    margin-left:2%;
+  }
+}
+
 @media (min-width: 768px) and (max-width:992px) {
   #meetingsmenu
   {
@@ -345,9 +382,9 @@ input.search-form:hover {
   }
 }
 
- .navbar-nav{
+.navbar-nav{
   margin-top: 12px;
- }
+}
 
 .navbar-nav>li{
   margin-left: 17px;
@@ -513,7 +550,7 @@ table
   border-collapse: separate;
   border-spacing: 10px;
   table-layout: fixed;
-      width: 100%;
+  width: 100%;
 }
 
 th, td
@@ -625,7 +662,7 @@ th, td
 .table-area .heading-six, 
 .table-area .item-six .plan-action .btn-primary {
   background: #e24f43
-;
+  ;
 }
 
 .table-area .heading-seven, 
@@ -695,7 +732,7 @@ th, td
   position: relative;
   padding:5px 20px;
   color: #fff
-;
+  ;
   margin-top: 5px;
 }
 
@@ -758,11 +795,11 @@ th, td
  404 page css
  ******************/
 
-#error .btn-success:hover, 
-.btn-success:focus, 
-.btn-success:active, 
-.btn-success.active, 
-.open .dropdown-toggle.btn-success:hover {
+ #error .btn-success:hover, 
+ .btn-success:focus, 
+ .btn-success:active, 
+ .btn-success.active, 
+ .open .dropdown-toggle.btn-success:hover {
   background-color: #EBEBEB;
   border-color: #EBEBEB;
   color: #4E4E4E;
