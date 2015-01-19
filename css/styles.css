@@ -85,7 +85,7 @@ th, td
 
 .b
 {
-	border: solid 1px black;
+	/*border: solid 1px black;*/
 }
 
 .b tr th {
