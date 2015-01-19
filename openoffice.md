@@ -6,6 +6,8 @@ layout: default
 
 Logo: 
 
-![openoffice](images/openoffice.png)
+![openoffice][1]
 
 Website: [http://openoffice.org](http://openoffice.org)
+
+[1]: {{ site.baseurl }}/images/openoffice.png
