@@ -3,7 +3,7 @@ title: Raffles International College
 layout: default
 ---
 Logo: 
-![Raffels](images/raffles.png)
+![Raffles][1]
 
 Website: 
 
@@ -20,3 +20,5 @@ Choice, flexibility and individuality are key concepts for us. We understand tha
 Our staff - your lecturers and the dedicated team supporting them - really want to inspire you to get the most out of your course. We make the effort to get to know you and encourage you to do your best and realize your potential. Your time with us will equip you with a strong set of skills and the ability to keep learning, enabling you to enter the workforce confidently and continue to grow and develop as the industry - and your career - advances.
 
 More Info [here](http://www.raffles-international-college-hcm.edu.vn/cms/index.php?%20option=com_content&view=article&id=51&Itemid=27&lang=en).
+
+[1]: {{ site.baseurl }}/images/raffles.png
