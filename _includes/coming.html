@@ -4,6 +4,7 @@
 			<th class="b"><b>Name</b></th>
 			<th class="b"><b>Organization</b></th>
 			<th class="b"><b>Website</b></th>
+			<th class="b"><b>Social</b></th>
 			<th class="b"><b>Interests</b></th>
 		</tr>
 	</thead>
@@ -14,6 +15,12 @@
 				<td class="b">{{ member.name }}</td>
 				<td class="b">{{ member.org }}</td>
 				<td class="b"><a href="{{ member.website }}">{{ member.website }}</a></td>
+				<td class="b">
+					<ul class="table-social-links">
+						<a href="{{ member.facebook }}"><li>facebook</li></a>
+						<a href="{{ member.twitter }}"><li>twitter</li></a>
+					</ul>
+				</td>
 				<td class="b">{{ member.interests }}</td>
 			</tr>
 			{% endif %}
