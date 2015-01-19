@@ -166,3 +166,9 @@ table tr th {
 .content-wrapper {
 	padding: 15px;
 }
+
+.table-social-links li {
+	float: left;
+	list-style-type: none;
+	margin-right: 5px;
+}
