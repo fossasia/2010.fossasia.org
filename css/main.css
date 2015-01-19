@@ -564,6 +564,7 @@ table
 th, td
 {
   word-wrap: break-word;
+  border:none !important;
 }
 
 /**************************
