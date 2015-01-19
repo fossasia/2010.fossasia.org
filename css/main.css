@@ -26,6 +26,20 @@
   }
 }
 
+@media (min-width: 460px) and (max-width:992px){
+  #twitter-widget-0{
+    width:80% !important;
+    margin-left:10%;
+  }
+}
+
+@media (max-width:460px){
+  #twitter-widget-0{
+    width:96% !important;
+    margin-left:2%;
+  }
+}
+
 @media (min-width: 768px) and (max-width:992px) {
   #meetingsmenu
   {
