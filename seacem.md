@@ -6,7 +6,9 @@ layout: default
 
 Logo: 
 
-![seacem](images/seacem.png)
+![seacem][1]
 
 Website: 
 [http://seacem.com/](http://seacem.com/)
+
+[1]: {{ site.baseurl }}/images/seacem.png
