@@ -11,7 +11,7 @@
 }
 
 @media (min-width: 1200px) {
-  .responsive img
+  .responsive .scale-img
   {
     width: 75%!important;
     margin-left:12.5%;
@@ -20,14 +20,9 @@
 }
 
 @media (min-width: 991px) {
-  #meetings
+  .dropdown-fix
   {
-    padding-bottom:0px;
-  }
-
-  #fossasia
-  {
-    padding-bottom:0px;
+    padding-bottom:0px !important;
   }
 }
 
@@ -69,14 +64,9 @@ https://developers.facebook.com/docs/reference/plugins/like-box/
 }
 
 @media (min-width: 768px) and (max-width:991px) {
-  #meetingsmenu
+  .dropdownmenu-fix
   {
-    margin-top:-20px;
-  }
-
-  #fossasiamenu
-  {
-    margin-top:-20px;
+    margin-top:-26px !important;
   }
 }
 
@@ -98,6 +88,10 @@ https://developers.facebook.com/docs/reference/plugins/like-box/
 
 .section-table-heading{
   color:white;
+}
+
+#section-1{
+  margin-top:50px;
 }
 
 @media (max-width:991px){
@@ -570,6 +564,7 @@ table
 th, td
 {
   word-wrap: break-word;
+  border:none !important;
 }
 
 /**************************
