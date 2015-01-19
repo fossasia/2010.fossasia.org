@@ -90,6 +90,10 @@ https://developers.facebook.com/docs/reference/plugins/like-box/
   color:white;
 }
 
+#section-1{
+  margin-top:50px;
+}
+
 @media (max-width:991px){
   #ourfriends-masterdiv{
     height:410px;
