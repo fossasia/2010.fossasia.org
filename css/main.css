@@ -11,7 +11,7 @@
 }
 
 @media (min-width: 1200px) {
-  .responsive img
+  .responsive .scale-img
   {
     width: 75%!important;
     margin-left:12.5%;
