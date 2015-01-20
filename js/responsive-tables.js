@@ -1,14 +1,16 @@
 $(document).ready(function() {
   var switched = false;
   var updateTables = function() {
-    if (($(window).width() < 767) && !switched ){
+    //Changed to true in order to apply responsive table in all screen sizes
+    //if (($(window).width() < 785) && !switched ){
+    if (true){
       switched = true;
       $("table.responsive").each(function(i, element) {
         splitTable($(element));
       });
       return true;
     }
-    else if (switched && ($(window).width() > 767)) {
+    else if (switched && ($(window).width() > 785)) {
       switched = false;
       $("table.responsive").each(function(i, element) {
         unsplitTable($(element));
@@ -17,8 +19,10 @@ $(document).ready(function() {
   };
    
   $(window).load(updateTables);
+  /* Commented out to prevent multiple calls on screen resize
   $(window).on("redraw",function(){switched=false;updateTables();}); // An event to listen for
   $(window).on("resize", updateTables);
+  */
    
 	
 	function splitTable(original)

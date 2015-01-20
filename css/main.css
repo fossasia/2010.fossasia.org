@@ -556,8 +556,6 @@ input.search-form:hover {
 table
 {
   border-collapse: separate;
-  border-spacing: 10px;
-  table-layout: fixed;
   width: 100%;
 }
 
