@@ -16,6 +16,7 @@ Ho Chi Minh City is located at 10°45′N, 106°40′E in the southeastern regio
 
 **Weather data for Ho Chi Minh City**
 
+{:.responsive}
 Data/Month|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec
 ---|---|---|---|---|---|---|---|---|---|---|---|---
 Average high °C (°F)|32(90)|33(91)|34(93)|34(93)|33(91)|32(90)|31(88)|32(90)|31(88)|31(88)|30(86)|31(88)

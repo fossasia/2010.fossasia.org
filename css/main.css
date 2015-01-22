@@ -556,8 +556,6 @@ input.search-form:hover {
 table
 {
   border-collapse: separate;
-  border-spacing: 10px;
-  table-layout: fixed;
   width: 100%;
 }
 
@@ -565,6 +563,10 @@ th, td
 {
   word-wrap: break-word;
   border:none !important;
+}
+
+tbody > tr:nth-child(2) > td:nth-child(1){
+  background: #BBBBFF;
 }
 
 /**************************
