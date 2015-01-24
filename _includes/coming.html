@@ -17,8 +17,8 @@
 				<td class="b"><a href="{{ member.website }}">{{ member.website }}</a></td>
 				<td class="b">
 					<ul class="table-social-links">
-						<a href="{{ member.facebook }}"><li>facebook</li></a>
-						<a href="{{ member.twitter }}"><li>twitter</li></a>
+						<a class="social-facebook" href="{{ member.facebook }}"><li>facebook</li></a>
+						<a class="social-twitter" href="{{ member.twitter }}"><li>twitter</li></a>
 					</ul>
 				</td>
 				<td class="b">{{ member.interests }}</td>
@@ -27,3 +27,38 @@
 		{% endfor %}
 	</tbody>
 </table>
+<script>
+	fbs = $('.social-facebook');
+	tws = $('.social-twitter');
+	
+	if (typeof String.prototype.startsWith != 'function') {
+		// see below for better implementation!
+		String.prototype.startsWith = function (str){
+			return this.indexOf(str) == 0;
+		};
+	}
+	
+	for (var i = 0; i < fbs.length; i++) {
+		var f = $(fbs[i])
+		hrf = f.attr('href')
+		if (hrf != '' && hrf.indexOf('@') < -1) {
+			url = ''
+			if (!hrf.startsWith('http://facebook.com')) {
+				url = 'http://facebook.com/'+hrf
+			}
+			f.attr('href', url)
+		}
+	};
+	
+	for (var i = 0; i < tws.length; i++) {
+		var t = $(tws[i])
+		hrf = t.attr('href')
+		if (hrf != ''){
+			url = ''
+			if (!hrf.startsWith('http://twitter.com')) {
+				url = 'http://twitter.com/'+hrf
+			}
+			t.attr('href', url)
+		}
+	};
+</script>
