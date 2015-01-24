@@ -171,11 +171,7 @@ table tr th {
 	margin-right: 5px;
 }
 
-.member-website {
-	font-size: 90%;
-}
-
-.table-social-links i, .member-website i {
+.table-social-links i {
 	font-size: 20px;
 	margin-right: 10px;
 }

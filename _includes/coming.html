@@ -3,7 +3,6 @@
 		<tr>
 			<th class="b"><b>Name</b></th>
 			<th class="b"><b>Organization</b></th>
-			<th class="b"><b>Website</b></th>
 			<th class="b"><b>Social</b></th>
 			<th class="b"><b>Interests</b></th>
 		</tr>
@@ -15,14 +14,16 @@
 				<td class="b">{{ member.name }}</td>
 				<td class="b">{{ member.org }}</td>
 				<td class="b">
-					{% if member.website != '' %}
-						<a class="member-website" href="{{ member.website }}"><i class="fa fa-globe"></i>{{ member.website }}</a>
-					{% endif %}
-				</td>
-				<td class="b">
 					<ul class="table-social-links">
-						<a class="social-facebook" href="{{ member.facebook }}"><li><i class="fa fa-facebook"></i></li></a>
-						<a class="social-twitter" href="{{ member.twitter }}"><li><i class="fa fa-twitter"></i></li></a>
+						{% if member.website != '' %}
+							<a class="social-website" href="{{ member.website }}"><li><i class="fa fa-globe"></i></li></a>
+						{% endif %}
+						{% if member.facebook != '' %}
+							<a class="social-facebook" href="{{ member.facebook }}"><li><i class="fa fa-facebook"></i></li></a>
+						{% endif %}
+						{% if member.twitter != '' %}
+							<a class="social-twitter" href="{{ member.twitter }}"><li><i class="fa fa-twitter"></i></li></a>
+						{% endif %}
 					</ul>
 				</td>
 				<td class="b">{{ member.interests }}</td>
