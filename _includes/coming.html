@@ -41,7 +41,7 @@
 	for (var i = 0; i < fbs.length; i++) {
 		var f = $(fbs[i])
 		hrf = f.attr('href')
-		if (hrf != '' && hrf.indexOf('@') < -1) {
+		if (hrf != '' ) {
 			url = ''
 			if (!hrf.startsWith('http://facebook.com')) {
 				url = 'http://facebook.com/'+hrf
