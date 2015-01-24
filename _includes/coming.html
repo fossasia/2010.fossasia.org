@@ -14,7 +14,11 @@
 			<tr>
 				<td class="b">{{ member.name }}</td>
 				<td class="b">{{ member.org }}</td>
-				<td class="b"><a class="member-website" href="{{ member.website }}"><i class="fa fa-globe"></i>{{ member.website }}</a></td>
+				<td class="b">
+					{% if member.website != '' %}
+						<a class="member-website" href="{{ member.website }}"><i class="fa fa-globe"></i>{{ member.website }}</a>
+					{% endif %}
+				</td>
 				<td class="b">
 					<ul class="table-social-links">
 						<a class="social-facebook" href="{{ member.facebook }}"><li><i class="fa fa-facebook"></i></li></a>
