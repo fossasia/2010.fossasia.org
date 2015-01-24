@@ -125,6 +125,10 @@ table tbody tr:nth-child(even) td {
 table tr th {
 	background: #ffffcc;
 }
+
+#coming-table>thead>tr>th{
+	width: 23%;
+}
 .table>tbody>tr:hover>td{
 	background-color: #f6f6f6;
 }
