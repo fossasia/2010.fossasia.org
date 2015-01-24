@@ -126,6 +126,13 @@ table tr th {
 	background: #ffffcc;
 }
 
+#coming-table>thead>tr>th{
+	width: 23%;
+}
+.table>tbody>tr:hover>td{
+	background-color: #f6f6f6;
+}
+
 .logo-col > div {
 	margin:10px 0px 10px 0px;
 }
