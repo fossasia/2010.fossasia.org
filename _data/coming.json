@@ -5,7 +5,7 @@
         "interests": "",
         "facebook":"mariobehling",
         "twitter":"mariobehling",
-        "org": "            a:1:{i:0;s:12:\"freifunk.net\";}          "
+        "org": "freifunk.net"
     },
     {
         "name": "Đặng Hồng Phúc",
@@ -15,7 +15,7 @@
         "twitter":"",
         "facebook":"hpdang",
         "twitter":"hpdang",
-        "org": "            a:1:{i:0;s:12:\"FOSS Vietnam\";}          "
+        "org": "FOSS Vietnam"
     },
     {
         "name": "Pierros Papadeas",
@@ -23,7 +23,7 @@
         "interests": "I am currently working on extending the use of Fedora in academic field by organizing presentations (hackfests, installfests etc) and putting pressure on using more FOSS in the universities of Greece.",
         "facebook":"",
         "twitter":"ppapadeas",
-        "org": "            a:1:{i:0;s:14:\"Mozilla/Fedora\";}          "
+        "org": "Mozilla/Fedora"
     },
     {
         "name": "Banh Van Tri",
@@ -31,7 +31,7 @@
         "interests": "Linux",
         "facebook":"banhvantri",
         "twitter":"",
-        "org": "            a:1:{i:0;s:3:\"ITD\";}          "
+        "org": "ITD"
     },
     {
         "name": "TRAN Duy Hung",
@@ -39,7 +39,7 @@
         "interests": "I would like to introduce Lubuntu OS, share my experience with it to everybody and learn more about FOSS.",
         "facebook":"duyhungtran",
         "twitter":"tranduyhung",
-        "org": "            a:1:{i:0;s:10:\"Individual\";}          "
+        "org": "Individual"
     },
     {
         "name": "Nguyen Kim Kha",
@@ -47,7 +47,7 @@
         "interests": "Map technology, FOSS in Vietnam, Mozilla's projects.",
         "facebook":"nkimkha",
         "twitter":"nkimkha",
-        "org": "            a:2:{i:0;s:10:\"QHoach.com\";i:1;s:15:\"Mozilla Vietnam\";}          "
+        "org": "QHoach.com, Mozilla Vietnam"
     },
     {
         "name": "Trần Quang Thông",
@@ -55,7 +55,7 @@
         "interests": "Xây dựng website với Drupal.",
         "facebook":"tranquangthong",
         "twitter":"tqthong",
-        "org": "            a:1:{i:0;s:17:\"MBM International\";}          "
+        "org": "MBM International"
     },
     {
         "name": "Tran Dinh Minh Khanh",
@@ -63,7 +63,7 @@
         "interests": "ubuntu",
         "facebook":"kangta_bibi",
         "twitter":"",
-        "org": "            a:1:{i:0;s:15:\"Open University\";}          "
+        "org": "Open University"
     },
     {
         "name": "Tran Dinh Quan",
@@ -71,7 +71,7 @@
         "interests": "make acquaintance with friends in Open-source community. Want to learn more about new technology for open source software. Hope to get some new ideas for my future project.",
         "facebook":"TranDinhQuan",
         "twitter":"",
-        "org": "            a:1:{i:0;s:5:\"HCMUT\";}          "
+        "org": "HCMUT"
     },
     {
         "name": "Keo Kounila",
@@ -79,7 +79,7 @@
         "interests": "female bloggers",
         "facebook":"",
         "twitter":"Kounila",
-        "org": "            a:1:{i:0;s:10:\"individual\";}          "
+        "org": "individual"
     },
     {
         "name": "Alfred",
@@ -87,7 +87,7 @@
         "interests": "a lot",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:2:\"Xu\";}          "
+        "org": "Xu"
     },
     {
         "name": "Nguyen Van Phuc",
@@ -95,7 +95,7 @@
         "interests": "Open Source, Network Security",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:6:\"HCMCPV\";}          "
+        "org": "HCMCPV"
     },
     {
         "name": "nhon",
@@ -103,7 +103,7 @@
         "interests": "I want to know more about open software",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:3:\"hcm\";}          "
+        "org": "hcm"
     },
     {
         "name": "abhishek gupta",
@@ -111,7 +111,7 @@
         "interests": "anything",
         "facebook":"abhishekguptaias@gmail.com",
         "twitter":"",
-        "org": "            a:1:{i:0;s:27:\"iec college of engg & tech.\";}          "
+        "org": "iec college of engg & tech"
     },
     {
         "name": "Khai Nguyen",
@@ -119,7 +119,7 @@
         "interests": "anything",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:2:\"us\";}          "
+        "org": "us"
     },
     {
         "name": "Cao Minh Vu",
@@ -127,7 +127,7 @@
         "interests": "Open source on mobile and embedded devices",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:8:\"Personal\";}          "
+        "org": "Personal"
     },
     {
         "name": "Võ Duy Tuấn",
@@ -135,7 +135,7 @@
         "interests": "NoSQL & Cloud Computing",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:15:\"VNG Corporation\";}          "
+        "org": "VNG Corporation"
     },
     {
         "name": "Dương Bính Cường",
@@ -143,7 +143,7 @@
         "interests": "Free and open source softwares",
         "facebook":"binhcuong0510",
         "twitter":"",
-        "org": "            a:1:{i:0;s:2:\"OU\";}          "
+        "org": "OU"
     },
     {
         "name": "Phùng Hạnh Vi",
@@ -151,7 +151,7 @@
         "interests": "I want to have more knowledge about opensource",
         "facebook":"Phung Hanh VI",
         "twitter":"",
-        "org": "            a:1:{i:0;s:10:\"individual\";}          "
+        "org": "individual"
     },
     {
         "name": "Nguyen Thi Huyen Tran",
@@ -159,7 +159,7 @@
         "interests": "I hope I can know about Ubuntu more than",
         "facebook":"huyentran218@yahoo.com",
         "twitter":"",
-        "org": "            a:1:{i:0;s:10:\"individual\";}          "
+        "org": "individual"
     },
     {
         "name": "Lê Trung Nghĩa",
@@ -167,7 +167,7 @@
         "interests": "Common knowledge about FOSS and related problems in Vietnam. Also check out ",
         "facebook":"lnghia",
         "twitter":"",
-        "org": "            a:1:{i:0;s:78:\"Development Co-ordination Agency For Environment of Science & Technology (DCA)\";}          "
+        "org": "Development Co-ordination Agency For Environment of Science & Technology (DCA"
     },
     {
         "name": "channak sam",
@@ -175,7 +175,7 @@
         "interests": "that good a chance for me to join to show what i have learn to shard and get what is new for me.",
         "facebook":"channak.ace",
         "twitter":"",
-        "org": "            a:1:{i:0;s:29:\"Attitude Centre for Education\";}          "
+        "org": "Attitude Centre for Education"
     },
     {
         "name": "Son Cheng Chon",
@@ -183,7 +183,7 @@
         "interests": "I want to share Khmer OS",
         "facebook":"sonchengchon",
         "twitter":"sonchengchon",
-        "org": "            a:1:{i:0;s:4:\"KKIT\";}          "
+        "org": "KKIT"
     },
     {
         "name": "Bùi Huy Hải",
@@ -191,7 +191,7 @@
         "interests": "Học hỏi kiến thức mới.",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:10:\"Misoft JSC\";}          "
+        "org": "Misoft JSC"
     },
     {
         "name": "Lay Phalla",
@@ -199,7 +199,7 @@
         "interests": "I really interested in Open source",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:14:\"Web Essentials\";}          "
+        "org": "Web Essentials"
     },
     {
         "name": "Bonnaka Mao",
@@ -207,7 +207,7 @@
         "interests": "I would expect to know about the new technologies, I like to see how people share their experience about using open source.",
         "facebook":"profile.php?id=596109639",
         "twitter":"bonnakamao",
-        "org": "            a:1:{i:0;s:14:\"Web Essentials\";}          "
+        "org": "Web Essentials"
     },
     {
         "name": "Dimanche Eat",
@@ -215,7 +215,7 @@
         "interests": "Want to know the technologies.",
         "facebook":"profile.php?id=1430711352",
         "twitter":"dimancheeat",
-        "org": "            a:1:{i:0;s:14:\"Web Essentials\";}          "
+        "org": "Web Essentials"
     },
     {
         "name": "Thux Sreyleak",
@@ -223,7 +223,7 @@
         "interests": "Getting to know about new technologies and I want to know more about how people using Open Source Software also to get in touch with people.",
         "facebook":"Ann Sreyleak",
         "twitter":"w3essentials",
-        "org": "            a:1:{i:0;s:14:\"Web Essentials\";}          "
+        "org": "Web Essentials"
     },
     {
         "name": "Châu Nguyễn Nhật Thanh",
@@ -231,7 +231,7 @@
         "interests": "get the knowledge",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:3:\"VNG\";}          "
+        "org": "VNG"
     },
     {
         "name": "Mam Violeng",
@@ -239,7 +239,7 @@
         "interests": "Open Source",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:14:\"Web Essentials\";}          "
+        "org": "Web Essentials"
     },
     {
         "name": "Visay Keo",
@@ -255,7 +255,7 @@
         "interests": "I want to know how can local NGO benefits from IT,esp new technology.",
         "facebook":"seangheng.lim",
         "twitter":"",
-        "org": "            a:1:{i:0;s:4:\"CDMD\";}          "
+        "org": "CDMD"
     },
     {
         "name": "Lim Chivy",
@@ -263,7 +263,7 @@
         "interests": "I would like to know more about FOSS.",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:15:\"Web Essentials \";}          "
+        "org": "Web Essentials "
     },
     {
         "name": "Jean Ng",
@@ -271,7 +271,7 @@
         "interests": "Sharing about who Web Essentials is, what we do and how we are using Typo 3 in our social business.",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:14:\"Web Essentials\";}          "
+        "org": "Web Essentials"
     },
     {
         "name": "Diana Jayne Gonzales",
@@ -279,7 +279,7 @@
         "interests": "I would like to know more about lightweight technologies.",
         "facebook":"godiane",
         "twitter":"godiane",
-        "org": "            a:1:{i:0;s:4:\"UPOU\";}          "
+        "org": "UPOU"
     },
     {
         "name": "Dararoath Vandeth",
@@ -287,7 +287,7 @@
         "interests": "I'm so keen to know lightweight mobile and to know, to learn, and to build network with other participants.",
         "facebook":"dararoath vandeth",
         "twitter":"drvandeth",
-        "org": "            a:1:{i:0;s:30:\"Arbitration Council Foundation\";}          "
+        "org": "Arbitration Council Foundation"
     },
     {
         "name": "Trang Thảo Nguyên",
@@ -295,7 +295,7 @@
         "interests": "Open source",
         "facebook":"trangthaonguyen",
         "twitter":"",
-        "org": "            a:1:{i:0;s:2:\"OU\";}          "
+        "org": "OU"
     },
     {
         "name": "nguyễn văn huynh",
@@ -303,7 +303,7 @@
         "interests": "* Biết thêm về FOSS, các ứng dụng và các giải pháp dành riêng cho điện thoại di động.",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:38:\"đại học bách khoa hồ chí minh\";}          "
+        "org": "đại học bách khoa hồ chí minh"
     },
     {
         "name": "Be Chantra",
@@ -311,7 +311,7 @@
         "interests": "I expect to get connection with open source developer around asia.",
         "facebook":"chantra.be",
         "twitter":"bechantra",
-        "org": "            a:1:{i:0;s:5:\"Sabay\";}          "
+        "org": "Sabay"
     },
     {
         "name": "Ngô Duy Khánh",
@@ -319,7 +319,7 @@
         "interests": "Kiến thức/Kinh Nghiệm",
         "facebook":"ding.vn",
         "twitter":"DingVn",
-        "org": "            a:1:{i:0;s:17:\"Máy Chủ Mạng\";}          "
+        "org": "Máy Chủ Mạng"
     },
     {
         "name": "Hoàng Trúc Phương",
@@ -327,7 +327,7 @@
         "interests": "Xu thế sử dụng phần mềm mã nguồn mở tại Việt Nam đã phát triển như thế nào?",
         "facebook":"zhufangh",
         "twitter":"",
-        "org": "            a:1:{i:0;s:9:\"DH KHXHNV\";}          "
+        "org": "DH KHXHNV"
     },
     {
         "name": "Phan Hoàng Nhật",
@@ -335,7 +335,7 @@
         "interests": "Thông tin về mã nguồn mở",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:40:\"Công ty TNHH MTV Lương Thực Tp. HCM\";}          "
+        "org": "Công ty TNHH MTV Lương Thực Tp. HCM"
     },
     {
         "name": "Nguyễn Ngọc Thúy Hiền",
@@ -343,7 +343,7 @@
         "interests": "I want to know more about Open Source",
         "facebook":"BeCun",
         "twitter":"",
-        "org": "            a:1:{i:0;s:15:\"Open University\";}          "
+        "org": "Open University"
     },
     {
         "name": "Luong Viet Phong",
@@ -351,7 +351,7 @@
         "interests": "MySQL, MongoDB, jquery, php framework, python, GAE",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:4:\"VATC\";}          "
+        "org": "VATC"
     },
     {
         "name": "Huynh Di Nguyen",
@@ -359,7 +359,7 @@
         "interests": "ubuntu-vn.org",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:36:\"University of Science of Ho Chi Minh\";}          "
+        "org": "University of Science of Ho Chi Minh"
     },
     {
         "name": "Linh La",
@@ -367,7 +367,7 @@
         "interests": "to learn more about the open source community, what it can offer and what I can do to contribute.",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:3:\"PwC\";}          "
+        "org": "PwC"
     },
     {
         "name": "Nguyen Huynh Trung Kien",
@@ -375,7 +375,7 @@
         "interests": "Updated knowledge.",
         "facebook":"KIEN KNT",
         "twitter":"",
-        "org": "            a:1:{i:0;s:3:\"KNT\";}          "
+        "org": "KNT"
     },
     {
         "name": "duong thi thanh truc",
@@ -383,7 +383,7 @@
         "interests": "I wanna know more about opensource software.",
         "facebook":"duong thi thanh truc",
         "twitter":"",
-        "org": "            a:1:{i:0;s:28:\"university of economics HCMC\";}          "
+        "org": "university of economics HCMC"
     },
     {
         "name": "Hoàng Kim Mai Khôi",
@@ -391,7 +391,7 @@
         "interests": "i want to make new friends and know more about FOSS",
         "facebook":"hkmk3110@gmail.com",
         "twitter":"",
-        "org": "            a:1:{i:0;s:5:\"GNOME\";}          "
+        "org": "GNOME"
     },
     {
         "name": "Tran Duy Khiem",
@@ -399,7 +399,7 @@
         "interests": "know more about IT",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:4:\"USSH\";}          "
+        "org": "USSH"
     },
     {
         "name": "Lê Thi Hồng",
@@ -407,7 +407,7 @@
         "interests": "join and share",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:6:\"BUHCMC\";}          "
+        "org": "BUHCMC"
     },
     {
         "name": "Truong Thi Thuong",
@@ -415,7 +415,7 @@
         "interests": "love",
         "facebook":"thương trương",
         "twitter":"",
-        "org": "            a:1:{i:0;s:45:\"University of social sciences and humannities\";}          "
+        "org": "University of social sciences and humannities"
     },
     {
         "name": "Lê Đặng Huỳnh Châu",
@@ -423,7 +423,7 @@
         "interests": "Biết được nhiều hơn về lĩnh vực phần mềm.",
         "facebook":"huynhchau89@gmail.com",
         "twitter":"",
-        "org": "            a:1:{i:0;s:58:\"Trường Đại học Khoa học Xã hội và Nhân Văn\";}          "
+        "org": "Trường Đại học Khoa học Xã hội và Nhân Văn"
     },
     {
         "name": "thanh thùy",
@@ -431,7 +431,7 @@
         "interests": "knowledge, relationship",
         "facebook":"út cưng",
         "twitter":"",
-        "org": "            a:1:{i:0;s:3:\"BCB\";}          "
+        "org": "BCB"
     },
     {
         "name": "Nguyen Huong Mai",
@@ -439,7 +439,7 @@
         "interests": "come and have more imformation about open software",
         "facebook":"http://www.facebook.com/khoai.kem",
         "twitter":"",
-        "org": "            a:1:{i:0;s:15:\"Open University\";}          "
+        "org": "Open University"
     },
     {
         "name": "ngo thanh thuy",
@@ -447,7 +447,7 @@
         "interests": "...",
         "facebook":"tnngothuy@gmail.com",
         "twitter":"",
-        "org": "            a:1:{i:0;s:41:\"Social sciences anh humanities university\";}          "
+        "org": "Social sciences anh humanities university"
     },
     {
         "name": "Bui Thi Kim Loan",
@@ -455,7 +455,7 @@
         "interests": "I expect to make friend with speakers as well as many lovely friends in other university. I also want to improve interpreting skill and to expend my mind etc.",
         "facebook":"kimloanbl@gmail.com",
         "twitter":"",
-        "org": "            a:1:{i:0;s:4:\"USSH\";}          "
+        "org": "USSH"
     },
     {
         "name": "Lê Trung Hiếu",
@@ -463,7 +463,7 @@
         "interests": "Open source software, the career path and make friend.",
         "facebook":"letrunghieu.k09",
         "twitter":"",
-        "org": "            a:1:{i:0;s:29:\"HCMC University of Technology\";}          "
+        "org": "HCMC University of Technology"
     },
     {
         "name": "Nguyễn Hoài Thương",
@@ -471,7 +471,7 @@
         "interests": "to know the lightweight technology and share the experience of using computer",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:2:\"IR\";}          "
+        "org": "IR"
     },
     {
         "name": "Tran Thi Mai Anh",
@@ -479,7 +479,7 @@
         "interests": "Exchanging language and knowledge , making friend ^^ and be a volunteer",
         "facebook":"meoluoi2302",
         "twitter":"",
-        "org": "            a:1:{i:0;s:8:\"Fossasia\";}          "
+        "org": "Fossasia"
     },
     {
         "name": "Đàm Tuyết Nghi",
@@ -487,7 +487,7 @@
         "interests": "Get to know free software technologies and join volunteer activities",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:20:\"Hong Bang University\";}          "
+        "org": "Hong Bang University"
     },
     {
         "name": "Ha Thi Phuong Thao",
@@ -495,7 +495,7 @@
         "interests": "open software",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:22:\"University of sciences\";}          "
+        "org": "University of sciences"
     },
     {
         "name": "Voòng Trần Kim Anh",
@@ -503,7 +503,7 @@
         "interests": "Knowledge and experience",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:28:\"University of Economics HCMC\";}          "
+        "org": "University of Economics HCMC"
     },
     {
         "name": "Lưu Nhật Nam",
@@ -511,7 +511,7 @@
         "interests": "Building relationship",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:24:\"Foreign Trade University\";}          "
+        "org": "Foreign Trade University"
     },
     {
         "name": "Hoàng Lê Vân Anh",
@@ -519,7 +519,7 @@
         "interests": "I want to know more about open sources, including theirs features, benefits, enterprises in this fields,as well as their influence on over the world.",
         "facebook":"vananh208@gmail.com",
         "twitter":"",
-        "org": "            a:1:{i:0;s:41:\"College of Social Sciences and Humanities\";}          "
+        "org": "College of Social Sciences and Humanities"
     },
     {
         "name": "Nguyen Trong Khang",
@@ -527,7 +527,7 @@
         "interests": "I'm coming with a full hope of expanding open-source software, OS and on other platforms such as smart phones, TVs,... . I want to extend my knowledge more about the world of open-source, Ubuntu, other OSs to be specific, and expect to exploit these more on everyday and profession life as some open-source softwares may come to an end.",
         "facebook":"trongkhang17",
         "twitter":"",
-        "org": "            a:1:{i:0;s:36:\"Ho Chi Minh University of Technology\";}          "
+        "org": "Ho Chi Minh University of Technology"
     },
     {
         "name": "Phan Minh Tuấn",
@@ -535,7 +535,7 @@
         "interests": "Strengthen my knowledge at IT field",
         "facebook":"giladinokid",
         "twitter":"",
-        "org": "            a:1:{i:0;s:19:\"Van Lang University\";}          "
+        "org": "Van Lang University"
     },
     {
         "name": "Lu Ngọc Lan",
@@ -543,7 +543,7 @@
         "interests": "know more about open source software and it's applicability for everyone especially students.",
         "facebook":"http://www.facebook.com/home.php#!/profile.php?id=1795721075",
         "twitter":"",
-        "org": "            a:1:{i:0;s:41:\"university of social science and humanity\";}          "
+        "org": "university of social science and humanity"
     },
     {
         "name": "Nguyen Thi Kim Ngan",
@@ -551,7 +551,7 @@
         "interests": "I want to make freinds and learn more interesting things from volunteer activites.",
         "facebook":"http://www.facebook.com/phannguyentb",
         "twitter":"",
-        "org": "            a:1:{i:0;s:4:\"USSH\";}          "
+        "org": "USSH"
     },
     {
         "name": "Nguyen Thi Thao Nguyen",
@@ -559,7 +559,7 @@
         "interests": "- Learn more information about free and open software",
         "facebook":"",
         "twitter":"",
-        "org": "a:2:{i:0;s:48:\"-Vietnam National University - Ho Chi Minh City\";i:1;s:33:\"University of  Economics and Law.\";}          "
+        "org": "-Vietnam National University - Ho Chi Minh City University of  Economics and Law"
     },
     {
         "name": "Nguyen Tran Cat Vinh",
@@ -567,7 +567,7 @@
         "interests": "I am a volunteer in the event, so I will try my best with my peers to make this event successful :)",
         "facebook":"catvinh216@yahoo.com",
         "twitter":"alwaysmile216",
-        "org": "            a:1:{i:0;s:38:\"University of Economics Hochiminh City\";}          "
+        "org": "University of Economics Hochiminh City"
     },
     {
         "name": "Nguyen Thanh Tung",
@@ -575,7 +575,7 @@
         "interests": "Understand more aspects about IT and woman role in IT industry as well. Fun and friendship cannot be absent, too.",
         "facebook":"nguyenthanhtung",
         "twitter":"vietsechia",
-        "org": "            a:1:{i:0;s:4:\"RMIT\";}          "
+        "org": "RMIT"
     },
     {
         "name": "HHCC",
@@ -591,7 +591,7 @@
         "interests": "Know more about IT and FOSS",
         "facebook":"Tram Tran",
         "twitter":"",
-        "org": "            a:1:{i:0;s:42:\"University of Social Sciences and Humanity\";}          "
+        "org": "University of Social Sciences and Humanity"
     },
     {
         "name": "Nguyễn Thị Lan",
@@ -599,7 +599,7 @@
         "interests": "I expect to know more about information technology that is very necessary now, have a chance to meet and communicate with a lot of friends all over the world, make me more active and dynamic.",
         "facebook":"makila108",
         "twitter":"",
-        "org": "            a:1:{i:0;s:31:\"University of Economics and Law\";}          "
+        "org": "University of Economics and Law"
     },
     {
         "name": "duong thi van anh",
@@ -607,7 +607,7 @@
         "interests": "I expect to know more about open source, and make new friends",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:11:\"translation\";}          "
+        "org": "translation"
     },
     {
         "name": "Kakada Chheang",
@@ -615,7 +615,7 @@
         "interests": "to get the technology and share some experience with all of them there.",
         "facebook":"http://facebook.com/kakada.chheang",
         "twitter":"http://twitter.com/kakadachheang",
-        "org": "            a:1:{i:0;s:7:\"InSTEDD\";}          "
+        "org": "InSTEDD"
     },
     {
         "name": "Nguyen Thi Huong",
@@ -623,7 +623,7 @@
         "interests": "Clearer information about Fossasia.",
         "facebook":"chiaky_colen2003@yahoo.com",
         "twitter":"",
-        "org": "            a:1:{i:0;s:59:\"Hochiminh city University of social sciences and humanities\";}          "
+        "org": "Hochiminh city University of social sciences and humanities"
     },
     {
         "name": "Tran Nguyen Huong Mai",
@@ -631,7 +631,7 @@
         "interests": "information",
         "facebook":"www.facebook.com/trannguyenhuongmai",
         "twitter":"",
-        "org": "            a:1:{i:0;s:8:\"HCM USSH\";}          "
+        "org": "HCM USSH"
     },
     {
         "name": "Pham Thi Anh Nguyet",
@@ -639,7 +639,7 @@
         "interests": "I am a active, friendly and enthusiastic student. I want to join social activities to improve my skills. I want to do part time jobs which concern to my major to obtain knowledge in order to have a good job in future.",
         "facebook":"http://www.facebook.com/gaconchip",
         "twitter":"",
-        "org": "            a:1:{i:0;s:50:\" HCMC University of social sciences and humanities\";}          "
+        "org": " HCMC University of social sciences and humanities"
     },
     {
         "name": "TẠ HOÀNG THỊNH",
@@ -647,7 +647,7 @@
         "interests": "experience",
         "facebook":"Isabel Ta",
         "twitter":"",
-        "org": "            a:1:{i:0;s:4:\"USSH\";}          "
+        "org": "USSH"
     },
     {
         "name": "tran ha my dung",
@@ -655,7 +655,7 @@
         "interests": "I am a friendly,active,enthusiatic and hard-working person.I want to be a volunteer for many programs to save experience and have a good job in the future.",
         "facebook":"",
         "twitter":"http://twitter.com/#!/Meirong1207",
-        "org": "            a:1:{i:0;s:49:\"HCMC University of Social Sciences and Humanities\";}          "
+        "org": "HCMC University of Social Sciences and Humanities"
     },
     {
         "name": "Quynh Nguyen Nhu",
@@ -663,7 +663,7 @@
         "interests": "I'm going to take part in the event as a volunteer, hope that I can save some precious experience.",
         "facebook":"http://www.facebook.com/pages/FacebookVietnam/128076147194#!/profile.php?id=100000254994434",
         "twitter":"",
-        "org": "            a:1:{i:0;s:44:\"University of Social Sciences and Humanities\";}          "
+        "org": "University of Social Sciences and Humanities"
     },
     {
         "name": "hoang thi tuyet hoa",
@@ -671,7 +671,7 @@
         "interests": "i will share anything i know with the program.",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:45:\"university of social sciences and humanities.\";}          "
+        "org": "university of social sciences and humanities"
     },
     {
         "name": "tran thi nhu quynh",
@@ -679,7 +679,7 @@
         "interests": "I expect to know more about FOSSASIA and make friends.",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:11:\"translation\";}          "
+        "org": "translation"
     },
     {
         "name": "Ngo Thi My Tien",
@@ -687,7 +687,7 @@
         "interests": "I am so happy when I am selected to be one of FOSSASIA Volunteers. I will try my best to do this job. I also would like to share with every one about IT.",
         "facebook":"Angelie Ngo",
         "twitter":"",
-        "org": "            a:1:{i:0;s:4:\"USSH\";}          "
+        "org": "USSH"
     },
     {
         "name": "Nguyen Thi Bich Hang",
@@ -695,7 +695,7 @@
         "interests": "i'm very happy to be a member of our organization. i'll try all my best to support for our program more successfully.",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:7:\"student\";}          "
+        "org": "student"
     },
     {
         "name": "Dang Minh Tri",
@@ -703,7 +703,7 @@
         "interests": "I want to attend Fossaia in order to learn more knowledge and experience about teamwork skill.",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:3:\"UEH\";}          "
+        "org": "UEH"
     },
     {
         "name": "nguyen luong hoang lien",
@@ -711,7 +711,7 @@
         "interests": "I expect to know more about FOSSASIA,make friends and to be more confident.",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:11:\"translation\";}          "
+        "org": "translation"
     },
     {
         "name": "Đào Thị Thanh Huyền",
@@ -719,7 +719,7 @@
         "interests": "i expect to know how the IT men build and run their programs of softwares... Moreover, I can learn more from them not only in technology but also in their countries' culture and custom. From that on, I have more chances to update IT information and this help me to share with everyone confidently everywhen we'r chatting... I think that's really a meaningful event and it's my pleasure to be an volunteer for that event. I believe that i will be responsible to get mutual goats.",
         "facebook":"đào huyền đào",
         "twitter":"",
-        "org": "            a:1:{i:0;s:31:\"University of economics and law\";}          "
+        "org": "University of economics and law"
     },
     {
         "name": "Vo Ngoc Bich Tram",
@@ -727,7 +727,7 @@
         "interests": "i want to get many experiences in order to find the good job in my future.so,i decided to send my application to you,with my hope is that i am getting some my own skills.Thanks for your choice.",
         "facebook":"votram85@yahoo.com",
         "twitter":"",
-        "org": "            a:1:{i:0;s:44:\"University of social sciences and humanities\";}          "
+        "org": "University of social sciences and humanities"
     },
     {
         "name": "Nguyễn Công Uyên",
@@ -735,7 +735,7 @@
         "interests": "Begining of Fedora.",
         "facebook":"Daniel Nguyen",
         "twitter":"",
-        "org": "            a:1:{i:0;s:3:\"No.\";}          "
+        "org": "No."
     },
     {
         "name": "Trong Tuan",
@@ -751,7 +751,7 @@
         "interests": "I want to know the specific activities that a volunteer have to do in this program",
         "facebook":"haiannguyen",
         "twitter":"",
-        "org": "            a:1:{i:0;s:19:\"Bankingf University\";}          "
+        "org": "Bankingf University"
     },
     {
         "name": "Nguyen Thi Kim Chi",
@@ -759,7 +759,7 @@
         "interests": "I am a friendly and active student. I want to volunteer for this program  not only to get knowledge of information technology and computer but also to improve my English skills.",
         "facebook":"kimchi20102008@gmail.com",
         "twitter":"",
-        "org": "            a:1:{i:0;s:49:\"HCMC university of social sciences and humanities\";}          "
+        "org": "HCMC university of social sciences and humanities"
     },
     {
         "name": "NGUYEN THI THANH XUAN",
@@ -767,7 +767,7 @@
         "interests": "I hope that i will learn many experiences when I take part in this program. I also want to contribute my a little knowlegde to help this program.",
         "facebook":"hoahongnui787@yahoo.com",
         "twitter":"",
-        "org": "            a:1:{i:0;s:10:\"UNIVERSITY\";}          "
+        "org": "UNIVERSITY"
     },
     {
         "name": "Phu Mỹ Linh",
@@ -775,7 +775,7 @@
         "interests": "- Learning new business chances which is creative, effective, friendly to the environment.",
         "facebook":"http://www.facebook.com/people/Voi-Chet-Doi/100000337691955#!/profile.php?id=100000337691955",
         "twitter":"",
-        "org": "            a:2:{i:0;s:3:\"IYC\";i:1;s:13:\"SAIGON HOTPOT\";}          "
+        "org": "IYC\";i:1;s:13:\"SAIGON HOTPOT"
     },
     {
         "name": "Trần Quốc Long",
@@ -783,7 +783,7 @@
         "interests": "I expect to learing much more experience for my knowledge. Bisides, i can look for new technology for my job after. I am very excited in joining in the event and i hope find many friends.",
         "facebook":"darkdragon2512@yahoo.com (danny chan)",
         "twitter":"",
-        "org": "            a:1:{i:0;s:30:\"International Youth Club (IYC)\";}          "
+        "org": "International Youth Club (IYC"
     },
     {
         "name": "Hoàng Thiên Kim",
@@ -791,7 +791,7 @@
         "interests": "I want to get to know other people and to work in a big organization.",
         "facebook":"http://www.facebook.com/profile.php?id=1838607257",
         "twitter":"",
-        "org": "            a:1:{i:0;s:19:\"DH Ngoại Thương\";}          "
+        "org": "DH Ngoại Thương"
     },
     {
         "name": "trần văn thạnh",
@@ -799,7 +799,7 @@
         "interests": "get more infomation about FOSS.",
         "facebook":"toad chán đời",
         "twitter":"",
-        "org": "            a:1:{i:0;s:44:\"university of social sciences and humanities\";}          "
+        "org": "university of social sciences and humanities"
     },
     {
         "name": "Phạm Nguyễn Việt Anh",
@@ -807,7 +807,7 @@
         "interests": "I'm expect for more knowledge, more friends, more experiences, more happiness and share my abilities with everyone.^^",
         "facebook":"Pham Nguyen Viet Anh",
         "twitter":"",
-        "org": "            a:1:{i:0;s:24:\"foreign trade university\";}          "
+        "org": "foreign trade university"
     },
     {
         "name": "channa ly",
@@ -815,7 +815,7 @@
         "interests": "new technologies",
         "facebook":"facebook.com/ly.channa",
         "twitter":"twitter.com/channaly",
-        "org": "            a:1:{i:0;s:7:\"instedd\";}          "
+        "org": "instedd"
     },
     {
         "name": "channa ly",
@@ -823,7 +823,7 @@
         "interests": "new technologies",
         "facebook":"facebook.com/ly.channa",
         "twitter":"twitter.com/channaly",
-        "org": "            a:1:{i:0;s:7:\"instedd\";}          "
+        "org": "instedd"
     },
     {
         "name": "CHEAVIREAK CHAN",
@@ -831,7 +831,7 @@
         "interests": "How to get clear about open office",
         "facebook":"facebook.com/BoyCC",
         "twitter":"",
-        "org": "            a:1:{i:0;s:30:\"Royal University of Phnom Penh\";}          "
+        "org": "Royal University of Phnom Penh"
     },
     {
         "name": "Alexandre Vitrac",
@@ -839,7 +839,7 @@
         "interests": "- Networking with the FOSS community in HCMC",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:3:\"CSC\";}          "
+        "org": "CSC"
     },
     {
         "name": "Lê Minh Tâm",
@@ -847,7 +847,7 @@
         "interests": "Get new information.",
         "facebook":"tamlm2003",
         "twitter":"",
-        "org": "            a:1:{i:0;s:3:\"SSP\";}          "
+        "org": "SSP"
     },
     {
         "name": "Taro Matsuzawa",
@@ -855,7 +855,7 @@
         "interests": "I want share Firefox or Ruby language.",
         "facebook":"smellman",
         "twitter":"smellman",
-        "org": "            a:1:{i:0;s:9:\"KBMJ Inc.\";}          "
+        "org": "KBMJ Inc."
     },
     {
         "name": "INOSE RUAN",
@@ -863,7 +863,7 @@
         "interests": "New technology, new IT business method.",
         "facebook":"",
         "twitter":"",
-        "org": "            a:2:{i:0;s:6:\"JV-IT.\";i:1;s:3:\"JSC\";}          "
+        "org": "JV-IT.\";i:1;s:3:\"JSC"
     },
     {
         "name": "Huỳnh Phương Khanh",
@@ -871,7 +871,7 @@
         "interests": "knowledge and experience",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:24:\"Foreign Trade University\";}          "
+        "org": "Foreign Trade University"
     },
     {
         "name": "khanh linh",
@@ -879,7 +879,7 @@
         "interests": "i want to meet everybody and make friend with them",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:37:\"university of financial and marketing\";}          "
+        "org": "university of financial and marketing"
     },
     {
         "name": "nguyen duc minh khoi",
@@ -887,7 +887,7 @@
         "interests": "learn more new things about IT world as well as programing",
         "facebook":"ducminhkhoi@gmail.com",
         "twitter":"",
-        "org": "            a:1:{i:0;s:24:\"university of technology\";}          "
+        "org": "university of technology"
     },
     {
         "name": "An Nguyen Pham Xuan",
@@ -895,7 +895,7 @@
         "interests": "open source software.",
         "facebook":"www.facebook.com/nguyen.anan2",
         "twitter":"",
-        "org": "            a:1:{i:0;s:4:\"USSH\";}          "
+        "org": "USSH"
     },
     {
         "name": "tran hoang long",
@@ -903,7 +903,7 @@
         "interests": "experiences in making events.",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:36:\"Ho Chi Minh university of technology\";}          "
+        "org": "Ho Chi Minh university of technology"
     },
     {
         "name": "Hoang Quang Huy",
@@ -911,7 +911,7 @@
         "interests": "-learn more about FOSS apps and  FOSS community in Vietnam",
         "facebook":"http://facebook.com/hqhuy.bk",
         "twitter":"",
-        "org": "            a:1:{i:0;s:30:\"Hanoi University of Technology\";}          "
+        "org": "Hanoi University of Technology"
     },
     {
         "name": "Brad Crittenden",
@@ -919,7 +919,7 @@
         "interests": "Learn more about FOSS in Vietnam.  Available for discussions about Launchpad.net.",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:13:\"Canonical Ltd\";}          "
+        "org": "Canonical Ltd"
     },
     {
         "name": "Lê Ngọc Quốc Huy",
@@ -927,7 +927,7 @@
         "interests": "web application development",
         "facebook":"huylenq",
         "twitter":"huylenq",
-        "org": "            a:1:{i:0;s:46:\"International University (National University)\";}          "
+        "org": "International University (National University"
     },
     {
         "name": "Xuan Huy Ho",
@@ -935,7 +935,7 @@
         "interests": "I'm a volunteer",
         "facebook":"facebook/Myelikell",
         "twitter":"",
-        "org": "            a:1:{i:0;s:4:\"USSH\";}          "
+        "org": "USSH"
     },
     {
         "name": "Paul Wise",
@@ -943,7 +943,7 @@
         "interests": "Debian stuff.",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:6:\"Debian\";}          "
+        "org": "Debian"
     },
     {
         "name": "Jeroen Vermeulen",
@@ -951,7 +951,7 @@
         "interests": "PostgreSQL, Python, C++",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:9:\"Canonical\";}          "
+        "org": "Canonical"
     },
     {
         "name": "Arne Goetje",
@@ -959,7 +959,7 @@
         "interests": "I will teach how to translate Debian into Vietnamese and hope to recruit new translators.",
         "facebook":"http://www.facebook.com/arne.goetje",
         "twitter":"",
-        "org": "            a:1:{i:0;s:6:\"Debian\";}          "
+        "org": "Debian"
     },
     {
         "name": "Mai Thị Thu Trang",
@@ -967,7 +967,7 @@
         "interests": "open software/ meet friends",
         "facebook":"facebook.com/trangmai1108",
         "twitter":"",
-        "org": "            a:1:{i:0;s:3:\"UEH\";}          "
+        "org": "UEH"
     },
     {
         "name": "Lê Hoàng Hà",
@@ -975,7 +975,7 @@
         "interests": "tôi mong muốn được tìm hiểu về:",
         "facebook":"kangarooha@gmail.com",
         "twitter":"",
-        "org": "            a:1:{i:0;s:48:\"Đại học công nghệ thông tin - ĐHQG.HCM\";}          "
+        "org": "Đại học công nghệ thông tin - ĐHQG.HCM"
     },
     {
         "name": "Nguyen Thanh Chieu",
@@ -983,7 +983,7 @@
         "interests": "Biet them ve ma nguon mo, ket ban de duoc giai dap thac mac.",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:13:\"Ca Sau Hoa Ca\";}          "
+        "org": "Ca Sau Hoa Ca"
     },
     {
         "name": "nguyen thi mot",
@@ -991,7 +991,7 @@
         "interests": "toi doi de duoc biet vai thong tin ve software, va phat trien ky nang tieng anh cua minh.",
         "facebook":"ivy nguyen",
         "twitter":"",
-        "org": "            a:1:{i:0;s:10:\"volunteers\";}          "
+        "org": "volunteers"
     },
     {
         "name": "Bui Nghia Thuat",
@@ -999,7 +999,7 @@
         "interests": "Linux",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:12:\"GHP Far East\";}          "
+        "org": "GHP Far East"
     },
     {
         "name": "Trần Cao Nhân",
@@ -1007,7 +1007,7 @@
         "interests": "I want to use open source software for my work. Because it's FREE.",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:4:\"VTTU\";}          "
+        "org": "VTTU"
     },
     {
         "name": "Nguyễn Thùy Diễm",
@@ -1015,7 +1015,7 @@
         "interests": "Hieu them ve ma nguon mở. Hiện hệ thống thư viện cua trường đang ứng dụng mã nguồn mở Koha để hoạt động. Và trong vài năm tới trường sẽ thực hiện triển khai hệ thống mã nguồn mở cho toàn trường. Do vậy tôi mong muốn tham gia để có thể hiểu và tìm thêm những gì mà trường cần để thực hiện được tốt nhất.",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:40:\"Đại học Võ Trường Toản (VTTU)\";}          "
+        "org": "Đại học Võ Trường Toản (VTTU"
     },
     {
         "name": "Nguyen Thanh Tin",
@@ -1023,7 +1023,7 @@
         "interests": "opensource knowledge and knowledge to do business based on Opensource",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:11:\"Sutrixmedia\";}          "
+        "org": "Sutrixmedia"
     },
     {
         "name": "Quoc Khai",
@@ -1031,7 +1031,7 @@
         "interests": "More about FOSS.",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:6:\"HUFLIT\";}          "
+        "org": "HUFLIT"
     },
     {
         "name": "Dominik Stankowski",
@@ -1039,7 +1039,7 @@
         "interests": "Share about the Content Management System TYPO3",
         "facebook":"www.web-essentials.asia/facebook/",
         "twitter":"www.web-essentials.asia/twitter/",
-        "org": "            a:1:{i:0;s:25:\"Web Essentials (Cambodia)\";}          "
+        "org": "Web Essentials (Cambodia"
     },
     {
         "name": "QUOC KHAI",
@@ -1047,7 +1047,7 @@
         "interests": "Latest news about FOSS and what can I use.",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:17:\"HUFLIT UNIVERSITY\";}          "
+        "org": "HUFLIT UNIVERSITY"
     },
     {
         "name": "Lê Hoàng Hà",
@@ -1055,7 +1055,7 @@
         "interests": "Below here are what I expect to know from the conference:",
         "facebook":"kangarooha@gmail.com",
         "twitter":"",
-        "org": "            a:1:{i:0;s:43:\"University of Information Technology - VNUH\";}          "
+        "org": "University of Information Technology - VNUH"
     },
     {
         "name": "Vu Minh Ngoc",
@@ -1063,7 +1063,7 @@
         "interests": "I expect to learn more about Open Source technologies and the new lightweight mobile and desktop solutions as well as how to apply them to my work.",
         "facebook":"www.facebook.com/minhngoc.v",
         "twitter":"www.twitter.com/ngocvm",
-        "org": "            a:1:{i:0;s:38:\"Banking University of Ho Chi Minh city\";}          "
+        "org": "Banking University of Ho Chi Minh city"
     },
     {
         "name": "Hang Bui",
@@ -1071,7 +1071,7 @@
         "interests": "Information about Lightweight Computing & Women in IT",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:2:\"IT\";}          "
+        "org": "IT"
     },
     {
         "name": "Joerg Henning",
@@ -1079,7 +1079,7 @@
         "interests": "Get to know Open Source culture in Vietnam, Networking",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:12:\"Spectos GmbH\";}          "
+        "org": "Spectos GmbH"
     },
     {
         "name": "Barend Scholtus",
@@ -1087,7 +1087,7 @@
         "interests": "Emulator programming and experience in education.",
         "facebook":"barend.scholtus",
         "twitter":"",
-        "org": "            a:1:{i:0;s:23:\"RMIT University Vietnam\";}          "
+        "org": "RMIT University Vietnam"
     },
     {
         "name": "Vo Hong Quan",
@@ -1095,7 +1095,7 @@
         "interests": "Know",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:8:\"Personal\";}          "
+        "org": "Personal"
     },
     {
         "name": "Yutaka Niibe",
@@ -1103,7 +1103,7 @@
         "interests": "GPG key sign party",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:33:\"Free Software Initiative of Japan\";}          "
+        "org": "Free Software Initiative of Japan"
     },
     {
         "name": "Dietrich Ayala",
@@ -1111,7 +1111,7 @@
         "interests": "",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:7:\"Mozilla\";}          "
+        "org": "Mozilla"
     },
     {
         "name": "Lê Quang",
@@ -1119,7 +1119,7 @@
         "interests": "I hope I have some friends at there! :-)",
         "facebook":"facebook.com/lehongquang",
         "twitter":"twitter.com/lehongquang",
-        "org": "            a:1:{i:0;s:9:\"BKIT CLUB\";}          "
+        "org": "BKIT CLUB"
     },
     {
         "name": "nguyen thi ngoc chau",
@@ -1127,7 +1127,7 @@
         "interests": "biêt thêm được nhiều thông tin bổ ích",
         "facebook":"ngoc_chau550@yahoo.com",
         "twitter":"",
-        "org": "            a:1:{i:0;s:6:\"huflit\";}          "
+        "org": "huflit"
     },
     {
         "name": "Tôn Thất Duy Khương",
@@ -1135,7 +1135,7 @@
         "interests": "I want to know about IT as much as posable. To have many plan for me in the future",
         "facebook":"facebook.com/baby.boy2702",
         "twitter":"",
-        "org": "            a:1:{i:0;s:8:\"bkitclub\";}          "
+        "org": "bkitclub"
     },
     {
         "name": "NGUYỄN ĐẶNG HOÀNG TUÂN",
@@ -1143,7 +1143,7 @@
         "interests": "Open Source Promotion Activities in Viet Nam and Asia!",
         "facebook":"tuanndh",
         "twitter":"tuanndh",
-        "org": "            a:1:{i:0;s:5:\"VNOSS\";}          "
+        "org": "VNOSS"
     },
     {
         "name": "Le Huynh Cong Thao",
@@ -1151,7 +1151,7 @@
         "interests": "LAMP",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:11:\"Harvey Nash\";}          "
+        "org": "Harvey Nash"
     },
     {
         "name": "Nguyen Ngoc Binh Minh",
@@ -1159,7 +1159,7 @@
         "interests": "Tôi muốn biết thêm về các ứng dụng trọng tâm trong thị trường hiện nay",
         "facebook":"facebook.com/nnbminh",
         "twitter":"",
-        "org": "            a:1:{i:0;s:36:\"Ho Chi Minh University of technology\";}          "
+        "org": "Ho Chi Minh University of technology"
     },
     {
         "name": "Lâm Chí Nguyện",
@@ -1167,7 +1167,7 @@
         "interests": "Tôi muốn tìm hiểu về các kỹ thuật cài đặt các dịch vụ mạng :Web, Mail, quản trị người dùng, quản lý truy cập mạng, lập trình hệ thống trên linux",
         "facebook":"lcnguyen80@gmail.com",
         "twitter":"",
-        "org": "            a:2:{i:0;s:12:\"Khoa CNTT&TT\";i:1;s:23:\"Đại học Cần Thơ\";}          "
+        "org": "Khoa CNTT&TT\";i:1;s:23:\"Đại học Cần Thơ"
     },
     {
         "name": "Nguyễn Minh Cang",
@@ -1175,7 +1175,7 @@
         "interests": "open source",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:6:\"Netnam\";}          "
+        "org": "Netnam"
     },
     {
         "name": "Huỳnh Trúc Lâm",
@@ -1183,7 +1183,7 @@
         "interests": "open source",
         "facebook":"huynhtruclam",
         "twitter":"",
-        "org": "            a:1:{i:0;s:21:\"Hoya Lens VietNam ltd\";}          "
+        "org": "Hoya Lens VietNam ltd"
     },
     {
         "name": "Nguyễn Thị Huyền Trâm",
@@ -1191,7 +1191,7 @@
         "interests": "Liferay portal",
         "facebook":"nthuyentram",
         "twitter":"",
-        "org": "            a:1:{i:0;s:60:\"Trung tâm công nghệ thông tin và truyền thông TPHCM\";}          "
+        "org": "Trung tâm công nghệ thông tin và truyền thông TPHCM"
     },
     {
         "name": "Huỳnh Thịnh",
@@ -1199,7 +1199,7 @@
         "interests": "Để hiểu biết hơn về Open Source, học hỏi từ bạn bè, khác mời của chương trình.",
         "facebook":"http://www.facebook.com/HuynhThinh",
         "twitter":"",
-        "org": "            a:1:{i:0;s:33:\"Trường ĐH CNTT (ĐH QG.TPHCM)\";}          "
+        "org": "Trường ĐH CNTT (ĐH QG.TPHCM"
     },
     {
         "name": "Duc Ho Viet To",
@@ -1207,7 +1207,7 @@
         "interests": "ubuntu, android and other open source systems",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:8:\"Personal\";}          "
+        "org": "Personal"
     },
     {
         "name": "Nguyen Trung Chinh",
@@ -1215,7 +1215,7 @@
         "interests": "Generic knowledge out the current open source apps/frameworks",
         "facebook":"nguyen.trungchinh",
         "twitter":"ntr9h",
-        "org": "            a:1:{i:0;s:3:\"TPL\";}          "
+        "org": "TPL"
     },
     {
         "name": "Nguyen Bao Toan Khoa",
@@ -1223,7 +1223,7 @@
         "interests": "intend to joint",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:35:\"HANDICO Finance Joint Stock Company\";}          "
+        "org": "HANDICO Finance Joint Stock Company"
     },
     {
         "name": "Đặng Lâm Phương",
@@ -1231,7 +1231,7 @@
         "interests": "To learn new things and to network with different technical people from every corner of the world",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:8:\"TIG Corp\";}          "
+        "org": "TIG Corp"
     },
     {
         "name": "Trương Xuân Việt",
@@ -1239,7 +1239,7 @@
         "interests": "GAMA - a GIS platform for Simulation.",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:33:\"Cantho University Software Center\";}          "
+        "org": "Cantho University Software Center"
     },
     {
         "name": "Mai Xuan Vu",
@@ -1247,7 +1247,7 @@
         "interests": "Online Services, Virtual Private Server",
         "facebook":"infomaivu@gmail.com",
         "twitter":"",
-        "org": "            a:1:{i:0;s:10:\"NETNAM HCM\";}          "
+        "org": "NETNAM HCM"
     },
     {
         "name": "Walter Heck",
@@ -1255,7 +1255,7 @@
         "interests": "Speaking on zabbix",
         "facebook":"http://facebook.com/tribily",
         "twitter":"@tribily",
-        "org": "            a:1:{i:0;s:7:\"Tribily\";}          "
+        "org": "Tribily"
     },
     {
         "name": "Phạm Lê Khánh Hải",
@@ -1263,7 +1263,7 @@
         "interests": "Mã nguồn mở phát triển",
         "facebook":"rex.riddle",
         "twitter":"",
-        "org": "            a:1:{i:0;s:31:\"Đại học Sư Phạm TP. HCM\";}          "
+        "org": "Đại học Sư Phạm TP. HCM"
     },
     {
         "name": "Lưu Phạm Văn Khanh",
@@ -1271,7 +1271,7 @@
         "interests": "Extend relationship",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:12:\"CSC Viet Nam\";}          "
+        "org": "CSC Viet Nam"
     },
     {
         "name": "Hoàng Thanh Luân",
@@ -1279,7 +1279,7 @@
         "interests": "học hỏi công nghệ mới",
         "facebook":"facebook/jbhoangluan",
         "twitter":"",
-        "org": "            a:1:{i:0;s:5:\"hcmup\";}          "
+        "org": "hcmup"
     },
     {
         "name": "Nguyen Phan Anh",
@@ -1287,7 +1287,7 @@
         "interests": "",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:28:\"Hungvuong university of HCMC\";}          "
+        "org": "Hungvuong university of HCMC"
     },
     {
         "name": "Trương Xuân Tính",
@@ -1295,7 +1295,7 @@
         "interests": "I want to know more about FOSS activity in Vietnam",
         "facebook":"",
         "twitter":"",
-        "org": "            a:2:{i:0;s:23:\"Evolution Solutions Co.\";i:1;s:4:\"Ltd.\";}          "
+        "org": "Evolution Solutions Co.\";i:1;s:4:\"Ltd"
     },
     {
         "name": "Đinh Hồng Châu",
@@ -1303,7 +1303,7 @@
         "interests": "Android programming issues.",
         "facebook":"http://www.facebook.com/people/Dinh-Hong-Chau/100000695635825",
         "twitter":"http://twitter.com/chaudh76",
-        "org": "            a:1:{i:0;s:40:\"University of Information Technology VNU\";}          "
+        "org": "University of Information Technology VNU"
     },
     {
         "name": "Tan Nguyen",
@@ -1311,7 +1311,7 @@
         "interests": "I want to know issue about Android and new technology",
         "facebook":"tannguyenanh@gmail.com",
         "twitter":"tannauit",
-        "org": "            a:1:{i:0;s:14:\"TLI-consulting\";}          "
+        "org": "TLI-consulting"
     },
     {
         "name": "Tran Vu Tat binh",
@@ -1319,7 +1319,7 @@
         "interests": "Android",
         "facebook":"tvtbinh.bino@gmail.com",
         "twitter":"tvtb",
-        "org": "            a:1:{i:0;s:10:\"SkunkWorks\";}          "
+        "org": "SkunkWorks"
     },
     {
         "name": "Sitthykun LY",
@@ -1327,7 +1327,7 @@
         "interests": "Joomla",
         "facebook":"",
         "twitter":"sitthykun",
-        "org": "            a:1:{i:0;s:7:\"Arocore\";}          "
+        "org": "Arocore"
     },
     {
         "name": "nam pham",
@@ -1335,7 +1335,7 @@
         "interests": "",
         "facebook":"",
         "twitter":"namphammbm",
-        "org": "            a:1:{i:0;s:3:\"mbm\";}          "
+        "org": "mbm"
     },
     {
         "name": "ana nov",
@@ -1343,7 +1343,7 @@
         "interests": "",
         "facebook":"angkhmergroup",
         "twitter":"ananov",
-        "org": "            a:1:{i:0;s:15:\"ang khmer group\";}          "
+        "org": "ang khmer group"
     },
     {
         "name": "Lê Thanh Bình",
@@ -1351,7 +1351,7 @@
         "interests": "",
         "facebook":"http://www.facebook.com/binh.hmu",
         "twitter":"",
-        "org": "            a:1:{i:0;s:24:\"Đại học Y Hà Nội\";}          "
+        "org": "Đại học Y Hà Nội"
     },
     {
         "name": "leijuping",
@@ -1359,7 +1359,7 @@
         "interests": "",
         "facebook":"fgh647",
         "twitter":"tuv083",
-        "org": "            a:1:{i:0;s:6:\"nop734\";}          "
+        "org": "nop734"
     },
     {
         "name": "Le Thanh Huy",
@@ -1367,7 +1367,7 @@
         "interests": "",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:17:\"Cantho University\";}          "
+        "org": "Cantho University"
     },
     {
         "name": "cloutletsa",
@@ -1375,7 +1375,7 @@
         "interests": "",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:6:\"vwx271\";}          "
+        "org": "vwx271"
     },
     {
         "name": "Linh Hoang Van Thanh",
@@ -1383,7 +1383,7 @@
         "interests": "",
         "facebook":"Caca Mahangita",
         "twitter":"",
-        "org": "            a:1:{i:0;s:70:\"University of Social Sciences and Humanities - HCM National University\";}          "
+        "org": "University of Social Sciences and Humanities - HCM National University"
     },
     {
         "name": "bendang89",
@@ -1391,7 +1391,7 @@
         "interests": "",
         "facebook":"nop156",
         "twitter":"abc101",
-        "org": "            a:1:{i:0;s:6:\"abc789\";}          "
+        "org": "abc789"
     },
     {
         "name": "Nicolas Embleton",
@@ -1407,7 +1407,7 @@
         "interests": "",
         "facebook":"http://facebook.com/maria.duyenanhdell",
         "twitter":"",
-        "org": "            a:1:{i:0;s:55:\"Student at University of Social Sciences and Humanities\";}          "
+        "org": "Student at University of Social Sciences and Humanities"
     },
     {
         "name": "Manish Yadav",
@@ -1415,7 +1415,7 @@
         "interests": "",
         "facebook":"facebook.com/mani.yadv",
         "twitter":"maniyadv",
-        "org": "            a:1:{i:0;s:7:\"Sapient\";}          "
+        "org": "Sapient"
     },
     {
         "name": "Jeffery",
@@ -1423,7 +1423,7 @@
         "interests": "",
         "facebook":"elmeera",
         "twitter":"elmeera",
-        "org": "            a:1:{i:0;s:7:\"elmeera\";}          "
+        "org": "elmeera"
     },
     {
         "name": "Yahbinie",
@@ -1431,7 +1431,7 @@
         "interests": "",
         "facebook":"tobbey",
         "twitter":"tobbey",
-        "org": "            a:1:{i:0;s:6:\"tobbey\";}          "
+        "org": "tobbey"
     },
     {
         "name": "Ngoc",
@@ -1439,7 +1439,7 @@
         "interests": "",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:3:\"wae\";}          "
+        "org": "wae"
     },
     {
         "name": "nikannikan98",
@@ -1447,7 +1447,7 @@
         "interests": "",
         "facebook":"pqr199",
         "twitter":"lmn336",
-        "org": "            a:1:{i:0;s:6:\"tuv041\";}          "
+        "org": "tuv041"
     },
     {
         "name": "hunlylie2",
@@ -1455,7 +1455,7 @@
         "interests": "",
         "facebook":"pqr165",
         "twitter":"lmn965",
-        "org": "            a:1:{i:0;s:6:\"qrs327\";}          "
+        "org": "qrs327"
     },
     {
         "name": "Ho Thi Hai Yen",
@@ -1463,7 +1463,7 @@
         "interests": "",
         "facebook":"Hai Yen Ho",
         "twitter":"",
-        "org": "            a:1:{i:0;s:44:\"University of Social Sciences and Humanities\";}          "
+        "org": "University of Social Sciences and Humanities"
     },
     {
         "name": "Henry",
@@ -1471,7 +1471,7 @@
         "interests": "",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:3:\"non\";}          "
+        "org": "non"
     },
     {
         "name": "nigeniek",
@@ -1479,7 +1479,7 @@
         "interests": "",
         "facebook":"opq777",
         "twitter":"hij392",
-        "org": "            a:1:{i:0;s:6:\"def340\";}          "
+        "org": "def340"
     },
     {
         "name": "wulingling",
@@ -1487,7 +1487,7 @@
         "interests": "",
         "facebook":"hij054",
         "twitter":"tuv268",
-        "org": "            a:1:{i:0;s:6:\"cde853\";}          "
+        "org": "cde853"
     },
     {
         "name": "Long Hiep",
@@ -1495,7 +1495,7 @@
         "interests": "",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:2:\"YP\";}          "
+        "org": "YP"
     },
     {
         "name": "xiaoxiaoli1",
@@ -1503,7 +1503,7 @@
         "interests": "",
         "facebook":"opq293",
         "twitter":"fgh610",
-        "org": "            a:1:{i:0;s:6:\"def533\";}          "
+        "org": "def533"
     },
     {
         "name": "akkude61",
@@ -1511,7 +1511,7 @@
         "interests": "",
         "facebook":"nop983",
         "twitter":"efg262",
-        "org": "            a:1:{i:0;s:6:\"vwx357\";}          "
+        "org": "vwx357"
     },
     {
         "name": "Dinh Hoang Mai",
@@ -1519,7 +1519,7 @@
         "interests": "",
         "facebook":"",
         "twitter":"",
-        "org": "            a:1:{i:0;s:24:\"University of Technology\";}          "
+        "org": "University of Technology"
     },
     {
         "name": "xzhongwang",
@@ -1527,7 +1527,7 @@
         "interests": "",
         "facebook":"klm915",
         "twitter":"rst240",
-        "org": "            a:1:{i:0;s:6:\"mno830\";}          "
+        "org": "mno830"
     },
     {
         "name": "Pheng Saochheng",
@@ -1535,7 +1535,7 @@
         "interests": "",
         "facebook":"pheng_saochheng",
         "twitter":"saochheng",
-        "org": "            a:1:{i:0;s:45:\"Youth Partner In Development and Peace (YPDP)\";}          "
+        "org": "Youth Partner In Development and Peace (YPDP"
     },
     {
         "name": "crjb1842",
@@ -1543,7 +1543,7 @@
         "interests": "",
         "facebook":"efg603",
         "twitter":"fgh589",
-        "org": "            a:1:{i:0;s:6:\"qrs167\";}          "
+        "org": "qrs167"
     },
     {
         "name": "Sven Berg Ryen",
@@ -1551,7 +1551,7 @@
         "interests": "",
         "facebook":"http://facebook.com/svenbergryen",
         "twitter":"svenbergryen",
-        "org": "            a:1:{i:0;s:30:\"Maxus Media & Software Pte Ltd\";}          "
+        "org": "Maxus Media & Software Pte Ltd"
     },
     {
         "name": "Be Chantra",
