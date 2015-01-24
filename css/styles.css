@@ -125,6 +125,9 @@ table tbody tr:nth-child(even) td {
 table tr th {
 	background: #ffffcc;
 }
+.table>tbody>tr:hover>td{
+	background-color: #f6f6f6;
+}
 
 .logo-col > div {
 	margin:10px 0px 10px 0px;
