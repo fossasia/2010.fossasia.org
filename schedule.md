@@ -49,25 +49,10 @@ We plan to have up to 4 sessions in parallel with approximately 65 talks and wor
 
 Based on our vision of fostering "Lightweight Computing and Women in IT", FOSSASIA 2010 will cover the following topics:
 
-**Track** **Topics**
-
- **Track 1: Lightweight Technologies** 
-
-- Lightweight desktop technologies and coding
-- HTML5 and the Web Technologies
-- OSS & Mobile Devices , platform for Mobile devices (Android, Chrome OS, Maemo, Symbian, Moblin, Bada) and software solution for Tablets / Smartbook s
-- Handling larger data structures with lighter “Not only SQL”
-
- **Track 2: Growing the community, expanding Openness** 
-
-- Open source hardware (Thin clients, Routers,Mini-Computers)
-- Libre Graphics, Creative Commons
-- Free culture communities
-
- **Track 3: OpenOffice.org/ODF** 
-
-- OpenOffice.org, Open Document Format and the future of Office
-
- **Track 4: Debconf** 
-
-- Debian Conference, Mini-Debconf Asia
+{:.table}
+Track | Topics
+--- | ---
+**Track 1: Lightweight Technologies**|- Lightweight desktop technologies and coding<br/>- HTML5 and the Web Technologies<br/>- OSS & Mobile Devices , platform for Mobile devices (Android, Chrome OS, Maemo, Symbian, Moblin, Bada) and software solution for Tablets / Smartbooks<br/>- Handling larger data structures with lighter “Not only SQL”
+**Track 2: Growing the community, expanding Openness**|- Open source hardware (Thin clients, Routers,Mini-Computers)<br/>- Libre Graphics, Creative Commons<br/>- Free culture communities
+**Track 3: OpenOffice.org/ODF**|- OpenOffice.org, Open Document Format and the future of Office
+**Track 4: Debconf**|- Debian Conference, Mini-Debconf Asia
