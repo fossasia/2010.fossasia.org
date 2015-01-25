@@ -11,7 +11,8 @@
 		{% for member in site.data.coming %}
 			{% if member %}
 			<tr>
-				<td class="b">{{ member.name }}</td>
+				<td class="member-email">{{ member.email }}</td>
+				<td class="b member-name">{{ member.name }}</td>
 				<td class="b">{{ member.org }}</td>
 				<td class="b">
 					<ul class="table-social-links">
@@ -32,6 +33,8 @@
 		{% endfor %}
 	</tbody>
 </table>
+
+<script src="http://crypto-js.googlecode.com/svn/tags/3.0.2/build/rollups/md5.js"></script>
 <script>
 	fbs = $('.social-facebook');
 	tws = $('.social-twitter');
@@ -65,5 +68,12 @@
 			}
 			t.attr('href', url)
 		}
+	};
+	var emails = $('.member-email')
+	for (var i = 0; i < emails.length; i++) {
+		var email = $(emails[i]);
+    	var emailHash = CryptoJS.MD5(email.html()).toString();
+    	var corres_name = $('.member-name')[i]
+    	$(corres_name).prepend($('<img>', { src:'http://www.gravatar.com/avatar/' + emailHash }));
 	};
 </script>
