@@ -2,11 +2,10 @@ language: ruby
 
 before_install:
   - gem install github-pages --no-rdoc --no-ri
-  - gem install html-proofer
 
 rvm:
 - 2.1
-script: jekyll build && htmlproof ./_site
+script: jekyll build
 
 branches:
   only:
