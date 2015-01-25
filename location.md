@@ -6,10 +6,10 @@ title: Location
 
 Ho Chi Minh City (Saigon) (Vietnamese: Thành phố Hồ Chí Minh Thanh Pho Ho Chi Minh) is the largest city in Vietnam. It was known as Prey Nokor before being annexed by the Vietnamese in the 17th century. Under the name Saigon, it was the capital of the French colony of Cochinchina and later of the independent state of South Vietnam from 1954 to 1975. In 1976, Saigon merged with the surrounding province of Gia Định and was officially renamed Hồ Chí Minh City (although the name Sài Gòn – formally known as District 1 – is still commonly used.)
 
-{:.scale-img}
-![Tập tin:Saigonnightskyline.jpg][1]
+![Photo comes from Commons - Saigon in night][1]
 
-Saigon Ho Chi Minh City's Downtown at night  
+Saigon Ho Chi Minh City's Downtown at night
+
 The city center is situated on the banks of the Saigon River, 60 kilometers (37 mi) from the South China Sea and 1,760 kilometers (1,094 mi) south of Hanoi, the capital of Vietnam. The metropolitan area, which consists of Hồ Chí Minh City metro area, Thủ Dầu Một, Di An, Bien Hoa and surrounding towns, is populated by more than 9 million people, making it the most populous metropolitan area in Vietnam and Indochina. The Greater Ho Chi Minh City Metropolitan Area, a metropolitan area covering most parts of Dong Nam Bo plus Tien Giang and Long An provinces under planning will have an area of 30,000 square kilometers with a population of 20 million inhabitants by 2020.
 
 Ho Chi Minh City is located at 10°45′N, 106°40′E in the southeastern region of Vietnam. The average elevation is 19 meters (63 ft) above sea level. The city covers an area of 2,095 km² (809 sq mi) (0.63% of the surface of Vietnam). The city has a tropical climate, with an average humidity of 75%. A year is divided into two distinct seasons. The rainy season, with an average rainfall of about 1,800 millimetres (71 in) annually (about 150 rainy days per year), usually begins in May and ends in late November. The dry season lasts from December to April. The average temperature is 28 °C (82 °F), the highest temperature sometimes reaches 39 °C (102 °F) around noon in late April, while the lowest may fall below 16 °C (61 °F) in the early mornings of late December.
@@ -211,7 +211,7 @@ The Cathedral "Duc Ba" and Reunification Palace
 * [http://wikitravel.org/en/Saigon](http://wikitravel.org/en/Saigon)  
 * [http://en.wikipedia.org/wiki/Ho_Chi_Minh_City](http://en.wikipedia.org/wiki/Ho_Chi_Minh_City) 
 
-[1]: http://upload.wikimedia.org/wikipedia/commons/e/e7/Saigonnightskyline.jpg
+[1]: {{ site.baseurl }}/images/saigon.jpg
 [2]: http://en.wikipedia.org/wiki/Precipitation_%28meteorology%29 "Precipitation (meteorology)"
 [3]: http://en.wikipedia.org/wiki/Tan_Son_Nhat_International_Airport "Tan Son Nhat International Airport"
 [4]: http://en.wikipedia.org/wiki/Beijing "Beijing"
