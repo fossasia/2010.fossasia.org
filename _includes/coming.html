@@ -11,7 +11,7 @@
 		{% for member in site.data.coming %}
 			{% if member %}
 			<tr>
-				<td class="member-email">{{ member.email }}</td>
+				<td class="member-email">{{ member.ehash }}</td>
 				<td class="b member-name">{{ member.name }}</td>
 				<td class="b">{{ member.org }}</td>
 				<td class="b">
@@ -69,11 +69,10 @@
 			t.attr('href', url)
 		}
 	};
-	var emails = $('.member-email')
-	for (var i = 0; i < emails.length; i++) {
-		var email = $(emails[i]);
-    	var emailHash = CryptoJS.MD5(email.html()).toString();
+	var hashes = $('.member-email')
+	for (var i = 0; i < hashes.length; i++) {
+		var hash = $(hashes[i]).html();
     	var corres_name = $('.member-name')[i]
-    	$(corres_name).prepend($('<img>', { src:'http://www.gravatar.com/avatar/' + emailHash }));
+    	$(corres_name).prepend($('<img>', { src:'http://www.gravatar.com/avatar/' + hash.toString()  + '?s=100'}));
 	};
 </script>
