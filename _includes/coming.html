@@ -72,7 +72,8 @@
 	var hashes = $('.member-email')
 	for (var i = 0; i < hashes.length; i++) {
 		var hash = $(hashes[i]).html();
-    	var corres_name = $('.member-name')[i]
-    	$(corres_name).prepend($('<img>', { src:'http://www.gravatar.com/avatar/' + hash.toString()  + '?s=100'}));
+    	var corres_name = $('.member-name')[i];
+    	$img = $('<img>', { src:'http://www.gravatar.com/avatar/' + hash.toString()  + '?s=100', style:'width: 70% !important; margin-left: 15%'});
+    	$(corres_name).prepend($img);
 	};
 </script>
