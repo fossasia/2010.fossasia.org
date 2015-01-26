@@ -4,6 +4,17 @@ fossasia10
 ============
 Small and simple, markedown website - running Jekyll
 
-See it there:
+Running
+---
+Use the following command to run -
+
+```sh
+jekyll serve --baseurl=""
+```
+then go to http://localhost:4000 to view the site
+
+Live
+---
+See it here:
 http://fossasia.github.io/fossasia10
 
