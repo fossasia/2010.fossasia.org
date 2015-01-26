@@ -182,3 +182,10 @@ table tr th {
 	font-size: 20px;
 	margin-right: 10px;
 }
+.member-name p {
+	text-align: center;
+	margin-top: 10px;
+}
+.member-email {
+	display:none;
+}
