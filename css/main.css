@@ -884,7 +884,19 @@ th, td
   margin-left: 15px;
 }
 
+.page-footer {
+  margin-top: 30px;
+  padding: 15px 35px;
+  width: 100%;
+  background-color: black;
+  color: white;
+  height: 50px;
+}
 
+.page-footer > span {
+  display:block;
+  float:right;
+}
 
 
 
