@@ -36,8 +36,6 @@
 
 <script src="http://crypto-js.googlecode.com/svn/tags/3.0.2/build/rollups/md5.js"></script>
 <script>
-	fbs = $('.social-facebook');
-	tws = $('.social-twitter');
 	
 	if (typeof String.prototype.startsWith != 'function') {
 		// see below for better implementation!
@@ -45,34 +43,34 @@
 			return this.indexOf(str) == 0;
 		};
 	}
-	
-	for (var i = 0; i < fbs.length; i++) {
-		var f = $(fbs[i])
-		hrf = f.attr('href')
-		if (hrf != '' ) {
-			url = ''
-			if (!hrf.startsWith('http://facebook.com')) {
-				url = 'http://facebook.com/'+hrf
+
+	var fbs = $('.social-facebook');
+	var tws = $('.social-twitter');
+
+	function fixUrls (ax, furl) {
+		for (var i = 0; i < ax.length; i++) {
+			var f = $(ax[i]);
+			hrf = f.attr('href');
+			if (hrf != '' ) {
+				url = ''
+				if (!hrf.startsWith(furl)) {
+					url = furl + '/' + hrf
+				}
+				f.attr('href', url)
 			}
-			f.attr('href', url)
-		}
-	};
-	
-	for (var i = 0; i < tws.length; i++) {
-		var t = $(tws[i])
-		hrf = t.attr('href')
-		if (hrf != ''){
-			url = ''
-			if (!hrf.startsWith('http://twitter.com')) {
-				url = 'http://twitter.com/'+hrf
-			}
-			t.attr('href', url)
-		}
-	};
-	var hashes = $('.member-email')
+		};
+	}
+
+	fixUrls(fbs, 'http://www.facebook.com');
+	fixUrls(tws, 'http://twitter.com');
+
+	var hashes = $('.member-email');
+
 	for (var i = 0; i < hashes.length; i++) {
+
 		var hash = $(hashes[i]).html();
     	var corres_name = $('.member-name')[i];
+
     	$img = $('<img>', { src:'http://www.gravatar.com/avatar/' + hash.toString()  + '?s=100', style:'width: 70% !important; margin-left: 15%'});
     	$(corres_name).prepend($img);
 	};
