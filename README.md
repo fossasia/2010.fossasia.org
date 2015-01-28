@@ -9,6 +9,8 @@ Running
 Use the following command to run -
 
 ```sh
+npm install
+gulp default
 jekyll serve --baseurl=""
 ```
 then go to http://localhost:4000 to view the site

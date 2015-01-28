@@ -1,11 +1,15 @@
-language: ruby
+language: node_js
 
 before_install:
   - gem install github-pages --no-rdoc --no-ri
 
-rvm:
-- 2.1
-script: jekyll build
+node_js: 
+  - "0.10"
+  - "0.11"
+
+script: 
+  - ./node_modules/.bin/gulp default
+  - jekyll build
 
 branches:
   only:
