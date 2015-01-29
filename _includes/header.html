@@ -47,6 +47,13 @@ $(window).load(function(){
 	margin-top: 10px;
 }
 
+#gradient_top{
+		background: -webkit-linear-gradient(rgba(31,31,31,1), rgba(61,61,61,1), rgba(31,31,31,1)); 
+		background: -o-linear-gradient(rgba(31,31,31,1), rgba(61,61,61,1), rgba(31,31,31,1)); 
+		background: -moz-linear-gradient(rgba(31,31,31,1), rgba(61,61,61,1), rgba(31,31,31,1)); 
+		background: linear-gradient(rgba(31,31,31,1), rgba(61,61,61,1), rgba(31,31,31,1));
+}
+
 </style>
 
 <header id="header">
@@ -74,7 +81,7 @@ $(window).load(function(){
 	</div><!--/.top-bar-->
 
 	<!-- navbar -->
-	<nav class="navbar navbar-inverse" role="banner">
+	<nav class="navbar navbar-inverse" id="gradient_top" role="banner">
 		<div class="container">
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">

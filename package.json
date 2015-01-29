@@ -18,5 +18,9 @@
   "devDependencies": {
     "gulp": "^3.8.10",
     "gulp-imagemin": "^2.1.0"
+  },
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "gulp-imagemin": "^2.1.0"
   }
 }
